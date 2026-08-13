@@ -2601,7 +2601,7 @@
             "last_commit": "2026-05-29T06:40:50Z",
             "owner": "ivoronin",
             "repo": "TomatoBar",
-            "stars": 3469
+            "stars": 3470
           }
         },
         {
@@ -5098,7 +5098,7 @@
             "last_commit": "2024-11-12T15:32:40Z",
             "owner": "wulkano",
             "repo": "Kap",
-            "stars": 19315
+            "stars": 19318
           }
         },
         {
@@ -5236,7 +5236,7 @@
             "last_commit": "2024-07-12T21:27:10Z",
             "owner": "ts1",
             "repo": "BLEUnlock",
-            "stars": 4339
+            "stars": 4341
           }
         },
         {
@@ -5618,7 +5618,7 @@
             "last_commit": "2025-09-20T20:28:17Z",
             "owner": "jordanbaird",
             "repo": "Ice",
-            "stars": 29249
+            "stars": 29250
           }
         },
         {
@@ -5632,7 +5632,7 @@
             "last_commit": "2026-06-04T04:27:45Z",
             "owner": "FelixKratz",
             "repo": "SketchyBar",
-            "stars": 12193
+            "stars": 12194
           }
         },
         {
@@ -5928,7 +5928,7 @@
             "last_commit": "2026-08-11T17:42:33Z",
             "owner": "waydabber",
             "repo": "BetterDisplay",
-            "stars": 33136
+            "stars": 33139
           }
         },
         {
@@ -7070,7 +7070,7 @@
             "last_commit": "2026-08-12T15:58:34Z",
             "owner": "tisfeng",
             "repo": "Easydict",
-            "stars": 14203
+            "stars": 14207
           }
         },
         {
@@ -7720,7 +7720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:01:35.014Z",
+    "last_updated": "2026-08-13T07:15:25.359Z",
     "original_repository": "SKaplanOfficial/Mac-Menubar-Megalist",
     "original_repository_sha": "b6d67627271be7a3ff22c1af30be5c56a9e805c3",
     "enhanced_repository": "enhansome/enhansome-Mac-Menubar-Megalist",
