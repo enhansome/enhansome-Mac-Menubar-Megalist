@@ -395,7 +395,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-10T13:50:03Z",
+            "last_commit": "2026-08-14T11:48:14Z",
             "owner": "sorkila",
             "repo": "tintpad",
             "stars": 8
@@ -926,7 +926,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T09:05:23Z",
+            "last_commit": "2026-08-14T09:05:55Z",
             "owner": "joshghent",
             "repo": "gifbar",
             "stars": 44
@@ -991,7 +991,7 @@
             "last_commit": "2026-07-22T11:40:28Z",
             "owner": "ddddxxx",
             "repo": "LyricsX",
-            "stars": 5202
+            "stars": 5201
           }
         },
         {
@@ -1471,7 +1471,7 @@
             "last_commit": "2026-08-07T08:43:38Z",
             "owner": "SokoloffA",
             "repo": "radiola",
-            "stars": 417
+            "stars": 420
           }
         },
         {
@@ -1651,7 +1651,7 @@
             "last_commit": "2024-09-14T12:24:30Z",
             "owner": "aiaf",
             "repo": "Stillcolor",
-            "stars": 1190
+            "stars": 1192
           }
         },
         {
@@ -2089,7 +2089,7 @@
             "last_commit": "2026-08-13T20:45:38Z",
             "owner": "pakerwreah",
             "repo": "Calendr",
-            "stars": 2308
+            "stars": 2309
           }
         },
         {
@@ -2103,7 +2103,7 @@
             "last_commit": "2026-07-01T13:43:24Z",
             "owner": "LunarBar-app",
             "repo": "LunarBar",
-            "stars": 1446
+            "stars": 1447
           }
         },
         {
@@ -2455,7 +2455,7 @@
             "last_commit": "2026-07-26T02:01:45Z",
             "owner": "DamascenoRafael",
             "repo": "reminders-menubar",
-            "stars": 3877
+            "stars": 3876
           }
         },
         {
@@ -2601,7 +2601,7 @@
             "last_commit": "2026-05-29T06:40:50Z",
             "owner": "ivoronin",
             "repo": "TomatoBar",
-            "stars": 3474
+            "stars": 3475
           }
         },
         {
@@ -2685,7 +2685,7 @@
             "last_commit": "2026-07-13T07:07:28Z",
             "owner": "YYUUGGOO",
             "repo": "Cloud",
-            "stars": 51
+            "stars": 52
           }
         },
         {
@@ -5036,7 +5036,7 @@
             "last_commit": "2026-08-10T20:54:00Z",
             "owner": "amebalabs",
             "repo": "TRex",
-            "stars": 1875
+            "stars": 1877
           }
         },
         {
@@ -5098,7 +5098,7 @@
             "last_commit": "2024-11-12T15:32:40Z",
             "owner": "wulkano",
             "repo": "Kap",
-            "stars": 19318
+            "stars": 19324
           }
         },
         {
@@ -5236,7 +5236,7 @@
             "last_commit": "2024-07-12T21:27:10Z",
             "owner": "ts1",
             "repo": "BLEUnlock",
-            "stars": 4344
+            "stars": 4348
           }
         },
         {
@@ -5618,7 +5618,7 @@
             "last_commit": "2025-09-20T20:28:17Z",
             "owner": "jordanbaird",
             "repo": "Ice",
-            "stars": 29267
+            "stars": 29271
           }
         },
         {
@@ -5632,7 +5632,7 @@
             "last_commit": "2026-06-04T04:27:45Z",
             "owner": "FelixKratz",
             "repo": "SketchyBar",
-            "stars": 12196
+            "stars": 12204
           }
         },
         {
@@ -5920,7 +5920,7 @@
             "last_commit": "2026-08-11T17:42:33Z",
             "owner": "waydabber",
             "repo": "BetterDisplay",
-            "stars": 33158
+            "stars": 33173
           }
         },
         {
@@ -5934,7 +5934,7 @@
             "last_commit": "2026-02-25T11:20:24Z",
             "owner": "actuallymentor",
             "repo": "battery",
-            "stars": 7121
+            "stars": 7120
           }
         },
         {
@@ -5948,7 +5948,7 @@
             "last_commit": "2026-08-11T20:50:04Z",
             "owner": "jacklandrin",
             "repo": "OnlySwitch",
-            "stars": 5879
+            "stars": 5885
           }
         },
         {
@@ -5962,7 +5962,7 @@
             "last_commit": "2024-02-19T12:57:56Z",
             "owner": "odlp",
             "repo": "bluesnooze",
-            "stars": 2664
+            "stars": 2665
           }
         },
         {
@@ -5976,7 +5976,7 @@
             "last_commit": "2026-06-07T07:07:54Z",
             "owner": "vincentneo",
             "repo": "LosslessSwitcher",
-            "stars": 1919
+            "stars": 1920
           }
         },
         {
@@ -6046,7 +6046,7 @@
             "last_commit": "2024-02-29T01:05:59Z",
             "owner": "r-thomson",
             "repo": "Nightfall",
-            "stars": 561
+            "stars": 562
           }
         },
         {
@@ -6102,7 +6102,7 @@
             "last_commit": "2025-04-18T17:01:18Z",
             "owner": "Sub0X",
             "repo": "Siliv",
-            "stars": 260
+            "stars": 261
           }
         },
         {
@@ -6200,7 +6200,7 @@
             "last_commit": "2022-10-31T10:28:11Z",
             "owner": "mik3sw",
             "repo": "OneClick",
-            "stars": 57
+            "stars": 58
           }
         },
         {
@@ -6836,7 +6836,7 @@
             "last_commit": "2026-08-11T20:50:04Z",
             "owner": "jacklandrin",
             "repo": "OnlySwitch",
-            "stars": 5879
+            "stars": 5885
           }
         },
         {
@@ -7059,10 +7059,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T15:58:34Z",
+            "last_commit": "2026-08-15T03:02:58Z",
             "owner": "tisfeng",
             "repo": "Easydict",
-            "stars": 14214
+            "stars": 14221
           }
         },
         {
@@ -7504,7 +7504,7 @@
             "last_commit": "2026-05-11T01:44:46Z",
             "owner": "dmarcotte",
             "repo": "easy-move-resize",
-            "stars": 1329
+            "stars": 1328
           }
         }
       ],
@@ -7712,7 +7712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T07:12:50.560Z",
+    "last_updated": "2026-08-15T06:23:17.571Z",
     "original_repository": "SKaplanOfficial/Mac-Menubar-Megalist",
     "original_repository_sha": "b6d67627271be7a3ff22c1af30be5c56a9e805c3",
     "enhanced_repository": "enhansome/enhansome-Mac-Menubar-Megalist",
