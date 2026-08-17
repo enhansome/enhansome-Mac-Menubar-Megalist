@@ -297,7 +297,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-16T06:22:16Z",
+            "last_commit": "2026-08-16T14:12:08Z",
             "owner": "0x2E",
             "repo": "GitStatus",
             "stars": 29
@@ -361,6 +361,20 @@
         },
         {
           "node_type": "item",
+          "title": "Tintpad",
+          "description": "by Erik Nielsen — Hotkey launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running — Free, open source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-14T11:48:14Z",
+            "owner": "sorkila",
+            "repo": "tintpad",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Virtualbox Menulet",
           "description": null,
           "children": [],
@@ -385,20 +399,6 @@
             "owner": "qiushihe",
             "repo": "emacs-launcher",
             "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tintpad",
-          "description": "by Erik Nielsen — Hotkey launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running — Free, open source",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-14T11:48:14Z",
-            "owner": "sorkila",
-            "repo": "tintpad",
-            "stars": 9
           }
         },
         {
@@ -977,7 +977,7 @@
             "last_commit": "2026-06-10T08:58:49Z",
             "owner": "kyleneideck",
             "repo": "BackgroundMusic",
-            "stars": 19237
+            "stars": 19233
           }
         },
         {
@@ -991,7 +991,7 @@
             "last_commit": "2026-07-22T11:40:28Z",
             "owner": "ddddxxx",
             "repo": "LyricsX",
-            "stars": 5201
+            "stars": 5202
           }
         },
         {
@@ -1061,7 +1061,7 @@
             "last_commit": "2026-07-28T16:06:44Z",
             "owner": "nbolar",
             "repo": "PlayStatus",
-            "stars": 183
+            "stars": 184
           }
         },
         {
@@ -2049,7 +2049,7 @@
             "last_commit": "2023-10-20T06:10:47Z",
             "owner": "fayazara",
             "repo": "hawa",
-            "stars": 55
+            "stars": 54
           }
         },
         {
@@ -2089,7 +2089,7 @@
             "last_commit": "2026-08-13T20:45:38Z",
             "owner": "pakerwreah",
             "repo": "Calendr",
-            "stars": 2309
+            "stars": 2312
           }
         },
         {
@@ -2455,7 +2455,7 @@
             "last_commit": "2026-07-26T02:01:45Z",
             "owner": "DamascenoRafael",
             "repo": "reminders-menubar",
-            "stars": 3876
+            "stars": 3877
           }
         },
         {
@@ -2601,7 +2601,7 @@
             "last_commit": "2026-05-29T06:40:50Z",
             "owner": "ivoronin",
             "repo": "TomatoBar",
-            "stars": 3476
+            "stars": 3477
           }
         },
         {
@@ -3298,7 +3298,7 @@
             "last_commit": "2026-06-11T16:24:21Z",
             "owner": "felixblome",
             "repo": "easy-ethernet-icon",
-            "stars": 92
+            "stars": 93
           }
         },
         {
@@ -4150,7 +4150,7 @@
             "last_commit": "2023-10-23T09:53:08Z",
             "owner": "vincelwt",
             "repo": "chatgpt-mac",
-            "stars": 6264
+            "stars": 6265
           }
         },
         {
@@ -4296,7 +4296,7 @@
             "last_commit": "2026-07-23T01:34:28Z",
             "owner": "ksterx",
             "repo": "MenubarCC",
-            "stars": 3
+            "stars": 4
           }
         }
       ],
@@ -4521,7 +4521,7 @@
           "repo_info": {
             "archived": false,
             "language": "Makefile",
-            "last_commit": "2026-08-13T02:50:10Z",
+            "last_commit": "2026-08-16T16:31:11Z",
             "owner": "dlh",
             "repo": "Pasteboard-Reset",
             "stars": 0
@@ -4937,6 +4937,20 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Semulov",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2021-04-03T03:21:56Z",
+            "owner": "kainjow",
+            "repo": "Semulov",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
           "title": "WebDrop",
           "description": null,
           "children": [],
@@ -4947,20 +4961,6 @@
             "owner": "JustinFincher",
             "repo": "WebDrop",
             "stars": 116
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Semulov",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2021-04-03T03:21:56Z",
-            "owner": "kainjow",
-            "repo": "Semulov",
-            "stars": 115
           }
         },
         {
@@ -5098,7 +5098,7 @@
             "last_commit": "2024-11-12T15:32:40Z",
             "owner": "wulkano",
             "repo": "Kap",
-            "stars": 19323
+            "stars": 19326
           }
         },
         {
@@ -5236,7 +5236,7 @@
             "last_commit": "2024-07-12T21:27:10Z",
             "owner": "ts1",
             "repo": "BLEUnlock",
-            "stars": 4352
+            "stars": 4355
           }
         },
         {
@@ -5250,7 +5250,7 @@
             "last_commit": "2026-07-01T00:51:25Z",
             "owner": "bsharper",
             "repo": "atv-desktop-remote",
-            "stars": 568
+            "stars": 569
           }
         },
         {
@@ -5618,7 +5618,7 @@
             "last_commit": "2025-09-20T20:28:17Z",
             "owner": "jordanbaird",
             "repo": "Ice",
-            "stars": 29276
+            "stars": 29281
           }
         },
         {
@@ -5632,7 +5632,7 @@
             "last_commit": "2026-06-04T04:27:45Z",
             "owner": "FelixKratz",
             "repo": "SketchyBar",
-            "stars": 12212
+            "stars": 12214
           }
         },
         {
@@ -5646,7 +5646,7 @@
             "last_commit": "2023-11-30T13:45:27Z",
             "owner": "Mortennn",
             "repo": "Dozer",
-            "stars": 8719
+            "stars": 8717
           }
         },
         {
@@ -5920,7 +5920,7 @@
             "last_commit": "2026-08-11T17:42:33Z",
             "owner": "waydabber",
             "repo": "BetterDisplay",
-            "stars": 33184
+            "stars": 33200
           }
         },
         {
@@ -5934,7 +5934,7 @@
             "last_commit": "2026-02-25T11:20:24Z",
             "owner": "actuallymentor",
             "repo": "battery",
-            "stars": 7123
+            "stars": 7127
           }
         },
         {
@@ -5976,7 +5976,7 @@
             "last_commit": "2026-06-07T07:07:54Z",
             "owner": "vincentneo",
             "repo": "LosslessSwitcher",
-            "stars": 1921
+            "stars": 1922
           }
         },
         {
@@ -6548,7 +6548,7 @@
             "last_commit": "2026-07-01T21:45:31Z",
             "owner": "johnste",
             "repo": "finicky",
-            "stars": 5022
+            "stars": 5023
           }
         },
         {
@@ -6864,7 +6864,7 @@
             "last_commit": "2026-03-13T14:20:49Z",
             "owner": "ParthJadhav",
             "repo": "Verve",
-            "stars": 857
+            "stars": 856
           }
         },
         {
@@ -7059,10 +7059,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-16T05:01:45Z",
+            "last_commit": "2026-08-17T02:35:03Z",
             "owner": "tisfeng",
             "repo": "Easydict",
-            "stars": 14225
+            "stars": 14235
           }
         },
         {
@@ -7712,7 +7712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T06:26:03.362Z",
+    "last_updated": "2026-08-17T06:37:36.652Z",
     "original_repository": "SKaplanOfficial/Mac-Menubar-Megalist",
     "original_repository_sha": "b6d67627271be7a3ff22c1af30be5c56a9e805c3",
     "enhanced_repository": "enhansome/enhansome-Mac-Menubar-Megalist",
