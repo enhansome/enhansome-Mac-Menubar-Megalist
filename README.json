@@ -118,7 +118,7 @@
             "last_commit": "2025-02-02T20:12:34Z",
             "owner": "turkenh",
             "repo": "KubeContext",
-            "stars": 429
+            "stars": 428
           }
         },
         {
@@ -347,6 +347,20 @@
         },
         {
           "node_type": "item",
+          "title": "Tintpad",
+          "description": "by Erik Nielsen — Hotkey launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running — Free, open source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-18T05:44:30Z",
+            "owner": "sorkila",
+            "repo": "tintpad",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
           "title": "FileWatch",
           "description": null,
           "children": [],
@@ -356,20 +370,6 @@
             "last_commit": "2018-05-18T16:39:29Z",
             "owner": "jawngee",
             "repo": "FileWatch",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tintpad",
-          "description": "by Erik Nielsen — Hotkey launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running — Free, open source",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-14T11:48:14Z",
-            "owner": "sorkila",
-            "repo": "tintpad",
             "stars": 11
           }
         },
@@ -977,7 +977,7 @@
             "last_commit": "2026-06-10T08:58:49Z",
             "owner": "kyleneideck",
             "repo": "BackgroundMusic",
-            "stars": 19233
+            "stars": 19235
           }
         },
         {
@@ -991,7 +991,7 @@
             "last_commit": "2026-07-22T11:40:28Z",
             "owner": "ddddxxx",
             "repo": "LyricsX",
-            "stars": 5202
+            "stars": 5203
           }
         },
         {
@@ -1061,7 +1061,7 @@
             "last_commit": "2026-07-28T16:06:44Z",
             "owner": "nbolar",
             "repo": "PlayStatus",
-            "stars": 184
+            "stars": 186
           }
         },
         {
@@ -1471,7 +1471,7 @@
             "last_commit": "2026-08-07T08:43:38Z",
             "owner": "SokoloffA",
             "repo": "radiola",
-            "stars": 421
+            "stars": 422
           }
         },
         {
@@ -2089,7 +2089,7 @@
             "last_commit": "2026-08-13T20:45:38Z",
             "owner": "pakerwreah",
             "repo": "Calendr",
-            "stars": 2312
+            "stars": 2313
           }
         },
         {
@@ -2455,7 +2455,7 @@
             "last_commit": "2026-07-26T02:01:45Z",
             "owner": "DamascenoRafael",
             "repo": "reminders-menubar",
-            "stars": 3877
+            "stars": 3878
           }
         },
         {
@@ -2601,7 +2601,7 @@
             "last_commit": "2026-05-29T06:40:50Z",
             "owner": "ivoronin",
             "repo": "TomatoBar",
-            "stars": 3477
+            "stars": 3481
           }
         },
         {
@@ -3130,7 +3130,7 @@
             "last_commit": "2026-08-11T21:08:11Z",
             "owner": "gechr",
             "repo": "WhichSpace",
-            "stars": 800
+            "stars": 802
           }
         },
         {
@@ -4006,7 +4006,7 @@
             "last_commit": "2025-05-27T05:33:53Z",
             "owner": "projectstorm",
             "repo": "dynamouse",
-            "stars": 277
+            "stars": 278
           }
         },
         {
@@ -4220,7 +4220,7 @@
             "last_commit": "2026-07-21T16:41:53Z",
             "owner": "peterdsp",
             "repo": "PromptBar",
-            "stars": 47
+            "stars": 48
           }
         },
         {
@@ -4296,7 +4296,7 @@
             "last_commit": "2026-07-23T01:34:28Z",
             "owner": "ksterx",
             "repo": "MenubarCC",
-            "stars": 4
+            "stars": 5
           }
         }
       ],
@@ -4520,8 +4520,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Makefile",
-            "last_commit": "2026-08-16T16:31:11Z",
+            "language": "Objective-C",
+            "last_commit": "2026-08-18T02:36:48Z",
             "owner": "dlh",
             "repo": "Pasteboard-Reset",
             "stars": 0
@@ -4749,7 +4749,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T16:25:30Z",
+            "last_commit": "2026-08-17T16:25:18Z",
             "owner": "aorumbayev",
             "repo": "tinybar",
             "stars": 11
@@ -5036,7 +5036,7 @@
             "last_commit": "2026-08-10T20:54:00Z",
             "owner": "amebalabs",
             "repo": "TRex",
-            "stars": 1879
+            "stars": 1881
           }
         },
         {
@@ -5098,7 +5098,7 @@
             "last_commit": "2024-11-12T15:32:40Z",
             "owner": "wulkano",
             "repo": "Kap",
-            "stars": 19326
+            "stars": 19330
           }
         },
         {
@@ -5236,7 +5236,7 @@
             "last_commit": "2024-07-12T21:27:10Z",
             "owner": "ts1",
             "repo": "BLEUnlock",
-            "stars": 4355
+            "stars": 4356
           }
         },
         {
@@ -5618,7 +5618,7 @@
             "last_commit": "2025-09-20T20:28:17Z",
             "owner": "jordanbaird",
             "repo": "Ice",
-            "stars": 29281
+            "stars": 29297
           }
         },
         {
@@ -5632,7 +5632,7 @@
             "last_commit": "2026-06-04T04:27:45Z",
             "owner": "FelixKratz",
             "repo": "SketchyBar",
-            "stars": 12214
+            "stars": 12213
           }
         },
         {
@@ -5821,7 +5821,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-10T12:38:26Z",
+            "last_commit": "2026-08-18T05:32:38Z",
             "owner": "sorkila",
             "repo": "lockpaw",
             "stars": 143
@@ -5920,7 +5920,7 @@
             "last_commit": "2026-08-11T17:42:33Z",
             "owner": "waydabber",
             "repo": "BetterDisplay",
-            "stars": 33200
+            "stars": 33214
           }
         },
         {
@@ -5934,7 +5934,7 @@
             "last_commit": "2026-02-25T11:20:24Z",
             "owner": "actuallymentor",
             "repo": "battery",
-            "stars": 7127
+            "stars": 7126
           }
         },
         {
@@ -5948,7 +5948,7 @@
             "last_commit": "2026-08-11T20:50:04Z",
             "owner": "jacklandrin",
             "repo": "OnlySwitch",
-            "stars": 5887
+            "stars": 5888
           }
         },
         {
@@ -5962,7 +5962,7 @@
             "last_commit": "2024-02-19T12:57:56Z",
             "owner": "odlp",
             "repo": "bluesnooze",
-            "stars": 2665
+            "stars": 2667
           }
         },
         {
@@ -6074,7 +6074,7 @@
             "last_commit": "2025-11-18T22:12:33Z",
             "owner": "glinford",
             "repo": "dns-easy-switcher",
-            "stars": 356
+            "stars": 357
           }
         },
         {
@@ -6107,6 +6107,20 @@
         },
         {
           "node_type": "item",
+          "title": "LightsOut",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-11-21T13:49:57Z",
+            "owner": "AlonX2",
+            "repo": "LightsOut",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
           "title": "WidgetToggler",
           "description": null,
           "children": [],
@@ -6117,20 +6131,6 @@
             "owner": "sieren",
             "repo": "WidgetToggler",
             "stars": 126
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LightsOut",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-11-21T13:49:57Z",
-            "owner": "AlonX2",
-            "repo": "LightsOut",
-            "stars": 125
           }
         },
         {
@@ -6228,7 +6228,7 @@
             "last_commit": "2026-03-02T22:45:40Z",
             "owner": "whuan132",
             "repo": "AIBattery-Charge-Limiter",
-            "stars": 39
+            "stars": 40
           }
         },
         {
@@ -6548,7 +6548,7 @@
             "last_commit": "2026-07-01T21:45:31Z",
             "owner": "johnste",
             "repo": "finicky",
-            "stars": 5023
+            "stars": 5025
           }
         },
         {
@@ -6593,7 +6593,7 @@
           "repo_info": {
             "archived": false,
             "language": "Objective-C",
-            "last_commit": "2021-11-10T11:19:54Z",
+            "last_commit": "2026-08-18T01:53:44Z",
             "owner": "xiaozi",
             "repo": "awake-app",
             "stars": 126
@@ -6836,7 +6836,7 @@
             "last_commit": "2026-08-11T20:50:04Z",
             "owner": "jacklandrin",
             "repo": "OnlySwitch",
-            "stars": 5887
+            "stars": 5888
           }
         },
         {
@@ -6850,7 +6850,7 @@
             "last_commit": "2024-09-21T02:37:56Z",
             "owner": "gbammc",
             "repo": "Thor",
-            "stars": 1320
+            "stars": 1321
           }
         },
         {
@@ -7059,10 +7059,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-17T02:35:03Z",
+            "last_commit": "2026-08-17T08:26:12Z",
             "owner": "tisfeng",
             "repo": "Easydict",
-            "stars": 14235
+            "stars": 14247
           }
         },
         {
@@ -7572,7 +7572,7 @@
             "last_commit": "2026-07-26T17:28:32Z",
             "owner": "NotWadeGrimridge",
             "repo": "PingPlace",
-            "stars": 353
+            "stars": 354
           }
         },
         {
@@ -7712,7 +7712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T06:37:36.652Z",
+    "last_updated": "2026-08-18T06:29:25.991Z",
     "original_repository": "SKaplanOfficial/Mac-Menubar-Megalist",
     "original_repository_sha": "b6d67627271be7a3ff22c1af30be5c56a9e805c3",
     "enhanced_repository": "enhansome/enhansome-Mac-Menubar-Megalist",
