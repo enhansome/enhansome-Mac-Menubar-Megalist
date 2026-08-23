@@ -81,7 +81,7 @@
             "last_commit": "2026-03-21T12:54:03Z",
             "owner": "tonsky",
             "repo": "AnyBar",
-            "stars": 6037
+            "stars": 6038
           }
         },
         {
@@ -1032,7 +1032,7 @@
                 "last_commit": "2026-06-10T08:58:49Z",
                 "owner": "kyleneideck",
                 "repo": "BackgroundMusic",
-                "stars": 19241
+                "stars": 19246
               }
             },
             {
@@ -1122,7 +1122,7 @@
                 "last_commit": "2026-08-21T15:40:39Z",
                 "owner": "nbolar",
                 "repo": "PlayStatus",
-                "stars": 188
+                "stars": 189
               }
             },
             {
@@ -1761,7 +1761,7 @@
             "last_commit": "2024-09-14T12:24:30Z",
             "owner": "aiaf",
             "repo": "Stillcolor",
-            "stars": 1196
+            "stars": 1198
           }
         },
         {
@@ -2205,10 +2205,10 @@
                 "archived": false,
                 "id": 324267700,
                 "language": "Swift",
-                "last_commit": "2026-08-20T20:21:10Z",
+                "last_commit": "2026-08-22T14:44:26Z",
                 "owner": "pakerwreah",
                 "repo": "Calendr",
-                "stars": 2316
+                "stars": 2317
               }
             },
             {
@@ -2223,7 +2223,7 @@
                 "last_commit": "2026-07-01T13:43:24Z",
                 "owner": "LunarBar-app",
                 "repo": "LunarBar",
-                "stars": 1453
+                "stars": 1452
               }
             },
             {
@@ -2596,7 +2596,7 @@
                 "last_commit": "2026-07-26T02:01:45Z",
                 "owner": "DamascenoRafael",
                 "repo": "reminders-menubar",
-                "stars": 3883
+                "stars": 3887
               }
             },
             {
@@ -4373,7 +4373,7 @@
                 "last_commit": "2023-12-23T19:38:01Z",
                 "owner": "sonnylazuardi",
                 "repo": "chat-ai-desktop",
-                "stars": 1998
+                "stars": 1997
               }
             },
             {
@@ -4537,7 +4537,7 @@
                 "last_commit": "2026-01-26T14:38:21Z",
                 "owner": "lukepistrol",
                 "repo": "TimeMachineStatus",
-                "stars": 338
+                "stars": 339
               }
             },
             {
@@ -4758,7 +4758,7 @@
                 "archived": false,
                 "id": 22389432,
                 "language": "Objective-C",
-                "last_commit": "2026-08-21T14:55:25Z",
+                "last_commit": "2026-08-22T17:21:27Z",
                 "owner": "dlh",
                 "repo": "Pasteboard-Reset",
                 "stars": 0
@@ -5382,7 +5382,7 @@
                     "last_commit": "2024-11-12T15:32:40Z",
                     "owner": "wulkano",
                     "repo": "Kap",
-                    "stars": 19332
+                    "stars": 19333
                   }
                 },
                 {
@@ -5536,7 +5536,7 @@
                 "last_commit": "2024-07-12T21:27:10Z",
                 "owner": "ts1",
                 "repo": "BLEUnlock",
-                "stars": 4359
+                "stars": 4361
               }
             },
             {
@@ -5947,7 +5947,7 @@
                 "last_commit": "2025-09-20T20:28:17Z",
                 "owner": "jordanbaird",
                 "repo": "Ice",
-                "stars": 29350
+                "stars": 29359
               }
             },
             {
@@ -5962,7 +5962,7 @@
                 "last_commit": "2026-06-04T04:27:45Z",
                 "owner": "FelixKratz",
                 "repo": "SketchyBar",
-                "stars": 12239
+                "stars": 12251
               }
             },
             {
@@ -5977,7 +5977,7 @@
                 "last_commit": "2023-11-30T13:45:27Z",
                 "owner": "Mortennn",
                 "repo": "Dozer",
-                "stars": 8712
+                "stars": 8713
               }
             },
             {
@@ -6032,6 +6032,21 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Holeberry",
+              "description": "by Pedro Vieira — Monitor and control your Pi-hole instances from the menu bar — Free, open source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1265408951,
+                "language": "Swift",
+                "last_commit": "2026-08-22T20:37:49Z",
+                "owner": "pedrovieira",
+                "repo": "Holeberry",
+                "stars": 52
+              }
+            },
             {
               "node_type": "item",
               "title": "IPInfo",
@@ -6274,7 +6289,7 @@
                 "last_commit": "2026-08-18T21:57:21Z",
                 "owner": "waydabber",
                 "repo": "BetterDisplay",
-                "stars": 33268
+                "stars": 33280
               }
             },
             {
@@ -6304,7 +6319,7 @@
                 "last_commit": "2026-08-21T19:03:11Z",
                 "owner": "jacklandrin",
                 "repo": "OnlySwitch",
-                "stars": 5893
+                "stars": 5894
               }
             },
             {
@@ -6334,7 +6349,7 @@
                 "last_commit": "2026-06-07T07:07:54Z",
                 "owner": "vincentneo",
                 "repo": "LosslessSwitcher",
-                "stars": 1932
+                "stars": 1933
               }
             },
             {
@@ -6379,7 +6394,7 @@
                 "last_commit": "2023-12-19T13:14:55Z",
                 "owner": "xiaogdgenuine",
                 "repo": "Doll",
-                "stars": 1145
+                "stars": 1146
               }
             },
             {
@@ -6936,7 +6951,7 @@
                     "last_commit": "2026-07-01T21:45:31Z",
                     "owner": "johnste",
                     "repo": "finicky",
-                    "stars": 5033
+                    "stars": 5036
                   }
                 },
                 {
@@ -7078,6 +7093,21 @@
                     "last_commit": "2017-11-11T19:03:54Z",
                     "owner": "dougn",
                     "repo": "HalfCaff",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "McAwake",
+                  "description": "by taufiqxr — Keep your Mac awake even with the lid closed, no external display needed — Free, open source",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1305511197,
+                    "language": "Swift",
+                    "last_commit": "2026-07-26T05:48:53Z",
+                    "owner": "taufiqxr",
+                    "repo": "McAwake",
                     "stars": 4
                   }
                 },
@@ -7239,7 +7269,7 @@
                 "last_commit": "2026-08-21T19:03:11Z",
                 "owner": "jacklandrin",
                 "repo": "OnlySwitch",
-                "stars": 5893
+                "stars": 5894
               }
             },
             {
@@ -7455,10 +7485,10 @@
                     "archived": false,
                     "id": 566323731,
                     "language": "Swift",
-                    "last_commit": "2026-08-22T03:30:35Z",
+                    "last_commit": "2026-08-23T04:20:40Z",
                     "owner": "tisfeng",
                     "repo": "Easydict",
-                    "stars": 14289
+                    "stars": 14298
                   }
                 },
                 {
@@ -8153,10 +8183,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T06:25:16.213Z",
+    "last_updated": "2026-08-23T06:26:39.910Z",
     "original_repository": "SKaplanOfficial/Mac-Menubar-Megalist",
     "original_repository_id": 737710679,
-    "original_repository_sha": "b6d67627271be7a3ff22c1af30be5c56a9e805c3",
+    "original_repository_sha": "1356d291b778bed91c769e052fa4e7275b281345",
     "enhanced_repository": "enhansome/enhansome-Mac-Menubar-Megalist",
     "enhanced_repository_description": null,
     "title": "Awesome Mac Menubar Megalist with stars"
