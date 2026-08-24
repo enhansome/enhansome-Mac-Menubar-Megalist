@@ -378,7 +378,7 @@
             "archived": false,
             "id": 1272963269,
             "language": "Swift",
-            "last_commit": "2026-08-18T05:44:30Z",
+            "last_commit": "2026-08-24T08:46:45Z",
             "owner": "sorkila",
             "repo": "tintpad",
             "stars": 12
@@ -688,6 +688,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "snippets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115585039,
+                "language": "Python",
+                "last_commit": "2017-12-31T18:26:51Z",
+                "owner": "adeebshihadeh",
+                "repo": "snippets",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Code/Text Snippets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "BitActions",
               "description": null,
               "children": [],
@@ -870,6 +892,28 @@
           "description": null,
           "node_type": "group",
           "title": "Git & GitHub"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Brewlet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239395816,
+                "language": "Swift",
+                "last_commit": "2024-06-17T12:52:53Z",
+                "owner": "zkokaja",
+                "repo": "Brewlet",
+                "stars": 449
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Package Management"
         }
       ],
       "title": "Developer Utilities"
@@ -1032,7 +1076,7 @@
                 "last_commit": "2026-06-10T08:58:49Z",
                 "owner": "kyleneideck",
                 "repo": "BackgroundMusic",
-                "stars": 19244
+                "stars": 19246
               }
             },
             {
@@ -1047,7 +1091,7 @@
                 "last_commit": "2026-07-22T11:40:28Z",
                 "owner": "ddddxxx",
                 "repo": "LyricsX",
-                "stars": 5206
+                "stars": 5207
               }
             },
             {
@@ -1761,7 +1805,7 @@
             "last_commit": "2024-09-14T12:24:30Z",
             "owner": "aiaf",
             "repo": "Stillcolor",
-            "stars": 1200
+            "stars": 1201
           }
         },
         {
@@ -2223,7 +2267,7 @@
                 "last_commit": "2026-07-01T13:43:24Z",
                 "owner": "LunarBar-app",
                 "repo": "LunarBar",
-                "stars": 1452
+                "stars": 1453
               }
             },
             {
@@ -2375,6 +2419,28 @@
                 "repo": "MoonWatch",
                 "stars": 0
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Meetings",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 176306837,
+                    "language": "Swift",
+                    "last_commit": "2021-02-15T11:05:11Z",
+                    "owner": "nicolai92",
+                    "repo": "meetings",
+                    "stars": 10
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Meetings"
             }
           ],
           "description": null,
@@ -2544,6 +2610,35 @@
           "description": null,
           "node_type": "group",
           "title": "Notes"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Clip",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 438458584,
+                    "language": "Swift",
+                    "last_commit": "2021-12-16T02:37:10Z",
+                    "owner": "nkalupahana",
+                    "repo": "Clip",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Audio Notes"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Notifications"
         },
         {
           "children": [
@@ -3293,10 +3388,10 @@
                 "archived": false,
                 "id": 45073916,
                 "language": "Swift",
-                "last_commit": "2026-08-24T00:38:02Z",
+                "last_commit": "2026-08-24T11:57:06Z",
                 "owner": "gechr",
                 "repo": "WhichSpace",
-                "stars": 806
+                "stars": 808
               }
             },
             {
@@ -3326,7 +3421,7 @@
                 "last_commit": "2026-08-14T02:25:42Z",
                 "owner": "foamzou",
                 "repo": "ITraffic-monitor-for-mac",
-                "stars": 665
+                "stars": 666
               }
             },
             {
@@ -4527,6 +4622,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Freehand",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 54820522,
+                "language": "Swift",
+                "last_commit": "2017-06-17T14:36:47Z",
+                "owner": "wddwycc",
+                "repo": "Freehand",
+                "stars": 102
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Art"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "TimeMachineStatus",
               "description": null,
               "children": [],
@@ -4838,6 +4955,21 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Currency Ticker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 381494847,
+                "language": "Python",
+                "last_commit": "2021-07-16T11:17:00Z",
+                "owner": "aerfio",
+                "repo": "macos-exchange-rate-widget",
+                "stars": 1
+              }
+            },
             {
               "children": [
                 {
@@ -5293,6 +5425,28 @@
                 "repo": "PicUp",
                 "stars": 0
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Drop2Download",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 275570741,
+                    "language": "Swift",
+                    "last_commit": "2020-08-04T08:28:55Z",
+                    "owner": "diatoming",
+                    "repo": "Drop2Download",
+                    "stars": 7
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Video Download"
             }
           ],
           "description": null,
@@ -5315,7 +5469,7 @@
                     "last_commit": "2026-08-10T20:54:00Z",
                     "owner": "amebalabs",
                     "repo": "TRex",
-                    "stars": 1893
+                    "stars": 1894
                   }
                 },
                 {
@@ -5536,7 +5690,7 @@
                 "last_commit": "2024-07-12T21:27:10Z",
                 "owner": "ts1",
                 "repo": "BLEUnlock",
-                "stars": 4365
+                "stars": 4366
               }
             },
             {
@@ -5847,6 +6001,43 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "LeaderKey",
+              "description": "by Mikkel Malmber — The faster than your launcher launcher — Free, open source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 841362262,
+                "language": "Swift",
+                "last_commit": "2026-03-02T10:05:08Z",
+                "owner": "mikker",
+                "repo": "LeaderKey",
+                "stars": 2268
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Keyboard Shortcuts"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RatioBar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194301560,
+                "language": "HTML",
+                "last_commit": "2023-01-04T03:56:20Z",
+                "owner": "stursby",
+                "repo": "ratiobar",
+                "stars": 1
+              }
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -5947,7 +6138,7 @@
                 "last_commit": "2025-09-20T20:28:17Z",
                 "owner": "jordanbaird",
                 "repo": "Ice",
-                "stars": 29369
+                "stars": 29373
               }
             },
             {
@@ -5962,7 +6153,7 @@
                 "last_commit": "2026-06-04T04:27:45Z",
                 "owner": "FelixKratz",
                 "repo": "SketchyBar",
-                "stars": 12256
+                "stars": 12258
               }
             },
             {
@@ -6041,10 +6232,10 @@
                 "archived": false,
                 "id": 1265408951,
                 "language": "Swift",
-                "last_commit": "2026-08-23T18:45:27Z",
+                "last_commit": "2026-08-24T12:21:01Z",
                 "owner": "pedrovieira",
                 "repo": "Holeberry",
-                "stars": 60
+                "stars": 67
               }
             },
             {
@@ -6128,11 +6319,55 @@
                 "repo": "gapa",
                 "stars": 3
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SwiftBar",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 307192103,
+                    "language": "Swift",
+                    "last_commit": "2026-08-15T19:09:01Z",
+                    "owner": "swiftbar",
+                    "repo": "SwiftBar",
+                    "stars": 4451
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Plugin-Based Apps"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Organization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MenuBarCodeReader",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123344941,
+                "language": "C#",
+                "last_commit": "2022-02-09T20:56:14Z",
+                "owner": "msioen",
+                "repo": "MenuBarCodeReader",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "QR"
         },
         {
           "children": [
@@ -6175,7 +6410,7 @@
                 "archived": false,
                 "id": 1186242047,
                 "language": "Swift",
-                "last_commit": "2026-08-18T05:32:38Z",
+                "last_commit": "2026-08-24T08:59:34Z",
                 "owner": "sorkila",
                 "repo": "lockpaw",
                 "stars": 143
@@ -6203,6 +6438,21 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Quick Dimensions Menubar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 323114846,
+                "language": "Python",
+                "last_commit": "2021-03-05T17:30:42Z",
+                "owner": "lambdamusic",
+                "repo": "Quick-Dimensions-Menubar",
+                "stars": 1
+              }
+            },
             {
               "children": [
                 {
@@ -6289,7 +6539,7 @@
                 "last_commit": "2026-08-18T21:57:21Z",
                 "owner": "waydabber",
                 "repo": "BetterDisplay",
-                "stars": 33298
+                "stars": 33307
               }
             },
             {
@@ -6319,7 +6569,7 @@
                 "last_commit": "2026-08-21T19:03:11Z",
                 "owner": "jacklandrin",
                 "repo": "OnlySwitch",
-                "stars": 5895
+                "stars": 5893
               }
             },
             {
@@ -6334,7 +6584,7 @@
                 "last_commit": "2024-02-19T12:57:56Z",
                 "owner": "odlp",
                 "repo": "bluesnooze",
-                "stars": 2671
+                "stars": 2672
               }
             },
             {
@@ -6394,7 +6644,7 @@
                 "last_commit": "2023-12-19T13:14:55Z",
                 "owner": "xiaogdgenuine",
                 "repo": "Doll",
-                "stars": 1145
+                "stars": 1146
               }
             },
             {
@@ -6424,7 +6674,7 @@
                 "last_commit": "2024-02-29T01:05:59Z",
                 "owner": "r-thomson",
                 "repo": "Nightfall",
-                "stars": 562
+                "stars": 563
               }
             },
             {
@@ -6941,6 +7191,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Stillcolor",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 765202650,
+                    "language": "Swift",
+                    "last_commit": "2024-09-14T12:24:30Z",
+                    "owner": "aiaf",
+                    "repo": "Stillcolor",
+                    "stars": 1201
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Accessibility"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Finicky",
                   "description": null,
                   "children": [],
@@ -6951,7 +7223,7 @@
                     "last_commit": "2026-07-01T21:45:31Z",
                     "owner": "johnste",
                     "repo": "finicky",
-                    "stars": 5037
+                    "stars": 5038
                   }
                 },
                 {
@@ -6988,7 +7260,7 @@
                     "last_commit": "2024-06-25T18:18:25Z",
                     "owner": "integralpro",
                     "repo": "nosleep",
-                    "stars": 886
+                    "stars": 885
                   }
                 },
                 {
@@ -7192,6 +7464,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "QuickSound",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54219876,
+                "language": "Swift",
+                "last_commit": "2025-09-26T07:59:08Z",
+                "owner": "tdimeco",
+                "repo": "quicksound",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sound"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Stockman",
               "description": null,
               "children": [],
@@ -7269,7 +7563,7 @@
                 "last_commit": "2026-08-21T19:03:11Z",
                 "owner": "jacklandrin",
                 "repo": "OnlySwitch",
-                "stars": 5895
+                "stars": 5893
               }
             },
             {
@@ -7488,7 +7782,7 @@
                     "last_commit": "2026-08-23T14:43:48Z",
                     "owner": "tisfeng",
                     "repo": "Easydict",
-                    "stars": 14311
+                    "stars": 14323
                   }
                 },
                 {
@@ -7764,6 +8058,28 @@
               "description": null,
               "node_type": "group",
               "title": "Timezones & World Time"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "UTCMenuClock",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2775632,
+                    "language": "Objective-C",
+                    "last_commit": "2026-08-20T07:13:37Z",
+                    "owner": "netik",
+                    "repo": "UTCMenuClock",
+                    "stars": 253
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "UTC Time"
             }
           ],
           "description": null,
@@ -8040,7 +8356,7 @@
             "last_commit": "2026-07-26T17:28:32Z",
             "owner": "NotWadeGrimridge",
             "repo": "PingPlace",
-            "stars": 354
+            "stars": 355
           }
         },
         {
@@ -8183,7 +8499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:39:43.456Z",
+    "last_updated": "2026-08-24T14:40:16.929Z",
     "original_repository": "SKaplanOfficial/Mac-Menubar-Megalist",
     "original_repository_id": 737710679,
     "original_repository_sha": "1356d291b778bed91c769e052fa4e7275b281345",
