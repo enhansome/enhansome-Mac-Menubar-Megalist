@@ -1764,7 +1764,7 @@
                 "open_issues": 307,
                 "owner": "ddddxxx",
                 "repo": "LyricsX",
-                "stars": 5206,
+                "stars": 5208,
                 "topics": [
                   "apple-music",
                   "audirvana",
@@ -2649,7 +2649,7 @@
                 "open_issues": 6,
                 "owner": "SokoloffA",
                 "repo": "radiola",
-                "stars": 425,
+                "stars": 426,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -2977,7 +2977,7 @@
             "open_issues": 17,
             "owner": "aiaf",
             "repo": "Stillcolor",
-            "stars": 1205,
+            "stars": 1206,
             "topics": [
               "apple",
               "display",
@@ -4352,7 +4352,7 @@
                 "open_issues": 47,
                 "owner": "DamascenoRafael",
                 "repo": "reminders-menubar",
-                "stars": 3904,
+                "stars": 3908,
                 "topics": [
                   "apple-reminders",
                   "macos",
@@ -9076,7 +9076,7 @@
                     "open_issues": 254,
                     "owner": "wulkano",
                     "repo": "Kap",
-                    "stars": 19341,
+                    "stars": 19340,
                     "topics": [
                       "aperture",
                       "app",
@@ -10008,7 +10008,7 @@
                 "open_issues": 415,
                 "owner": "jordanbaird",
                 "repo": "Ice",
-                "stars": 29431,
+                "stars": 29436,
                 "topics": [
                   "macos",
                   "macos-app",
@@ -10040,7 +10040,7 @@
                 "open_issues": 74,
                 "owner": "FelixKratz",
                 "repo": "SketchyBar",
-                "stars": 12290,
+                "stars": 12291,
                 "topics": [
                   "bar",
                   "customization",
@@ -10171,7 +10171,7 @@
                 "id": 1265408951,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-08-29T00:09:09Z",
+                "last_commit": "2026-08-29T11:45:56Z",
                 "open_issues": 2,
                 "owner": "pedrovieira",
                 "repo": "Holeberry",
@@ -10671,7 +10671,7 @@
                 "open_issues": 232,
                 "owner": "waydabber",
                 "repo": "BetterDisplay",
-                "stars": 33388,
+                "stars": 33389,
                 "topics": [
                   "4k",
                   "brightness",
@@ -11821,7 +11821,7 @@
                     "open_issues": 17,
                     "owner": "aiaf",
                     "repo": "Stillcolor",
-                    "stars": 1205,
+                    "stars": 1206,
                     "topics": [
                       "apple",
                       "display",
@@ -11856,7 +11856,7 @@
                     "open_issues": 50,
                     "owner": "johnste",
                     "repo": "finicky",
-                    "stars": 5049,
+                    "stars": 5050,
                     "topics": [
                       "browser",
                       "go",
@@ -12798,7 +12798,7 @@
                     "open_issues": 171,
                     "owner": "tisfeng",
                     "repo": "Easydict",
-                    "stars": 14393,
+                    "stars": 14395,
                     "topics": [
                       "app",
                       "baidu",
@@ -13918,7 +13918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:59:51.783Z",
+    "last_updated": "2026-08-29T12:02:22.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sorted list of 1800+ macOS menubar apps",
