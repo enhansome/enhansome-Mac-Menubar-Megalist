@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "lihaoyun6",
             "repo": "Logoer",
-            "stars": 716,
+            "stars": 717,
             "topics": []
           },
           "first_seen": "2026-08-28T17:57:01.726Z"
@@ -1737,7 +1737,7 @@
                 "open_issues": 540,
                 "owner": "kyleneideck",
                 "repo": "BackgroundMusic",
-                "stars": 19265,
+                "stars": 19268,
                 "topics": [
                   "audio",
                   "audio-utility",
@@ -1764,7 +1764,7 @@
                 "open_issues": 307,
                 "owner": "ddddxxx",
                 "repo": "LyricsX",
-                "stars": 5211,
+                "stars": 5212,
                 "topics": [
                   "apple-music",
                   "audirvana",
@@ -1818,7 +1818,7 @@
                 "open_issues": 41,
                 "owner": "martinfekete10",
                 "repo": "Tuneful",
-                "stars": 538,
+                "stars": 539,
                 "topics": [
                   "apple-music",
                   "macos",
@@ -2492,7 +2492,7 @@
                 "open_issues": 5,
                 "owner": "DenBeke",
                 "repo": "YouTube-Downloader-for-macOS",
-                "stars": 607,
+                "stars": 606,
                 "topics": [
                   "download",
                   "macos",
@@ -3639,7 +3639,7 @@
                 "id": 324267700,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-05T01:52:24Z",
+                "last_commit": "2026-09-05T20:30:42Z",
                 "open_issues": 1,
                 "owner": "pakerwreah",
                 "repo": "Calendr",
@@ -3677,7 +3677,7 @@
                 "open_issues": 0,
                 "owner": "LunarBar-app",
                 "repo": "LunarBar",
-                "stars": 1465,
+                "stars": 1468,
                 "topics": [
                   "calendar",
                   "lunar-calendar",
@@ -4162,7 +4162,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2021-05-31T22:02:00Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "stakes",
                 "repo": "Notebar",
                 "stars": 14,
@@ -4327,11 +4327,11 @@
                 "id": 279961807,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-04T03:51:00Z",
-                "open_issues": 43,
+                "last_commit": "2026-09-06T02:46:24Z",
+                "open_issues": 42,
                 "owner": "DamascenoRafael",
                 "repo": "reminders-menubar",
-                "stars": 3924,
+                "stars": 3925,
                 "topics": [
                   "apple-reminders",
                   "macos",
@@ -4601,7 +4601,7 @@
                 "open_issues": 43,
                 "owner": "ivoronin",
                 "repo": "TomatoBar",
-                "stars": 3505,
+                "stars": 3506,
                 "topics": [
                   "macos",
                   "menubar",
@@ -5425,7 +5425,7 @@
                 "open_issues": 38,
                 "owner": "iglance",
                 "repo": "iGlance",
-                "stars": 2491,
+                "stars": 2490,
                 "topics": [
                   "battery",
                   "cpu",
@@ -5484,8 +5484,8 @@
                 "id": 45073916,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-04T21:00:49Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-06T07:32:14Z",
+                "open_issues": 1,
                 "owner": "gechr",
                 "repo": "WhichSpace",
                 "stars": 818,
@@ -5601,7 +5601,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2025-07-28T21:09:42Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "hmarr",
                 "repo": "vitals",
                 "stars": 466,
@@ -5808,7 +5808,7 @@
                 "open_issues": 2,
                 "owner": "felixblome",
                 "repo": "easy-ethernet-icon",
-                "stars": 92,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -7236,7 +7236,7 @@
                 "open_issues": 93,
                 "owner": "vincelwt",
                 "repo": "chatgpt-mac",
-                "stars": 6261,
+                "stars": 6258,
                 "topics": [
                   "chatgpt",
                   "gpt-3",
@@ -8919,7 +8919,7 @@
                     "open_issues": 4,
                     "owner": "amebalabs",
                     "repo": "TRex",
-                    "stars": 1901,
+                    "stars": 1902,
                     "topics": [
                       "macos",
                       "ocr",
@@ -8948,7 +8948,7 @@
                     "open_issues": 1,
                     "owner": "TextGrabber2-app",
                     "repo": "TextGrabber2",
-                    "stars": 237,
+                    "stars": 238,
                     "topics": [
                       "mac",
                       "macos",
@@ -9273,7 +9273,7 @@
                 "open_issues": 94,
                 "owner": "ts1",
                 "repo": "BLEUnlock",
-                "stars": 4394,
+                "stars": 4398,
                 "topics": [
                   "ble",
                   "bluetooth-low-energy",
@@ -9778,7 +9778,7 @@
                 "open_issues": 79,
                 "owner": "mikker",
                 "repo": "LeaderKey",
-                "stars": 2276,
+                "stars": 2275,
                 "topics": [
                   "macos",
                   "macos-app"
@@ -9966,7 +9966,7 @@
                 "open_issues": 421,
                 "owner": "jordanbaird",
                 "repo": "Ice",
-                "stars": 29517,
+                "stars": 29523,
                 "topics": [
                   "macos",
                   "macos-app",
@@ -9998,7 +9998,7 @@
                 "open_issues": 74,
                 "owner": "FelixKratz",
                 "repo": "SketchyBar",
-                "stars": 12328,
+                "stars": 12333,
                 "topics": [
                   "bar",
                   "customization",
@@ -10133,7 +10133,7 @@
                 "open_issues": 0,
                 "owner": "pedrovieira",
                 "repo": "Holeberry",
-                "stars": 82,
+                "stars": 84,
                 "topics": [
                   "ad-blocker",
                   "apple",
@@ -10296,7 +10296,7 @@
                     "language": "Swift",
                     "license": "MIT",
                     "last_commit": "2026-08-15T19:09:01Z",
-                    "open_issues": 11,
+                    "open_issues": 10,
                     "owner": "swiftbar",
                     "repo": "SwiftBar",
                     "stars": 4495,
@@ -10626,10 +10626,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-31T20:05:50Z",
-                "open_issues": 248,
+                "open_issues": 250,
                 "owner": "waydabber",
                 "repo": "BetterDisplay",
-                "stars": 33498,
+                "stars": 33512,
                 "topics": [
                   "4k",
                   "brightness",
@@ -10689,7 +10689,7 @@
                 "open_issues": 57,
                 "owner": "jacklandrin",
                 "repo": "OnlySwitch",
-                "stars": 5906,
+                "stars": 5907,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -10750,10 +10750,10 @@
                 "language": "Swift",
                 "license": "GPL-3.0",
                 "last_commit": "2026-06-07T07:07:54Z",
-                "open_issues": 67,
+                "open_issues": 68,
                 "owner": "vincentneo",
                 "repo": "LosslessSwitcher",
-                "stars": 1941,
+                "stars": 1942,
                 "topics": [
                   "applemusic",
                   "audio",
@@ -10783,7 +10783,7 @@
                 "open_issues": 1,
                 "owner": "halo",
                 "repo": "LinkLiar",
-                "stars": 1487,
+                "stars": 1488,
                 "topics": [
                   "daemon",
                   "ethernet",
@@ -10961,7 +10961,7 @@
                 "open_issues": 11,
                 "owner": "glinford",
                 "repo": "dns-easy-switcher",
-                "stars": 358,
+                "stars": 359,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -12363,7 +12363,7 @@
                 "open_issues": 57,
                 "owner": "jacklandrin",
                 "repo": "OnlySwitch",
-                "stars": 5906,
+                "stars": 5907,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -12429,7 +12429,7 @@
                 "open_issues": 24,
                 "owner": "ParthJadhav",
                 "repo": "Verve",
-                "stars": 858,
+                "stars": 859,
                 "topics": [
                   "alfred",
                   "cmd-k",
@@ -12752,11 +12752,11 @@
                     "id": 566323731,
                     "language": "Swift",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-04T17:01:53Z",
+                    "last_commit": "2026-09-06T09:24:13Z",
                     "open_issues": 178,
                     "owner": "tisfeng",
                     "repo": "Easydict",
-                    "stars": 14485,
+                    "stars": 14495,
                     "topics": [
                       "app",
                       "baidu",
@@ -13526,7 +13526,7 @@
                 "open_issues": 37,
                 "owner": "dmarcotte",
                 "repo": "easy-move-resize",
-                "stars": 1332,
+                "stars": 1333,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -13718,7 +13718,7 @@
             "open_issues": 5,
             "owner": "WorldOfBasti",
             "repo": "MaClicker",
-            "stars": 26,
+            "stars": 27,
             "topics": [
               "autoclicker",
               "automation",
@@ -13876,7 +13876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:44:06.261Z",
+    "last_updated": "2026-09-06T09:59:30.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sorted list of 1800+ macOS menubar apps",
@@ -13885,10 +13885,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-08-28T07:25:17Z",
-      "open_issues": 27,
+      "open_issues": 28,
       "owner": "SKaplanOfficial",
       "repo": "Mac-Menubar-Megalist",
-      "stars": 126,
+      "stars": 127,
       "topics": [
         "apps",
         "awesome-list",
