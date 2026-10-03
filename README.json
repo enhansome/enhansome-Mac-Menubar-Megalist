@@ -1652,8 +1652,8 @@
                 "id": 90079468,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T21:07:00Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-03T09:07:06Z",
+                "open_issues": 6,
                 "owner": "joshghent",
                 "repo": "gifbar",
                 "stars": 45,
@@ -2649,7 +2649,7 @@
                 "open_issues": 6,
                 "owner": "SokoloffA",
                 "repo": "radiola",
-                "stars": 447,
+                "stars": 448,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -4331,7 +4331,7 @@
                 "open_issues": 41,
                 "owner": "DamascenoRafael",
                 "repo": "reminders-menubar",
-                "stars": 3955,
+                "stars": 3956,
                 "topics": [
                   "apple-reminders",
                   "macos",
@@ -8909,7 +8909,7 @@
                     "open_issues": 2,
                     "owner": "amebalabs",
                     "repo": "TRex",
-                    "stars": 1921,
+                    "stars": 1922,
                     "topics": [
                       "macos",
                       "ocr",
@@ -9956,7 +9956,7 @@
                 "open_issues": 440,
                 "owner": "jordanbaird",
                 "repo": "Ice",
-                "stars": 29732,
+                "stars": 29734,
                 "topics": [
                   "macos",
                   "macos-app",
@@ -9988,7 +9988,7 @@
                 "open_issues": 89,
                 "owner": "FelixKratz",
                 "repo": "SketchyBar",
-                "stars": 12441,
+                "stars": 12442,
                 "topics": [
                   "bar",
                   "customization",
@@ -10289,7 +10289,7 @@
                     "open_issues": 6,
                     "owner": "swiftbar",
                     "repo": "SwiftBar",
-                    "stars": 4618,
+                    "stars": 4619,
                     "topics": [
                       "macos",
                       "productivity",
@@ -10610,16 +10610,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!",
+                "description": "Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info -  betterdisplay.pro/guide",
                 "homepage": "https://betterdisplay.pro",
                 "id": 420628737,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-02T21:16:53Z",
+                "last_commit": "2026-10-03T06:26:43Z",
                 "open_issues": 156,
                 "owner": "waydabber",
                 "repo": "BetterDisplay",
-                "stars": 33924,
+                "stars": 33926,
                 "topics": [
                   "4k",
                   "brightness",
@@ -10743,7 +10743,7 @@
                 "open_issues": 72,
                 "owner": "vincentneo",
                 "repo": "LosslessSwitcher",
-                "stars": 1965,
+                "stars": 1967,
                 "topics": [
                   "applemusic",
                   "audio",
@@ -12628,8 +12628,8 @@
                 "id": 62967092,
                 "language": "Swift",
                 "license": null,
-                "last_commit": "2026-09-21T05:33:14Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-03T06:59:18Z",
+                "open_issues": 2,
                 "owner": "jodelamo",
                 "repo": "AnyIpsum",
                 "stars": 15,
@@ -12746,7 +12746,7 @@
                     "open_issues": 188,
                     "owner": "tisfeng",
                     "repo": "Easydict",
-                    "stars": 14833,
+                    "stars": 14835,
                     "topics": [
                       "app",
                       "baidu",
@@ -13629,7 +13629,7 @@
             "open_issues": 20,
             "owner": "NotWadeGrimridge",
             "repo": "PingPlace",
-            "stars": 368,
+            "stars": 369,
             "topics": []
           },
           "first_seen": "2026-08-28T17:57:01.726Z"
@@ -13866,7 +13866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:29:51.847Z",
+    "last_updated": "2026-10-03T10:52:56.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sorted list of 1800+ macOS menubar apps",
@@ -13875,7 +13875,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-08-28T07:25:17Z",
-      "open_issues": 38,
+      "open_issues": 39,
       "owner": "SKaplanOfficial",
       "repo": "Mac-Menubar-Megalist",
       "stars": 127,
