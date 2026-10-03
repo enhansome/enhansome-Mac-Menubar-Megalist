@@ -81,7 +81,7 @@
         {
           "node_type": "item",
           "title": "Fairy Lights",
-          "description": null,
+          "description": "chippokiddo/fairylights",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -133,7 +133,7 @@
         {
           "node_type": "item",
           "title": "Monu",
-          "description": null,
+          "description": "max-mapper/monu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -154,7 +154,7 @@
         {
           "node_type": "item",
           "title": "Pretzel",
-          "description": null,
+          "description": "amiechen/pretzel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -209,7 +209,7 @@
         {
           "node_type": "item",
           "title": "BrewServicesMenubar",
-          "description": null,
+          "description": "andrewn/brew-services-menubar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -236,7 +236,7 @@
         {
           "node_type": "item",
           "title": "PiBar",
-          "description": null,
+          "description": "amiantos/pibar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -249,7 +249,7 @@
             "open_issues": 17,
             "owner": "amiantos",
             "repo": "pibar",
-            "stars": 343,
+            "stars": 344,
             "topics": [
               "app",
               "foss",
@@ -268,7 +268,7 @@
         {
           "node_type": "item",
           "title": "Xclean",
-          "description": null,
+          "description": "macmade/Xclean",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -301,7 +301,7 @@
         {
           "node_type": "item",
           "title": "Streaker",
-          "description": null,
+          "description": "jamieweavis/streaker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -333,7 +333,7 @@
         {
           "node_type": "item",
           "title": "DockerMenu",
-          "description": null,
+          "description": "rdsubhas/menubar-docker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -354,7 +354,7 @@
         {
           "node_type": "item",
           "title": "ServPane",
-          "description": null,
+          "description": "aderyabin/ServPane",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -381,7 +381,7 @@
         {
           "node_type": "item",
           "title": "ScriptManager",
-          "description": null,
+          "description": "DanielFiller30/ScriptManager",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -434,7 +434,7 @@
         {
           "node_type": "item",
           "title": "Captain",
-          "description": null,
+          "description": "RickWong/Captain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -460,7 +460,7 @@
         {
           "node_type": "item",
           "title": "LeetBar",
-          "description": null,
+          "description": "marwanhawari/LeetBar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -489,7 +489,7 @@
         {
           "node_type": "item",
           "title": "shbar",
-          "description": null,
+          "description": "richinfante/shbar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -513,7 +513,7 @@
         {
           "node_type": "item",
           "title": "BashBar",
-          "description": null,
+          "description": "tbrek/BashBar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -538,7 +538,7 @@
         {
           "node_type": "item",
           "title": "GitStatus",
-          "description": null,
+          "description": "0x2E/GitStatus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -563,7 +563,7 @@
         {
           "node_type": "item",
           "title": "ScriptDeck",
-          "description": null,
+          "description": "ravitripathi/ScriptDeck",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -625,7 +625,7 @@
         {
           "node_type": "item",
           "title": "MenuScript",
-          "description": null,
+          "description": "QwertyOfficial/MenuScript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -646,7 +646,7 @@
         {
           "node_type": "item",
           "title": "Mac API Tool",
-          "description": null,
+          "description": "sjgutta/mac-api-tool",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -675,7 +675,7 @@
         {
           "node_type": "item",
           "title": "Virtualbox Menulet",
-          "description": null,
+          "description": "cviebrock/VirtualBox-Menulet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -701,7 +701,7 @@
         {
           "node_type": "item",
           "title": "Emacs Launcher",
-          "description": null,
+          "description": "qiushihe/emacs-launcher",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -722,7 +722,7 @@
         {
           "node_type": "item",
           "title": "FileWatch",
-          "description": null,
+          "description": "jawngee/FileWatch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -749,7 +749,7 @@
         {
           "node_type": "item",
           "title": "Jirara",
-          "description": null,
+          "description": "kingcos/Jirara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -777,7 +777,7 @@
         {
           "node_type": "item",
           "title": "whale",
-          "description": null,
+          "description": "ruggi/walvis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -803,7 +803,7 @@
         {
           "node_type": "item",
           "title": "brew MAMP Panel",
-          "description": null,
+          "description": "jiayouzl/brew-MAMP-Panel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -824,7 +824,7 @@
         {
           "node_type": "item",
           "title": "Google Icons Picker",
-          "description": null,
+          "description": "jack-carling/google-icons-picker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -849,7 +849,7 @@
         {
           "node_type": "item",
           "title": "NeuroX",
-          "description": null,
+          "description": "rebryk/neurox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -874,7 +874,7 @@
         {
           "node_type": "item",
           "title": "Which Docker",
-          "description": null,
+          "description": "gschrader/which-docker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -900,7 +900,7 @@
         {
           "node_type": "item",
           "title": "Gitmoji for macOS",
-          "description": null,
+          "description": "tim-richter/gitmoji_for_mac",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -927,7 +927,7 @@
         {
           "node_type": "item",
           "title": "launch-tray",
-          "description": null,
+          "description": "nyampass/launch-tray",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -948,7 +948,7 @@
         {
           "node_type": "item",
           "title": "SpaceBar",
-          "description": null,
+          "description": "streetturtle/SpaceBar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -969,7 +969,7 @@
         {
           "node_type": "item",
           "title": "Sparc",
-          "description": null,
+          "description": "ox/sparc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -990,7 +990,7 @@
         {
           "node_type": "item",
           "title": "CI Demon",
-          "description": null,
+          "description": "dimaportenko/cidemon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1011,7 +1011,7 @@
         {
           "node_type": "item",
           "title": "Devmarks Menubar",
-          "description": null,
+          "description": "adamghill/devmarks-menubar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1032,7 +1032,7 @@
         {
           "node_type": "item",
           "title": "KickShell",
-          "description": null,
+          "description": "amazingyyc/KickShell",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1053,7 +1053,7 @@
         {
           "node_type": "item",
           "title": "LocalSwitch",
-          "description": null,
+          "description": "artginzburg-archive/LocalSwitch",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1081,7 +1081,7 @@
         {
           "node_type": "item",
           "title": "Menubar Devdocs",
-          "description": null,
+          "description": "99darshan/menubar-dev-docs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1102,7 +1102,7 @@
         {
           "node_type": "item",
           "title": "Netlok",
-          "description": null,
+          "description": "ea/netlok",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1123,7 +1123,7 @@
         {
           "node_type": "item",
           "title": "Shake",
-          "description": null,
+          "description": "daveallie/Shake",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1146,7 +1146,7 @@
             {
               "node_type": "item",
               "title": "snippets",
-              "description": null,
+              "description": "adeebshihadeh/snippets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1174,7 +1174,7 @@
             {
               "node_type": "item",
               "title": "BitActions",
-              "description": null,
+              "description": "paulononaka/bitactions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1203,7 +1203,7 @@
             {
               "node_type": "item",
               "title": "OhMyPullRequests",
-              "description": null,
+              "description": "luin/OhMyPullRequests",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1230,7 +1230,7 @@
             {
               "node_type": "item",
               "title": "GitHub Notifications",
-              "description": null,
+              "description": "yoannfleurydev/GitHub-Notifications",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1257,7 +1257,7 @@
             {
               "node_type": "item",
               "title": "Noti",
-              "description": null,
+              "description": "ye11ow/noti",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1285,7 +1285,7 @@
             {
               "node_type": "item",
               "title": "GitMenu",
-              "description": null,
+              "description": "yannikbloscheck/GitMenu",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1314,7 +1314,7 @@
             {
               "node_type": "item",
               "title": "GitLab Merge Requests",
-              "description": null,
+              "description": "colens-dev/macos-gitlab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1335,7 +1335,7 @@
             {
               "node_type": "item",
               "title": "Commitwatch",
-              "description": null,
+              "description": "chrisfosterelli/commitwatch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1356,7 +1356,7 @@
             {
               "node_type": "item",
               "title": "PR-Shortcut",
-              "description": null,
+              "description": "VincentHardouin/PR-Shortcut",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1382,7 +1382,7 @@
             {
               "node_type": "item",
               "title": "Git Author Switch",
-              "description": null,
+              "description": "nchursin/git-author-switcher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1403,7 +1403,7 @@
             {
               "node_type": "item",
               "title": "GitHub Trend Menubar",
-              "description": null,
+              "description": "HanabiLab/github-trending-menu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1424,7 +1424,7 @@
             {
               "node_type": "item",
               "title": "Remmi",
-              "description": null,
+              "description": "phoqe/Remmi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1445,7 +1445,7 @@
             {
               "node_type": "item",
               "title": "Suzy",
-              "description": null,
+              "description": "adlk/Suzy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1473,7 +1473,7 @@
             {
               "node_type": "item",
               "title": "Brewlet",
-              "description": null,
+              "description": "zkokaja/Brewlet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1516,7 +1516,7 @@
                 {
                   "node_type": "item",
                   "title": "PaimonMenuBar",
-                  "description": null,
+                  "description": "spencerwooo/PaimonMenuBar",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1545,7 +1545,7 @@
                 {
                   "node_type": "item",
                   "title": "Pokemon GO Server Status",
-                  "description": null,
+                  "description": "pboardman/pokemon-go-status",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1566,7 +1566,7 @@
                 {
                   "node_type": "item",
                   "title": "RetroSync",
-                  "description": null,
+                  "description": "ppkantorski/RetroSync",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1587,7 +1587,7 @@
                 {
                   "node_type": "item",
                   "title": "League Friend",
-                  "description": null,
+                  "description": "pandarison/leaguefriend",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1610,7 +1610,7 @@
                 {
                   "node_type": "item",
                   "title": "Menubar d20",
-                  "description": null,
+                  "description": "camdenb/menubar-d20",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1643,7 +1643,7 @@
             {
               "node_type": "item",
               "title": "GifBar",
-              "description": null,
+              "description": "joshghent/gifbar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1652,7 +1652,7 @@
                 "id": 90079468,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T20:06:48Z",
+                "last_commit": "2026-10-02T21:07:00Z",
                 "open_issues": 7,
                 "owner": "joshghent",
                 "repo": "gifbar",
@@ -1675,7 +1675,7 @@
             {
               "node_type": "item",
               "title": "InaGif",
-              "description": null,
+              "description": "thomasramon/InaGif",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1696,7 +1696,7 @@
             {
               "node_type": "item",
               "title": "LIHKG GIFs",
-              "description": null,
+              "description": "icelam/lihkg-gifs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1724,7 +1724,7 @@
             {
               "node_type": "item",
               "title": "Background Music",
-              "description": null,
+              "description": "kyleneideck/BackgroundMusic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1751,7 +1751,7 @@
             {
               "node_type": "item",
               "title": "LyricsX",
-              "description": null,
+              "description": "ddddxxx/LyricsX",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1784,7 +1784,7 @@
             {
               "node_type": "item",
               "title": "Statusfy",
-              "description": null,
+              "description": "paulyoung/Statusfy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1805,7 +1805,7 @@
             {
               "node_type": "item",
               "title": "Tuneful",
-              "description": null,
+              "description": "martinfekete10/Tuneful",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1835,7 +1835,7 @@
             {
               "node_type": "item",
               "title": "Spotify - now playing",
-              "description": null,
+              "description": "davicorreiajr/spotify-now-playing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1866,7 +1866,7 @@
             {
               "node_type": "item",
               "title": "Menubar Ticker",
-              "description": null,
+              "description": "serban/menubar-ticker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1892,7 +1892,7 @@
             {
               "node_type": "item",
               "title": "PlayStatus",
-              "description": null,
+              "description": "nbolar/PlayStatus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1925,7 +1925,7 @@
             {
               "node_type": "item",
               "title": "Carol",
-              "description": null,
+              "description": "AnaghSharma/Carol",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1938,7 +1938,7 @@
                 "open_issues": 1,
                 "owner": "AnaghSharma",
                 "repo": "Carol",
-                "stars": 137,
+                "stars": 138,
                 "topics": [
                   "lyrics",
                   "macos",
@@ -1953,7 +1953,7 @@
             {
               "node_type": "item",
               "title": "lyricsify",
-              "description": null,
+              "description": "mamal72/lyricsify-mac",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1978,7 +1978,7 @@
             {
               "node_type": "item",
               "title": "MusicBar",
-              "description": null,
+              "description": "inedible-dev/MusicBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2004,7 +2004,7 @@
             {
               "node_type": "item",
               "title": "MenuBarControls",
-              "description": null,
+              "description": "ghosty141/MenuBarControls",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2025,7 +2025,7 @@
             {
               "node_type": "item",
               "title": "SpotStatus",
-              "description": null,
+              "description": "joshspicer/SpotStatus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2059,7 +2059,7 @@
             {
               "node_type": "item",
               "title": "Spotify Lyrics",
-              "description": null,
+              "description": "yask123/SpotifyLyrics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2080,7 +2080,7 @@
             {
               "node_type": "item",
               "title": "Playful for Spotify",
-              "description": null,
+              "description": "thanasis457/Playful",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2101,7 +2101,7 @@
             {
               "node_type": "item",
               "title": "ComMute for Spotify",
-              "description": null,
+              "description": "cwverhey/ComMute",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2130,7 +2130,7 @@
             {
               "node_type": "item",
               "title": "MusicBar",
-              "description": null,
+              "description": "russelg/musicbar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2151,7 +2151,7 @@
             {
               "node_type": "item",
               "title": "Speck",
-              "description": null,
+              "description": "misternate/speck",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2176,7 +2176,7 @@
             {
               "node_type": "item",
               "title": "VoicePlay",
-              "description": null,
+              "description": "tb0hdan/voiceplay",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2209,7 +2209,7 @@
             {
               "node_type": "item",
               "title": "Menify",
-              "description": null,
+              "description": "ZinoKader/Menify",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2235,7 +2235,7 @@
             {
               "node_type": "item",
               "title": "NowPlayingMenuBar",
-              "description": null,
+              "description": "TrevorBurnham/NowPlayingMenuBar",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2256,7 +2256,7 @@
             {
               "node_type": "item",
               "title": "Playly",
-              "description": null,
+              "description": "Maqsim/Playly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2284,7 +2284,7 @@
             {
               "node_type": "item",
               "title": "YouTube Music as a menu bar app",
-              "description": null,
+              "description": "sencerburak/ytmusic-mac",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2305,7 +2305,7 @@
             {
               "node_type": "item",
               "title": "Berlin",
-              "description": null,
+              "description": "caiankeller/Berlin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2331,7 +2331,7 @@
             {
               "node_type": "item",
               "title": "Faveslist",
-              "description": null,
+              "description": "rttll/faveslist-spotify",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2359,7 +2359,7 @@
             {
               "node_type": "item",
               "title": "MelodyBox",
-              "description": null,
+              "description": "gedeonkoh/MelodyBox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2380,7 +2380,7 @@
             {
               "node_type": "item",
               "title": "SkipSpotifyAds",
-              "description": null,
+              "description": "ppkantorski/SkipSpotifyAds",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2401,7 +2401,7 @@
             {
               "node_type": "item",
               "title": "Glancify",
-              "description": null,
+              "description": "suchtomwow/glancify",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2422,7 +2422,7 @@
             {
               "node_type": "item",
               "title": "NowSpot",
-              "description": null,
+              "description": "saivittalb/nowspot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2451,7 +2451,7 @@
             {
               "node_type": "item",
               "title": "osx_spotify_menubar",
-              "description": null,
+              "description": "ftiemroth/osx_spotify_menubar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2479,7 +2479,7 @@
             {
               "node_type": "item",
               "title": "YouTube Downloader",
-              "description": null,
+              "description": "DenBeke/YouTube-Downloader-for-macOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2509,7 +2509,7 @@
             {
               "node_type": "item",
               "title": "TV Menü für macOS",
-              "description": null,
+              "description": "einstweilen/tvmenu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2539,7 +2539,7 @@
             {
               "node_type": "item",
               "title": "YouTube Player",
-              "description": null,
+              "description": "shyam-habarakada/youtube-osx-menubar-player",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2574,7 +2574,7 @@
             {
               "node_type": "item",
               "title": "PodcastMenu",
-              "description": null,
+              "description": "insidegui/PodcastMenu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2600,7 +2600,7 @@
             {
               "node_type": "item",
               "title": "Catch",
-              "description": null,
+              "description": "mipstian/catch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2636,7 +2636,7 @@
             {
               "node_type": "item",
               "title": "Radiola",
-              "description": null,
+              "description": "SokoloffA/radiola",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2649,7 +2649,7 @@
                 "open_issues": 6,
                 "owner": "SokoloffA",
                 "repo": "radiola",
-                "stars": 446,
+                "stars": 447,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -2657,7 +2657,7 @@
             {
               "node_type": "item",
               "title": "RadioBar",
-              "description": null,
+              "description": "mdbraber/radiobar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2685,7 +2685,7 @@
             {
               "node_type": "item",
               "title": "Custer",
-              "description": null,
+              "description": "exelban/custer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2711,7 +2711,7 @@
             {
               "node_type": "item",
               "title": "BandNewsMac",
-              "description": null,
+              "description": "dbonates/BandNews-macOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2739,7 +2739,7 @@
             {
               "node_type": "item",
               "title": "XM Menu Player",
-              "description": null,
+              "description": "rosswaycaster/XM-Menu-Player",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2773,7 +2773,7 @@
             {
               "node_type": "item",
               "title": "RadioBar",
-              "description": null,
+              "description": "wass3r/radiobar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2808,7 +2808,7 @@
             {
               "node_type": "item",
               "title": "NBA Bar",
-              "description": null,
+              "description": "homerchen19/nba-bar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2829,7 +2829,7 @@
             {
               "node_type": "item",
               "title": "Howzatt",
-              "description": null,
+              "description": "varunoberoi/Howzatt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2856,7 +2856,7 @@
             {
               "node_type": "item",
               "title": "ScoreBar",
-              "description": null,
+              "description": "csgulati09/homebrew-scorebar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2905,7 +2905,7 @@
             {
               "node_type": "item",
               "title": "MLS Bar",
-              "description": null,
+              "description": "akeaswaran/mls-bar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2932,7 +2932,7 @@
             {
               "node_type": "item",
               "title": "CricMenu",
-              "description": null,
+              "description": "ayushpoddar/cricmenu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2964,7 +2964,7 @@
         {
           "node_type": "item",
           "title": "Stillcolor",
-          "description": null,
+          "description": "aiaf/Stillcolor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2977,7 +2977,7 @@
             "open_issues": 16,
             "owner": "aiaf",
             "repo": "Stillcolor",
-            "stars": 1219,
+            "stars": 1221,
             "topics": [
               "apple",
               "display",
@@ -2992,7 +2992,7 @@
         {
           "node_type": "item",
           "title": "Hint",
-          "description": null,
+          "description": "crsmithdev/hint",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3013,7 +3013,7 @@
         {
           "node_type": "item",
           "title": "Twenny",
-          "description": null,
+          "description": "tagwohl/twenny",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3034,7 +3034,7 @@
         {
           "node_type": "item",
           "title": "HALO",
-          "description": null,
+          "description": "gauravchl/halo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3055,7 +3055,7 @@
         {
           "node_type": "item",
           "title": "Nightscout Menu Bar",
-          "description": null,
+          "description": "adamd9/Nightscout-MacOS-Menu-Bar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3076,7 +3076,7 @@
         {
           "node_type": "item",
           "title": "AquaPromptum",
-          "description": null,
+          "description": "ForceGT/AquaPromptum",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3104,7 +3104,7 @@
         {
           "node_type": "item",
           "title": "bitbar-nightscout",
-          "description": null,
+          "description": "pdaddyo/bitbar-nightscout",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3125,7 +3125,7 @@
         {
           "node_type": "item",
           "title": "Menu Bar Breathing",
-          "description": null,
+          "description": "akaalias/menu-bar-breathing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3146,7 +3146,7 @@
         {
           "node_type": "item",
           "title": "20twenty20",
-          "description": null,
+          "description": "euanong/20twenty20",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3167,7 +3167,7 @@
         {
           "node_type": "item",
           "title": "Take a break!",
-          "description": null,
+          "description": "pkk0/Take-a-break-MacOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3195,7 +3195,7 @@
             {
               "node_type": "item",
               "title": "CoronaBar",
-              "description": null,
+              "description": "duarteocarmo/coronabar",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3221,7 +3221,7 @@
             {
               "node_type": "item",
               "title": "GlucoseBar",
-              "description": null,
+              "description": "t1dtools/GlucoseBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3253,7 +3253,7 @@
         {
           "node_type": "item",
           "title": "Dev 10",
-          "description": null,
+          "description": "sarthology/Dev10",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3279,7 +3279,7 @@
         {
           "node_type": "item",
           "title": "Barbell",
-          "description": null,
+          "description": "agencyenterprise/barbell",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3305,7 +3305,7 @@
             {
               "node_type": "item",
               "title": "baRSS",
-              "description": null,
+              "description": "relikd/baRSS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3334,7 +3334,7 @@
             {
               "node_type": "item",
               "title": "Taberu",
-              "description": null,
+              "description": "Mnpn/Taberu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3371,7 +3371,7 @@
         {
           "node_type": "item",
           "title": "Slack Status Bar",
-          "description": null,
+          "description": "ericwb/slack-status-bar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3398,7 +3398,7 @@
         {
           "node_type": "item",
           "title": "Slapp",
-          "description": null,
+          "description": "shersch/slapp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3419,7 +3419,7 @@
         {
           "node_type": "item",
           "title": "Slack DND",
-          "description": null,
+          "description": "pehlicd/Slack-DND",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3440,7 +3440,7 @@
         {
           "node_type": "item",
           "title": "ankistatsonmenu",
-          "description": null,
+          "description": "isym444/ankistatsonmenu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3461,7 +3461,7 @@
         {
           "node_type": "item",
           "title": "Workday",
-          "description": null,
+          "description": "becurrie/workday",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3498,7 +3498,7 @@
         {
           "node_type": "item",
           "title": "Slack Status Icon",
-          "description": null,
+          "description": "strayge/slack_status_icon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3521,7 +3521,7 @@
             {
               "node_type": "item",
               "title": "Keyboard Activity Tracker",
-              "description": null,
+              "description": "aasimk2000/keyboardActivityTracker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3547,7 +3547,7 @@
             {
               "node_type": "item",
               "title": "Activity Logger",
-              "description": null,
+              "description": "mazgi/activity-logger",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3597,7 +3597,7 @@
                 {
                   "node_type": "item",
                   "title": "Groove",
-                  "description": null,
+                  "description": "teknolog2000/groove",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3630,7 +3630,7 @@
             {
               "node_type": "item",
               "title": "Calendr",
-              "description": null,
+              "description": "pakerwreah/Calendr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3639,11 +3639,11 @@
                 "id": 324267700,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-01T09:00:50Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-02T16:42:46Z",
+                "open_issues": 7,
                 "owner": "pakerwreah",
                 "repo": "Calendr",
-                "stars": 2363,
+                "stars": 2364,
                 "topics": [
                   "agenda",
                   "calendar",
@@ -3664,7 +3664,7 @@
             {
               "node_type": "item",
               "title": "LunarBar",
-              "description": null,
+              "description": "LunarBar-app/LunarBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3692,7 +3692,7 @@
             {
               "node_type": "item",
               "title": "Timestamp",
-              "description": null,
+              "description": "mzdr/timestamp",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3724,7 +3724,7 @@
             {
               "node_type": "item",
               "title": "CornerCal",
-              "description": null,
+              "description": "ekreutz/CornerCal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3754,7 +3754,7 @@
             {
               "node_type": "item",
               "title": "iCultus",
-              "description": null,
+              "description": "djyde/iCultus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3775,7 +3775,7 @@
             {
               "node_type": "item",
               "title": "Jike Calendar",
-              "description": null,
+              "description": "ryanfwy/jike-calendar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3817,7 +3817,7 @@
             {
               "node_type": "item",
               "title": "WeeNu",
-              "description": null,
+              "description": "mullweisser/mac-weenu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3843,7 +3843,7 @@
             {
               "node_type": "item",
               "title": "Daybar",
-              "description": null,
+              "description": "stakes/Daybar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3864,7 +3864,7 @@
             {
               "node_type": "item",
               "title": "NextEvent",
-              "description": null,
+              "description": "pawong/NextEvent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3885,7 +3885,7 @@
             {
               "node_type": "item",
               "title": "Caddy",
-              "description": null,
+              "description": "mikehanssen/caddy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3906,7 +3906,7 @@
             {
               "node_type": "item",
               "title": "MoonWatch",
-              "description": null,
+              "description": "WBrandes/MoonWatch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3929,7 +3929,7 @@
                 {
                   "node_type": "item",
                   "title": "Meetings",
-                  "description": null,
+                  "description": "nicolai92/meetings",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3971,7 +3971,7 @@
             {
               "node_type": "item",
               "title": "MenuBarGmail",
-              "description": null,
+              "description": "rcmdnk/MenuBarGmail",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3992,7 +3992,7 @@
             {
               "node_type": "item",
               "title": "GmailAlert",
-              "description": null,
+              "description": "rosstulloch/GmailAlert",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4025,7 +4025,7 @@
             {
               "node_type": "item",
               "title": "Keep",
-              "description": null,
+              "description": "tmcinerney/keep",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4054,7 +4054,7 @@
             {
               "node_type": "item",
               "title": "Quickeys",
-              "description": null,
+              "description": "alexrosenfeld10/Quickeys",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4083,7 +4083,7 @@
             {
               "node_type": "item",
               "title": "FlowNote",
-              "description": null,
+              "description": "Yiiipu/FlowNote",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4104,7 +4104,7 @@
             {
               "node_type": "item",
               "title": "Jot",
-              "description": null,
+              "description": "tiivik/Jot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4125,7 +4125,7 @@
             {
               "node_type": "item",
               "title": "GoogleKeepMenu",
-              "description": null,
+              "description": "brechtm/GoogleKeepMenu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4152,7 +4152,7 @@
             {
               "node_type": "item",
               "title": "Notebar",
-              "description": null,
+              "description": "stakes/Notebar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4173,7 +4173,7 @@
             {
               "node_type": "item",
               "title": "Menu Note",
-              "description": null,
+              "description": "MenuNote/menunote",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4206,7 +4206,7 @@
             {
               "node_type": "item",
               "title": "oneClick Note",
-              "description": null,
+              "description": "yifaneye/oneClick",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4236,7 +4236,7 @@
                 {
                   "node_type": "item",
                   "title": "Clip",
-                  "description": null,
+                  "description": "nkalupahana/Clip",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4269,7 +4269,7 @@
             {
               "node_type": "item",
               "title": "Heads Down",
-              "description": null,
+              "description": "EconoBen/headsdown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4290,7 +4290,7 @@
             {
               "node_type": "item",
               "title": "KeepOff",
-              "description": null,
+              "description": "exo-endo/KeepOff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4318,7 +4318,7 @@
             {
               "node_type": "item",
               "title": "Reminders Menu Bar",
-              "description": null,
+              "description": "DamascenoRafael/reminders-menubar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4331,7 +4331,7 @@
                 "open_issues": 41,
                 "owner": "DamascenoRafael",
                 "repo": "reminders-menubar",
-                "stars": 3954,
+                "stars": 3955,
                 "topics": [
                   "apple-reminders",
                   "macos",
@@ -4349,7 +4349,7 @@
             {
               "node_type": "item",
               "title": "Atea",
-              "description": null,
+              "description": "pkamenarsky/atea",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4370,7 +4370,7 @@
             {
               "node_type": "item",
               "title": "Focused Task",
-              "description": null,
+              "description": "RStankov/FocusedTask",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4400,7 +4400,7 @@
             {
               "node_type": "item",
               "title": "Soon",
-              "description": null,
+              "description": "dbilgili/Soon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4457,7 +4457,7 @@
             {
               "node_type": "item",
               "title": "U Do",
-              "description": null,
+              "description": "chriyocc/udo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4483,7 +4483,7 @@
             {
               "node_type": "item",
               "title": "Tassk",
-              "description": null,
+              "description": "furkanhatipoglu/tassk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4513,7 +4513,7 @@
             {
               "node_type": "item",
               "title": "Taskito",
-              "description": null,
+              "description": "libekonst/Taskito",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4539,7 +4539,7 @@
             {
               "node_type": "item",
               "title": "Check-It",
-              "description": null,
+              "description": "wesley-brown/Check-It",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4560,7 +4560,7 @@
             {
               "node_type": "item",
               "title": "GTasks",
-              "description": null,
+              "description": "say4n/gtasks.app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4588,7 +4588,7 @@
             {
               "node_type": "item",
               "title": "Tomato Bar",
-              "description": null,
+              "description": "ivoronin/TomatoBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4616,7 +4616,7 @@
             {
               "node_type": "item",
               "title": "Pomolectron",
-              "description": null,
+              "description": "amitmerchant1990/pomolectron",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4646,7 +4646,7 @@
             {
               "node_type": "item",
               "title": "Mater",
-              "description": null,
+              "description": "jasonlong/mater",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4674,7 +4674,7 @@
             {
               "node_type": "item",
               "title": "Timebox",
-              "description": null,
+              "description": "visini/timebox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4702,7 +4702,7 @@
             {
               "node_type": "item",
               "title": "Timeglass",
-              "description": null,
+              "description": "mountwebs/timeglass",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4744,7 +4744,7 @@
             {
               "node_type": "item",
               "title": "Cloud",
-              "description": null,
+              "description": "YYUUGGOO/Cloud",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4765,7 +4765,7 @@
             {
               "node_type": "item",
               "title": "Pomodoro",
-              "description": null,
+              "description": "CristianTuretta/Pomodoro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4800,7 +4800,7 @@
             {
               "node_type": "item",
               "title": "Moso",
-              "description": null,
+              "description": "rschiang/moso",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4827,7 +4827,7 @@
             {
               "node_type": "item",
               "title": "Tomado",
-              "description": null,
+              "description": "mstcgalis/Tomado",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4854,7 +4854,7 @@
             {
               "node_type": "item",
               "title": "SimpleTimer",
-              "description": null,
+              "description": "appletomato/simpletimer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4875,7 +4875,7 @@
             {
               "node_type": "item",
               "title": "C1t1",
-              "description": null,
+              "description": "e9t/c1t1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4899,7 +4899,7 @@
             {
               "node_type": "item",
               "title": "QuickTimer",
-              "description": null,
+              "description": "inderdhir/QuickTimer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4929,7 +4929,7 @@
             {
               "node_type": "item",
               "title": "Timato",
-              "description": null,
+              "description": "RaffaeleNachos/Timato",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4950,7 +4950,7 @@
             {
               "node_type": "item",
               "title": "TimerBar",
-              "description": null,
+              "description": "uberalex/timerbar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4971,7 +4971,7 @@
             {
               "node_type": "item",
               "title": "Break Timer",
-              "description": null,
+              "description": "jjmojojjmojo/break-timer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4999,7 +4999,7 @@
             {
               "node_type": "item",
               "title": "Computer Time",
-              "description": null,
+              "description": "rbrich/computer-time",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5020,7 +5020,7 @@
             {
               "node_type": "item",
               "title": "MenubarTimer",
-              "description": null,
+              "description": "phortuin/menubar-timer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5041,7 +5041,7 @@
             {
               "node_type": "item",
               "title": "py-Timey",
-              "description": null,
+              "description": "asakasinsky/py-Timey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5062,7 +5062,7 @@
             {
               "node_type": "item",
               "title": "Snooze",
-              "description": null,
+              "description": "praagyajoshi/snooze",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5083,7 +5083,7 @@
             {
               "node_type": "item",
               "title": "Menu bar Timer",
-              "description": null,
+              "description": "johnyleebrown/menubar-timer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5121,7 +5121,7 @@
             {
               "node_type": "item",
               "title": "Timestamper",
-              "description": null,
+              "description": "foltri/timestamper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5144,7 +5144,7 @@
                 {
                   "node_type": "item",
                   "title": "Timeow",
-                  "description": null,
+                  "description": "f-person/timeow-mac",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5169,7 +5169,7 @@
                 {
                   "node_type": "item",
                   "title": "SaveMyEyes",
-                  "description": null,
+                  "description": "masich/SaveMyEyes",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5197,7 +5197,7 @@
                 {
                   "node_type": "item",
                   "title": "Work Day Percentage Display Applet",
-                  "description": null,
+                  "description": "Benhgift/work_time_percent_applet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5218,7 +5218,7 @@
                 {
                   "node_type": "item",
                   "title": "Daylight",
-                  "description": null,
+                  "description": "lukasschwab/daylight",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5239,7 +5239,7 @@
                 {
                   "node_type": "item",
                   "title": "WakeTime",
-                  "description": null,
+                  "description": "dleicht/waketime",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5267,7 +5267,7 @@
                 {
                   "node_type": "item",
                   "title": "Owl Timekeeper",
-                  "description": null,
+                  "description": "kawmra/Owl-Timekeeper",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5288,7 +5288,7 @@
                 {
                   "node_type": "item",
                   "title": "Tiny Time Tracker",
-                  "description": null,
+                  "description": "nyok/TinyTimeTracker",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5331,7 +5331,7 @@
         {
           "node_type": "item",
           "title": "Menudon",
-          "description": null,
+          "description": "mre/menudon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5357,7 +5357,7 @@
         {
           "node_type": "item",
           "title": "reKarma",
-          "description": null,
+          "description": "nutellaordidnthappen/reKarma",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5383,7 +5383,7 @@
         {
           "node_type": "item",
           "title": "VotingPowerBar",
-          "description": null,
+          "description": "therealwolf42/votingpowerbar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5412,7 +5412,7 @@
             {
               "node_type": "item",
               "title": "iGlance",
-              "description": null,
+              "description": "iglance/iGlance",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5449,7 +5449,7 @@
             {
               "node_type": "item",
               "title": "BatteryBoi",
-              "description": null,
+              "description": "thebarbican19/BatteryBoi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5475,7 +5475,7 @@
             {
               "node_type": "item",
               "title": "WhichSpace",
-              "description": null,
+              "description": "gechr/WhichSpace",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5496,7 +5496,7 @@
             {
               "node_type": "item",
               "title": "Juice",
-              "description": null,
+              "description": "brianmichel/Juice",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5523,7 +5523,7 @@
             {
               "node_type": "item",
               "title": "ITraffic Monitor for Mac",
-              "description": null,
+              "description": "foamzou/ITraffic-monitor-for-mac",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5550,7 +5550,7 @@
             {
               "node_type": "item",
               "title": "Apple Juice",
-              "description": null,
+              "description": "raphaelhanneken/apple-juice",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5591,7 +5591,7 @@
             {
               "node_type": "item",
               "title": "Vitals",
-              "description": null,
+              "description": "hmarr/vitals",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5617,7 +5617,7 @@
             {
               "node_type": "item",
               "title": "AirPods Battery Monitor",
-              "description": null,
+              "description": "mohamed-arradi/AirpodsBattery-Monitor-For-Mac",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5659,7 +5659,7 @@
             {
               "node_type": "item",
               "title": "Up&Down",
-              "description": null,
+              "description": "gjiazhe/Up-Down",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5680,7 +5680,7 @@
             {
               "node_type": "item",
               "title": "Silicon Info",
-              "description": null,
+              "description": "billycastelli/Silicon-Info",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5706,7 +5706,7 @@
             {
               "node_type": "item",
               "title": "iStats",
-              "description": null,
+              "description": "ningt/iStats",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5727,7 +5727,7 @@
             {
               "node_type": "item",
               "title": "ZetaWatch",
-              "description": null,
+              "description": "cbreak-black/ZetaWatch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5753,7 +5753,7 @@
             {
               "node_type": "item",
               "title": "Idiot",
-              "description": null,
+              "description": "snare/idiot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5816,7 +5816,7 @@
             {
               "node_type": "item",
               "title": "macOS-wifiname",
-              "description": null,
+              "description": "clarkio/macos-wifiname",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5844,7 +5844,7 @@
             {
               "node_type": "item",
               "title": "wifiname",
-              "description": null,
+              "description": "clarkio/macos-wifiname",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5872,7 +5872,7 @@
             {
               "node_type": "item",
               "title": "MacOS Activity Monitor",
-              "description": null,
+              "description": "joelmora/macos-activity-monitor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5893,7 +5893,7 @@
             {
               "node_type": "item",
               "title": "Statbar",
-              "description": null,
+              "description": "bsdelf/statbar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5921,7 +5921,7 @@
             {
               "node_type": "item",
               "title": "MenuPing",
-              "description": null,
+              "description": "julienbordet/MenuPing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5950,7 +5950,7 @@
             {
               "node_type": "item",
               "title": "MySensors",
-              "description": null,
+              "description": "aisk/MySensors",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5977,7 +5977,7 @@
             {
               "node_type": "item",
               "title": "MacOS Battery Remaining Menubar",
-              "description": null,
+              "description": "funkyremi/macos-battery-remaining-menubar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5998,7 +5998,7 @@
             {
               "node_type": "item",
               "title": "MenuBarSIPDetector",
-              "description": null,
+              "description": "ITzTravelInTime/MenuBarSIPDetector",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6019,7 +6019,7 @@
             {
               "node_type": "item",
               "title": "Tops",
-              "description": null,
+              "description": "praneet-suresh/Tops",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6040,7 +6040,7 @@
             {
               "node_type": "item",
               "title": "AirPods Battery",
-              "description": null,
+              "description": "AngCosmin/airpods-battery",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6067,7 +6067,7 @@
             {
               "node_type": "item",
               "title": "❤️ Battery",
-              "description": null,
+              "description": "kiliankoe/HeartBattery",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6092,7 +6092,7 @@
             {
               "node_type": "item",
               "title": "Gaufre",
-              "description": null,
+              "description": "Shakshi3104/Gaufre",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6117,7 +6117,7 @@
             {
               "node_type": "item",
               "title": "Razer Battery Menu Bar",
-              "description": null,
+              "description": "AlexPerathoner/razer-battery-menu-bar-macos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6138,7 +6138,7 @@
             {
               "node_type": "item",
               "title": "iBatteryStats",
-              "description": null,
+              "description": "saket13/iBatteryStats",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6171,7 +6171,7 @@
             {
               "node_type": "item",
               "title": "Network Status Bar",
-              "description": null,
+              "description": "cnfatal/NetworkStatusBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6197,7 +6197,7 @@
             {
               "node_type": "item",
               "title": "CPUMonitor",
-              "description": null,
+              "description": "LennardKittner/CPUMonitor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6226,7 +6226,7 @@
             {
               "node_type": "item",
               "title": "Mac Circle",
-              "description": null,
+              "description": "brk-ozs11/Mac-Circle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6254,7 +6254,7 @@
             {
               "node_type": "item",
               "title": "ChargeMon",
-              "description": null,
+              "description": "RhetTbull/ChargeMon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6284,7 +6284,7 @@
             {
               "node_type": "item",
               "title": "DownTime",
-              "description": null,
+              "description": "JonahU/DownTime",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6305,7 +6305,7 @@
             {
               "node_type": "item",
               "title": "MacOS-CapsLockIndicator",
-              "description": null,
+              "description": "HyDevelop/MacOS-CapsLockIndicator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6326,7 +6326,7 @@
             {
               "node_type": "item",
               "title": "Battery Bar",
-              "description": null,
+              "description": "HenryQuan/BatteryBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6352,7 +6352,7 @@
             {
               "node_type": "item",
               "title": "Latencer",
-              "description": null,
+              "description": "saivittalb/latencer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6380,7 +6380,7 @@
             {
               "node_type": "item",
               "title": "IP Connect",
-              "description": null,
+              "description": "pawong/IPConnect",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6401,7 +6401,7 @@
             {
               "node_type": "item",
               "title": "Show me the IP",
-              "description": null,
+              "description": "icelam/show-me-the-ip",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6426,7 +6426,7 @@
             {
               "node_type": "item",
               "title": "Fast.com Speedtest",
-              "description": null,
+              "description": "doshprompt/fast-menubar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6451,7 +6451,7 @@
             {
               "node_type": "item",
               "title": "MacOS CPU Temperature",
-              "description": null,
+              "description": "brandonserna/MacOS-cpu-temperature",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6472,7 +6472,7 @@
             {
               "node_type": "item",
               "title": "macStats",
-              "description": null,
+              "description": "McMuellermilch/macStats",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6498,7 +6498,7 @@
             {
               "node_type": "item",
               "title": "unPlug",
-              "description": null,
+              "description": "JanuszPXYZ/unPlug",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6519,7 +6519,7 @@
             {
               "node_type": "item",
               "title": "Net Alert",
-              "description": null,
+              "description": "deadcoder0904/net-alert",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6551,7 +6551,7 @@
             {
               "node_type": "item",
               "title": "PingStatus",
-              "description": null,
+              "description": "ashishpawar517/macbook-ping-menu-bar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6572,7 +6572,7 @@
             {
               "node_type": "item",
               "title": "µStatus",
-              "description": null,
+              "description": "kdungs/uStatus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6596,7 +6596,7 @@
             {
               "node_type": "item",
               "title": "WiFiName",
-              "description": null,
+              "description": "ChillarAnand/WiFiName",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6622,7 +6622,7 @@
             {
               "node_type": "item",
               "title": "Apps Update Reminder",
-              "description": null,
+              "description": "hallelujahs/apps-update-reminder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6647,7 +6647,7 @@
             {
               "node_type": "item",
               "title": "battery_remain",
-              "description": null,
+              "description": "Sammers21/battery_remain",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6674,7 +6674,7 @@
             {
               "node_type": "item",
               "title": "Lil IP Toolbar",
-              "description": null,
+              "description": "mchlrtkwski/lil_ip_toolbar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6695,7 +6695,7 @@
             {
               "node_type": "item",
               "title": "Mac Activity Indicator",
-              "description": null,
+              "description": "curtistarr/mai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6719,7 +6719,7 @@
             {
               "node_type": "item",
               "title": "MacMenuStatus",
-              "description": null,
+              "description": "batuhan0sanli/MacMenuStatus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6746,7 +6746,7 @@
             {
               "node_type": "item",
               "title": "Pinger",
-              "description": null,
+              "description": "aseba/Pinger",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6767,7 +6767,7 @@
             {
               "node_type": "item",
               "title": "RAM-Monitor",
-              "description": null,
+              "description": "tariq-c-dev/RAM-Monitor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6788,7 +6788,7 @@
             {
               "node_type": "item",
               "title": "Wifi-RSSI-Slack-Alert",
-              "description": null,
+              "description": "mukul7/wifi-rssi-slack-alert",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6811,7 +6811,7 @@
                 {
                   "node_type": "item",
                   "title": "Is it down?",
-                  "description": null,
+                  "description": "stevenselcuk/IsItDown",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6841,7 +6841,7 @@
                 {
                   "node_type": "item",
                   "title": "MacJuiceMonitor",
-                  "description": null,
+                  "description": "p32929/mac-juice-monitor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6875,7 +6875,7 @@
                     {
                       "node_type": "item",
                       "title": "Pingu",
-                      "description": null,
+                      "description": "attheodo/Pingu",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6900,7 +6900,7 @@
                     {
                       "node_type": "item",
                       "title": "Ping-Menubar",
-                      "description": null,
+                      "description": "simpleapps-public/ping-menubar",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6928,7 +6928,7 @@
                     {
                       "node_type": "item",
                       "title": "iconpong",
-                      "description": null,
+                      "description": "rouralberto/iconpong",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6958,7 +6958,7 @@
                     {
                       "node_type": "item",
                       "title": "PingChecker",
-                      "description": null,
+                      "description": "ayush-lal/python-ping-checker",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -7024,7 +7024,7 @@
         {
           "node_type": "item",
           "title": "DynaMouse",
-          "description": null,
+          "description": "projectstorm/dynamouse",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7052,7 +7052,7 @@
         {
           "node_type": "item",
           "title": "Clapet",
-          "description": null,
+          "description": "mbenoukaiss/clapet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7079,7 +7079,7 @@
         {
           "node_type": "item",
           "title": "MonkeyDo",
-          "description": null,
+          "description": "mikeyward/monkeydo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7100,7 +7100,7 @@
         {
           "node_type": "item",
           "title": "Zoom Mute Status",
-          "description": null,
+          "description": "abersager/zoom-mute-status",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7121,7 +7121,7 @@
         {
           "node_type": "item",
           "title": "WhyFi",
-          "description": null,
+          "description": "OzTamir/WhyFi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7142,7 +7142,7 @@
         {
           "node_type": "item",
           "title": "CountKey",
-          "description": null,
+          "description": "201419/CountKey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7163,7 +7163,7 @@
         {
           "node_type": "item",
           "title": "I am here",
-          "description": null,
+          "description": "ivanoats/i-am-here",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7190,7 +7190,7 @@
         {
           "node_type": "item",
           "title": "FingertipFlying",
-          "description": null,
+          "description": "yanyuxiangToday/FingertipFlying",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7213,7 +7213,7 @@
             {
               "node_type": "item",
               "title": "ChatGPT",
-              "description": null,
+              "description": "vincelwt/chatgpt-mac",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7226,7 +7226,7 @@
                 "open_issues": 93,
                 "owner": "vincelwt",
                 "repo": "chatgpt-mac",
-                "stars": 6254,
+                "stars": 6253,
                 "topics": [
                   "chatgpt",
                   "gpt-3",
@@ -7241,7 +7241,7 @@
             {
               "node_type": "item",
               "title": "ChatGPT Desktop App",
-              "description": null,
+              "description": "sonnylazuardi/chat-ai-desktop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7254,7 +7254,7 @@
                 "open_issues": 39,
                 "owner": "sonnylazuardi",
                 "repo": "chat-ai-desktop",
-                "stars": 1997,
+                "stars": 1998,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -7277,7 +7277,7 @@
             {
               "node_type": "item",
               "title": "ChatGPT for macOS",
-              "description": null,
+              "description": "sourcelocation/ChatGPT-macOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7308,7 +7308,7 @@
             {
               "node_type": "item",
               "title": "ChatGPT-Mac-MenuBar",
-              "description": null,
+              "description": "KittenYang/ChatGPT-Mac-MenuBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7321,7 +7321,7 @@
                 "open_issues": 2,
                 "owner": "KittenYang",
                 "repo": "ChatGPT-Mac-MenuBar",
-                "stars": 93,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -7329,7 +7329,7 @@
             {
               "node_type": "item",
               "title": "MacChatGPT",
-              "description": null,
+              "description": "LeaderBoy/Chat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7355,7 +7355,7 @@
             {
               "node_type": "item",
               "title": "MacMistral",
-              "description": null,
+              "description": "peterdsp/PromptBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7364,7 +7364,7 @@
                 "id": 773067005,
                 "language": "Swift",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-21T16:41:53Z",
+                "last_commit": "2026-10-03T01:17:29Z",
                 "open_issues": 0,
                 "owner": "peterdsp",
                 "repo": "PromptBar",
@@ -7393,7 +7393,7 @@
             {
               "node_type": "item",
               "title": "Qwen4Mac",
-              "description": null,
+              "description": "andreaturchet/Qwen4Mac",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7414,7 +7414,7 @@
             {
               "node_type": "item",
               "title": "MacGPT by Ben Brackenbury",
-              "description": null,
+              "description": "benbrackenbury/MacGPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7435,7 +7435,7 @@
             {
               "node_type": "item",
               "title": "ChatGPT Client",
-              "description": null,
+              "description": "pseudocoder-in/ChatGPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7580,7 +7580,7 @@
             {
               "node_type": "item",
               "title": "Freehand",
-              "description": null,
+              "description": "wddwycc/Freehand",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7608,7 +7608,7 @@
             {
               "node_type": "item",
               "title": "TimeMachineStatus",
-              "description": null,
+              "description": "lukepistrol/TimeMachineStatus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7637,7 +7637,7 @@
             {
               "node_type": "item",
               "title": "Restic Scheulder",
-              "description": null,
+              "description": "sergeymakinen/ResticScheduler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7670,7 +7670,7 @@
             {
               "node_type": "item",
               "title": "Viewfinder",
-              "description": null,
+              "description": "lfroms/viewfinder",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7702,7 +7702,7 @@
             {
               "node_type": "item",
               "title": "Camera Bop",
-              "description": null,
+              "description": "LASER-Yi/Camera-Bop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7727,7 +7727,7 @@
             {
               "node_type": "item",
               "title": "Smart Webcam",
-              "description": null,
+              "description": "adheeshenoy/Smart_webcam",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7755,7 +7755,7 @@
             {
               "node_type": "item",
               "title": "uCopy",
-              "description": null,
+              "description": "FaiChou/uCopy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7784,7 +7784,7 @@
             {
               "node_type": "item",
               "title": "cliptext",
-              "description": null,
+              "description": "aaabhilash97/cliptext-clipboard-manager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7814,7 +7814,7 @@
             {
               "node_type": "item",
               "title": "ClipBoardManager",
-              "description": null,
+              "description": "LennardKittner/ClipBoardManager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7844,7 +7844,7 @@
             {
               "node_type": "item",
               "title": "Clipbar",
-              "description": null,
+              "description": "this-fifo/clipbar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7865,7 +7865,7 @@
             {
               "node_type": "item",
               "title": "Pasteboard",
-              "description": null,
+              "description": "liang2kl/Pasteboard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7886,7 +7886,7 @@
             {
               "node_type": "item",
               "title": "p2p-clipboard-mac",
-              "description": null,
+              "description": "gnattu/p2p-clipboard-mac",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7907,7 +7907,7 @@
             {
               "node_type": "item",
               "title": "TrackerStripper",
-              "description": null,
+              "description": "itszero/TrackerStripper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7928,7 +7928,7 @@
             {
               "node_type": "item",
               "title": "Clipboard-Mac",
-              "description": null,
+              "description": "apinanyogaratnam/clipboard-mac",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7949,7 +7949,7 @@
             {
               "node_type": "item",
               "title": "Mockingbird",
-              "description": null,
+              "description": "brigonzalez/Mockingbird",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7970,7 +7970,7 @@
             {
               "node_type": "item",
               "title": "Pasteboard Reset",
-              "description": null,
+              "description": "dlh/Pasteboard-Reset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7998,7 +7998,7 @@
             {
               "node_type": "item",
               "title": "Pixel Picker",
-              "description": null,
+              "description": "acheronfail/pixel-picker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8026,7 +8026,7 @@
             {
               "node_type": "item",
               "title": "Menubar Colors",
-              "description": null,
+              "description": "nvzqz/Menubar-Colors",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8047,7 +8047,7 @@
             {
               "node_type": "item",
               "title": "Colors",
-              "description": null,
+              "description": "joeyhoer/colors",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8068,7 +8068,7 @@
             {
               "node_type": "item",
               "title": "Status Color Meter",
-              "description": null,
+              "description": "carson-katri/status-color-meter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8101,7 +8101,7 @@
             {
               "node_type": "item",
               "title": "Currency Ticker",
-              "description": null,
+              "description": "aerfio/macos-exchange-rate-widget",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8124,7 +8124,7 @@
                 {
                   "node_type": "item",
                   "title": "EtherClick",
-                  "description": null,
+                  "description": "OzTamir/EtherClick",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8145,7 +8145,7 @@
                 {
                   "node_type": "item",
                   "title": "Bitstamp Price",
-                  "description": null,
+                  "description": "wasabit/bitstampprice",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8172,7 +8172,7 @@
                 {
                   "node_type": "item",
                   "title": "Realtime Coinbase Wallet",
-                  "description": null,
+                  "description": "akump/realtime-coinbase-wallet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8197,7 +8197,7 @@
                 {
                   "node_type": "item",
                   "title": "Minitor",
-                  "description": null,
+                  "description": "birarda/minitor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8218,7 +8218,7 @@
                 {
                   "node_type": "item",
                   "title": "Masternode Status",
-                  "description": null,
+                  "description": "dillon/Masternode-Status",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8241,7 +8241,7 @@
                     {
                       "node_type": "item",
                       "title": "Crypto Bar",
-                      "description": null,
+                      "description": "geraldoramos/crypto-bar",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8271,7 +8271,7 @@
                     {
                       "node_type": "item",
                       "title": "btcbar",
-                      "description": null,
+                      "description": "chrisshiplet/btcbar",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8296,7 +8296,7 @@
                     {
                       "node_type": "item",
                       "title": "Coin Ticker",
-                      "description": null,
+                      "description": "alecananian/osx-coin-ticker",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8332,7 +8332,7 @@
                     {
                       "node_type": "item",
                       "title": "Bitdock",
-                      "description": null,
+                      "description": "chrisunderdown/bitdock",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8353,7 +8353,7 @@
                     {
                       "node_type": "item",
                       "title": "Realtime Crypto Tracker",
-                      "description": null,
+                      "description": "alfianlosari/CryptoTrackerMenuBar",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8381,7 +8381,7 @@
                     {
                       "node_type": "item",
                       "title": "TinyBar",
-                      "description": null,
+                      "description": "aorumbayev/tinybar",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8411,7 +8411,7 @@
                     {
                       "node_type": "item",
                       "title": "CoinQuotor",
-                      "description": null,
+                      "description": "zlq4863947/CoinQuotor",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8437,7 +8437,7 @@
                     {
                       "node_type": "item",
                       "title": "MintClock",
-                      "description": null,
+                      "description": "wolovim/mintclock",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8458,7 +8458,7 @@
                     {
                       "node_type": "item",
                       "title": "Coin Ticker",
-                      "description": null,
+                      "description": "2nthony/coin-ticker",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8485,7 +8485,7 @@
                     {
                       "node_type": "item",
                       "title": "CryptoCoin Quotes",
-                      "description": null,
+                      "description": "say4n/cryptocoin-quotes",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8510,7 +8510,7 @@
                     {
                       "node_type": "item",
                       "title": "Coin-Menu-Bar",
-                      "description": null,
+                      "description": "balazs630/Coin-Menu-Bar",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8531,7 +8531,7 @@
                     {
                       "node_type": "item",
                       "title": "MoonTicker",
-                      "description": null,
+                      "description": "skxu/MoonTicker",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8552,7 +8552,7 @@
                     {
                       "node_type": "item",
                       "title": "Bitstamp Price",
-                      "description": null,
+                      "description": "wasabit/bitstampprice",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8579,7 +8579,7 @@
                     {
                       "node_type": "item",
                       "title": "Cryptobar",
-                      "description": null,
+                      "description": "esuiru/cryptobar",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8600,7 +8600,7 @@
                     {
                       "node_type": "item",
                       "title": "monero-ticker",
-                      "description": null,
+                      "description": "Cisplatin/monero-ticker",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8621,7 +8621,7 @@
                     {
                       "node_type": "item",
                       "title": "bitracker",
-                      "description": null,
+                      "description": "JZChen/bitracker",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8642,7 +8642,7 @@
                     {
                       "node_type": "item",
                       "title": "koinex-status-ticker",
-                      "description": null,
+                      "description": "kirantambe/koinex-status-ticker",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8663,7 +8663,7 @@
                     {
                       "node_type": "item",
                       "title": "Krypto",
-                      "description": null,
+                      "description": "koltyakov/krypto",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8707,7 +8707,7 @@
             {
               "node_type": "item",
               "title": "Semulov",
-              "description": null,
+              "description": "kainjow/Semulov",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8728,7 +8728,7 @@
             {
               "node_type": "item",
               "title": "WebDrop",
-              "description": null,
+              "description": "JustinFincher/WebDrop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8755,7 +8755,7 @@
             {
               "node_type": "item",
               "title": "Rhea",
-              "description": null,
+              "description": "timonus/Rhea",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8783,7 +8783,7 @@
             {
               "node_type": "item",
               "title": "Droplet",
-              "description": null,
+              "description": "joshmcarthur/droplet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8809,7 +8809,7 @@
             {
               "node_type": "item",
               "title": "ImgurBar",
-              "description": null,
+              "description": "ailinykh/ImgurBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8835,7 +8835,7 @@
             {
               "node_type": "item",
               "title": "PicUp",
-              "description": null,
+              "description": "JoyZeng/PicUp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8858,7 +8858,7 @@
                 {
                   "node_type": "item",
                   "title": "Drop2Download",
-                  "description": null,
+                  "description": "diatoming/Drop2Download",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -8896,7 +8896,7 @@
                 {
                   "node_type": "item",
                   "title": "TRex",
-                  "description": null,
+                  "description": "amebalabs/TRex",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8909,7 +8909,7 @@
                     "open_issues": 2,
                     "owner": "amebalabs",
                     "repo": "TRex",
-                    "stars": 1920,
+                    "stars": 1921,
                     "topics": [
                       "macos",
                       "ocr",
@@ -8925,7 +8925,7 @@
                 {
                   "node_type": "item",
                   "title": "TextGrabber2",
-                  "description": null,
+                  "description": "TextGrabber2-app/TextGrabber2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8953,7 +8953,7 @@
                 {
                   "node_type": "item",
                   "title": "Textinator",
-                  "description": null,
+                  "description": "RhetTbull/textinator",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8983,7 +8983,7 @@
                 {
                   "node_type": "item",
                   "title": "Snappo",
-                  "description": null,
+                  "description": "luca-viola/snappo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9011,7 +9011,7 @@
                 {
                   "node_type": "item",
                   "title": "Kap",
-                  "description": null,
+                  "description": "wulkano/Kap",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9024,7 +9024,7 @@
                     "open_issues": 260,
                     "owner": "wulkano",
                     "repo": "Kap",
-                    "stars": 19384,
+                    "stars": 19385,
                     "topics": [
                       "aperture",
                       "app",
@@ -9049,7 +9049,7 @@
                 {
                   "node_type": "item",
                   "title": "Snapbar",
-                  "description": null,
+                  "description": "stakes/Snapbar",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9070,7 +9070,7 @@
                 {
                   "node_type": "item",
                   "title": "Shotput",
-                  "description": null,
+                  "description": "amussey/shotput",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9098,7 +9098,7 @@
                 {
                   "node_type": "item",
                   "title": "BingWallPaper",
-                  "description": null,
+                  "description": "zekunyan/TTGBingWallPaper",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9124,7 +9124,7 @@
                 {
                   "node_type": "item",
                   "title": "WallpDesk",
-                  "description": null,
+                  "description": "axeII/WallpDesk",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9154,7 +9154,7 @@
                 {
                   "node_type": "item",
                   "title": "Majo-v",
-                  "description": null,
+                  "description": "r4lv/majo-v",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -9175,7 +9175,7 @@
                 {
                   "node_type": "item",
                   "title": "MusicWallpaperMac",
-                  "description": null,
+                  "description": "Aaryaman-1409/MusicWallpaperMac",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9196,7 +9196,7 @@
                 {
                   "node_type": "item",
                   "title": "pySplash",
-                  "description": null,
+                  "description": "egregors/pySplash",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -9217,7 +9217,7 @@
                 {
                   "node_type": "item",
                   "title": "BeengPaper",
-                  "description": null,
+                  "description": "Rughalt/beengpaper",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9250,7 +9250,7 @@
             {
               "node_type": "item",
               "title": "BLEUnlock",
-              "description": null,
+              "description": "ts1/BLEUnlock",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9263,7 +9263,7 @@
                 "open_issues": 97,
                 "owner": "ts1",
                 "repo": "BLEUnlock",
-                "stars": 4455,
+                "stars": 4457,
                 "topics": [
                   "ble",
                   "bluetooth-low-energy",
@@ -9277,7 +9277,7 @@
             {
               "node_type": "item",
               "title": "ATV Desktop Remote",
-              "description": null,
+              "description": "bsharper/atv-desktop-remote",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9290,7 +9290,7 @@
                 "open_issues": 48,
                 "owner": "bsharper",
                 "repo": "atv-desktop-remote",
-                "stars": 588,
+                "stars": 589,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -9298,7 +9298,7 @@
             {
               "node_type": "item",
               "title": "HA Menu",
-              "description": null,
+              "description": "codechimp-org/ha-menu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9323,7 +9323,7 @@
             {
               "node_type": "item",
               "title": "QuickHue",
-              "description": null,
+              "description": "danparsons/QuickHue",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9344,7 +9344,7 @@
             {
               "node_type": "item",
               "title": "Ses",
-              "description": null,
+              "description": "dbilgili/Ses",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9370,7 +9370,7 @@
             {
               "node_type": "item",
               "title": "Parrot Status",
-              "description": null,
+              "description": "vincent-le-normand/Parrot-Status",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9391,7 +9391,7 @@
             {
               "node_type": "item",
               "title": "UnlockerX",
-              "description": null,
+              "description": "HsOjo/UnlockerX",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9440,7 +9440,7 @@
             {
               "node_type": "item",
               "title": "MyTesla",
-              "description": null,
+              "description": "pvdabeel/mytesla",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9471,7 +9471,7 @@
             {
               "node_type": "item",
               "title": "Casita",
-              "description": null,
+              "description": "david-kuehn/casita",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9502,7 +9502,7 @@
             {
               "node_type": "item",
               "title": "AirSonos.app",
-              "description": null,
+              "description": "mermaid/AirSonos.app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9523,7 +9523,7 @@
             {
               "node_type": "item",
               "title": "Wiz Light Control",
-              "description": null,
+              "description": "rryuliu/WizLightControl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9544,7 +9544,7 @@
             {
               "node_type": "item",
               "title": "Beoplay Remote",
-              "description": null,
+              "description": "tlk/beoplay-macos-remote-gui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9573,7 +9573,7 @@
             {
               "node_type": "item",
               "title": "IKEA Desk Control",
-              "description": null,
+              "description": "sroebert/ikea-desk-control",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9594,7 +9594,7 @@
             {
               "node_type": "item",
               "title": "Raumbar",
-              "description": null,
+              "description": "ulilicht/Raumbar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9618,7 +9618,7 @@
             {
               "node_type": "item",
               "title": "Gatito",
-              "description": null,
+              "description": "eliperkins/Gatito",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9639,7 +9639,7 @@
             {
               "node_type": "item",
               "title": "Stand",
-              "description": null,
+              "description": "visini/stand",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9664,7 +9664,7 @@
             {
               "node_type": "item",
               "title": "dysonMacOS",
-              "description": null,
+              "description": "fhenwood/dysonMacOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9685,7 +9685,7 @@
             {
               "node_type": "item",
               "title": "Nest Thermostat Menubar App",
-              "description": null,
+              "description": "mamoll/nest-menubar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9706,7 +9706,7 @@
             {
               "node_type": "item",
               "title": "Volumio_bar",
-              "description": null,
+              "description": "volderette/Volumio_bar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9727,7 +9727,7 @@
             {
               "node_type": "item",
               "title": "sonostus",
-              "description": null,
+              "description": "sarkkine/sonostus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9768,7 +9768,7 @@
                 "open_issues": 79,
                 "owner": "mikker",
                 "repo": "LeaderKey",
-                "stars": 2283,
+                "stars": 2284,
                 "topics": [
                   "macos",
                   "macos-app"
@@ -9786,7 +9786,7 @@
             {
               "node_type": "item",
               "title": "RatioBar",
-              "description": null,
+              "description": "stursby/ratiobar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9813,7 +9813,7 @@
                 {
                   "node_type": "item",
                   "title": "quickcalc",
-                  "description": null,
+                  "description": "Cwoodall6/quickcalc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9836,7 +9836,7 @@
                 {
                   "node_type": "item",
                   "title": "Calculeta",
-                  "description": null,
+                  "description": "varol/Calculeta",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9857,7 +9857,7 @@
                 {
                   "node_type": "item",
                   "title": "Functions",
-                  "description": null,
+                  "description": "antingle/functions",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9889,7 +9889,7 @@
                 {
                   "node_type": "item",
                   "title": "MultiCalc",
-                  "description": null,
+                  "description": "vashpan/multi-calc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9910,7 +9910,7 @@
                 {
                   "node_type": "item",
                   "title": "Calx",
-                  "description": null,
+                  "description": "epdavid/Calx",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9943,7 +9943,7 @@
             {
               "node_type": "item",
               "title": "Ice",
-              "description": null,
+              "description": "jordanbaird/Ice",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9956,7 +9956,7 @@
                 "open_issues": 440,
                 "owner": "jordanbaird",
                 "repo": "Ice",
-                "stars": 29731,
+                "stars": 29732,
                 "topics": [
                   "macos",
                   "macos-app",
@@ -9975,7 +9975,7 @@
             {
               "node_type": "item",
               "title": "SketchyBar",
-              "description": null,
+              "description": "FelixKratz/SketchyBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9988,7 +9988,7 @@
                 "open_issues": 89,
                 "owner": "FelixKratz",
                 "repo": "SketchyBar",
-                "stars": 12440,
+                "stars": 12441,
                 "topics": [
                   "bar",
                   "customization",
@@ -10009,7 +10009,7 @@
             {
               "node_type": "item",
               "title": "Dozer",
-              "description": null,
+              "description": "Mortennn/Dozer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10022,7 +10022,7 @@
                 "open_issues": 102,
                 "owner": "Mortennn",
                 "repo": "Dozer",
-                "stars": 8722,
+                "stars": 8723,
                 "topics": [
                   "macos",
                   "minimalistic",
@@ -10035,7 +10035,7 @@
             {
               "node_type": "item",
               "title": "Menu Bar Splitter",
-              "description": null,
+              "description": "jwhamilton99/menu-bar-splitter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10056,7 +10056,7 @@
             {
               "node_type": "item",
               "title": "Barbly",
-              "description": null,
+              "description": "luke-clifton/barbly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10077,7 +10077,7 @@
             {
               "node_type": "item",
               "title": "Hideaway",
-              "description": null,
+              "description": "kuglee/Hideaway",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10119,7 +10119,7 @@
                 "id": 1265408951,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-01T22:00:45Z",
+                "last_commit": "2026-10-02T23:39:51Z",
                 "open_issues": 3,
                 "owner": "pedrovieira",
                 "repo": "Holeberry",
@@ -10144,7 +10144,7 @@
             {
               "node_type": "item",
               "title": "IPInfo",
-              "description": null,
+              "description": "bennyscripts/haze",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10176,7 +10176,7 @@
             {
               "node_type": "item",
               "title": "IPMenu",
-              "description": null,
+              "description": "disrvptor/IPMenu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10197,7 +10197,7 @@
             {
               "node_type": "item",
               "title": "Network Interface Menubar",
-              "description": null,
+              "description": "g-k/network-interface-menubar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10246,7 +10246,7 @@
             {
               "node_type": "item",
               "title": "Gapa",
-              "description": null,
+              "description": "ozlerhakan/gapa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10276,7 +10276,7 @@
                 {
                   "node_type": "item",
                   "title": "SwiftBar",
-                  "description": null,
+                  "description": "swiftbar/SwiftBar",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10289,7 +10289,7 @@
                     "open_issues": 6,
                     "owner": "swiftbar",
                     "repo": "SwiftBar",
-                    "stars": 4613,
+                    "stars": 4618,
                     "topics": [
                       "macos",
                       "productivity",
@@ -10313,7 +10313,7 @@
             {
               "node_type": "item",
               "title": "MenuBarCodeReader",
-              "description": null,
+              "description": "msioen/MenuBarCodeReader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10341,7 +10341,7 @@
             {
               "node_type": "item",
               "title": "Security Growler",
-              "description": null,
+              "description": "pirate/security-growler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10372,7 +10372,7 @@
             {
               "node_type": "item",
               "title": "swiftGuard",
-              "description": null,
+              "description": "Lennolium/swiftGuard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10439,7 +10439,7 @@
             {
               "node_type": "item",
               "title": "OneTimeCopy",
-              "description": null,
+              "description": "adama11/OneTimeCopy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10467,7 +10467,7 @@
             {
               "node_type": "item",
               "title": "Quick Dimensions Menubar",
-              "description": null,
+              "description": "lambdamusic/Quick-Dimensions-Menubar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10490,7 +10490,7 @@
                 {
                   "node_type": "item",
                   "title": "Bitwarden Menu",
-                  "description": null,
+                  "description": "3j14/bitwarden-menubar",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -10518,7 +10518,7 @@
                 {
                   "node_type": "item",
                   "title": "FastPassword",
-                  "description": null,
+                  "description": "exelban/FastPassword",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10545,7 +10545,7 @@
                 {
                   "node_type": "item",
                   "title": "Finnish Passphrases",
-                  "description": null,
+                  "description": "JuanitoSebastian/FinnishPassphrases",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10573,7 +10573,7 @@
                 {
                   "node_type": "item",
                   "title": "MPass",
-                  "description": null,
+                  "description": "own2pwn/Menubar-Pass-Generator",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -10606,7 +10606,7 @@
             {
               "node_type": "item",
               "title": "BetterDisplay",
-              "description": null,
+              "description": "waydabber/BetterDisplay",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10615,11 +10615,11 @@
                 "id": 420628737,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-23T12:13:31Z",
-                "open_issues": 155,
+                "last_commit": "2026-10-02T21:16:53Z",
+                "open_issues": 156,
                 "owner": "waydabber",
                 "repo": "BetterDisplay",
-                "stars": 33917,
+                "stars": 33924,
                 "topics": [
                   "4k",
                   "brightness",
@@ -10645,7 +10645,7 @@
             {
               "node_type": "item",
               "title": "Battery Charge Limiter",
-              "description": null,
+              "description": "actuallymentor/battery",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10658,7 +10658,7 @@
                 "open_issues": 184,
                 "owner": "actuallymentor",
                 "repo": "battery",
-                "stars": 7191,
+                "stars": 7192,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -10666,7 +10666,7 @@
             {
               "node_type": "item",
               "title": "OnlySwitch",
-              "description": null,
+              "description": "jacklandrin/OnlySwitch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10679,7 +10679,7 @@
                 "open_issues": 56,
                 "owner": "jacklandrin",
                 "repo": "OnlySwitch",
-                "stars": 5956,
+                "stars": 5958,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -10705,7 +10705,7 @@
             {
               "node_type": "item",
               "title": "Bluesnooze",
-              "description": null,
+              "description": "odlp/bluesnooze",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10730,7 +10730,7 @@
             {
               "node_type": "item",
               "title": "LosslessSwitcher",
-              "description": null,
+              "description": "vincentneo/LosslessSwitcher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10760,7 +10760,7 @@
             {
               "node_type": "item",
               "title": "LinkLiar",
-              "description": null,
+              "description": "halo/LinkLiar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10792,7 +10792,7 @@
             {
               "node_type": "item",
               "title": "Spaces Renamer",
-              "description": null,
+              "description": "dado3212/spaces-renamer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10823,7 +10823,7 @@
             {
               "node_type": "item",
               "title": "Doll",
-              "description": null,
+              "description": "xiaogdgenuine/Doll",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10844,7 +10844,7 @@
             {
               "node_type": "item",
               "title": "AppPolice",
-              "description": null,
+              "description": "AppPolice/AppPolice",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10865,7 +10865,7 @@
             {
               "node_type": "item",
               "title": "Nightfall",
-              "description": null,
+              "description": "r-thomson/Nightfall",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10896,7 +10896,7 @@
             {
               "node_type": "item",
               "title": "Dynamic Dark Mode",
-              "description": null,
+              "description": "ApolloZhu/Dynamic-Dark-Mode",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -10959,7 +10959,7 @@
             {
               "node_type": "item",
               "title": "Nocturnal",
-              "description": null,
+              "description": "joshjon/nocturnal",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -11023,7 +11023,7 @@
             {
               "node_type": "item",
               "title": "LightsOut",
-              "description": null,
+              "description": "AlonX2/LightsOut",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11036,7 +11036,7 @@
                 "open_issues": 8,
                 "owner": "AlonX2",
                 "repo": "LightsOut",
-                "stars": 133,
+                "stars": 134,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -11044,7 +11044,7 @@
             {
               "node_type": "item",
               "title": "WidgetToggler",
-              "description": null,
+              "description": "sieren/WidgetToggler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11070,7 +11070,7 @@
             {
               "node_type": "item",
               "title": "ProxyMenu",
-              "description": null,
+              "description": "ohdarling/ProxyMenu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11091,7 +11091,7 @@
             {
               "node_type": "item",
               "title": "ProxyManager",
-              "description": null,
+              "description": "ZhiaDev/mac-proxy-manager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11118,7 +11118,7 @@
             {
               "node_type": "item",
               "title": "LockMeNow",
-              "description": null,
+              "description": "IGRSoft/LockMeNow",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -11139,7 +11139,7 @@
             {
               "node_type": "item",
               "title": "micSwitch",
-              "description": null,
+              "description": "dstd/micSwitch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11166,7 +11166,7 @@
             {
               "node_type": "item",
               "title": "OneClick",
-              "description": null,
+              "description": "mik3sw/OneClick",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11198,7 +11198,7 @@
             {
               "node_type": "item",
               "title": "Desaturate",
-              "description": null,
+              "description": "seenaburns/Desaturate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11224,7 +11224,7 @@
             {
               "node_type": "item",
               "title": "AIBattery",
-              "description": null,
+              "description": "whuan132/AIBattery-Charge-Limiter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11255,7 +11255,7 @@
             {
               "node_type": "item",
               "title": "Unsterificator",
-              "description": null,
+              "description": "insidegui/Unsterificator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11276,7 +11276,7 @@
             {
               "node_type": "item",
               "title": "Menubar Auto Brightness",
-              "description": null,
+              "description": "MrRobz/menubar-auto-brightness",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11301,7 +11301,7 @@
             {
               "node_type": "item",
               "title": "NameSpace",
-              "description": null,
+              "description": "hyperjeff/NameSpace",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11322,7 +11322,7 @@
             {
               "node_type": "item",
               "title": "Hot Corners Toggler",
-              "description": null,
+              "description": "niallmurphy-ie/Hot-Corners-Toggler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11343,7 +11343,7 @@
             {
               "node_type": "item",
               "title": "Darkness",
-              "description": null,
+              "description": "jdisho/Darkness",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11374,7 +11374,7 @@
             {
               "node_type": "item",
               "title": "Macos-Spaces",
-              "description": null,
+              "description": "collinmurch/macos-spaces",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11424,7 +11424,7 @@
             {
               "node_type": "item",
               "title": "Quick Grayscale",
-              "description": null,
+              "description": "shubhamjain/quick-grayscale",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11445,7 +11445,7 @@
             {
               "node_type": "item",
               "title": "Boo",
-              "description": null,
+              "description": "dimovskidamjan/Boo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11472,7 +11472,7 @@
             {
               "node_type": "item",
               "title": "RDisk",
-              "description": null,
+              "description": "stoqn4opm/RDisk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11497,7 +11497,7 @@
             {
               "node_type": "item",
               "title": "AudioSelector",
-              "description": null,
+              "description": "semiroot/AudioSelector",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11524,7 +11524,7 @@
             {
               "node_type": "item",
               "title": "SampleRateBar",
-              "description": null,
+              "description": "hug963/SampleRateBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11545,7 +11545,7 @@
             {
               "node_type": "item",
               "title": "Night Shift Slider",
-              "description": null,
+              "description": "fredericocurti/night-shift-slider",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11566,7 +11566,7 @@
             {
               "node_type": "item",
               "title": "Scrolln",
-              "description": null,
+              "description": "lucaArchidiacono/Scrolln",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11587,7 +11587,7 @@
             {
               "node_type": "item",
               "title": "DarkLight",
-              "description": null,
+              "description": "ThisIsNoahEvans/DarkLight",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11623,7 +11623,7 @@
             {
               "node_type": "item",
               "title": "Menu Playthrough",
-              "description": null,
+              "description": "melvyn2/MenuPlaythrough",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11644,7 +11644,7 @@
             {
               "node_type": "item",
               "title": "SleepWell",
-              "description": null,
+              "description": "eklundchristopher/SleepWell",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11665,7 +11665,7 @@
             {
               "node_type": "item",
               "title": "Eject Everything",
-              "description": null,
+              "description": "mr-moon/eject-everything",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11686,7 +11686,7 @@
             {
               "node_type": "item",
               "title": "Night Toggle",
-              "description": null,
+              "description": "AurelTyson/night-toggle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11712,7 +11712,7 @@
             {
               "node_type": "item",
               "title": "Toggled",
-              "description": null,
+              "description": "joeyscarim/toggled",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11733,7 +11733,7 @@
             {
               "node_type": "item",
               "title": "underTheRug",
-              "description": null,
+              "description": "cheerlessDreamer/underTheRug",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11756,7 +11756,7 @@
                 {
                   "node_type": "item",
                   "title": "Stillcolor",
-                  "description": null,
+                  "description": "aiaf/Stillcolor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11769,7 +11769,7 @@
                     "open_issues": 16,
                     "owner": "aiaf",
                     "repo": "Stillcolor",
-                    "stars": 1219,
+                    "stars": 1221,
                     "topics": [
                       "apple",
                       "display",
@@ -11791,7 +11791,7 @@
                 {
                   "node_type": "item",
                   "title": "Finicky",
-                  "description": null,
+                  "description": "johnste/finicky",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11821,7 +11821,7 @@
                 {
                   "node_type": "item",
                   "title": "BrowserNow",
-                  "description": null,
+                  "description": "robb-j/BrowserNow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11849,7 +11849,7 @@
                 {
                   "node_type": "item",
                   "title": "NoSleep",
-                  "description": null,
+                  "description": "integralpro/nosleep",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11870,7 +11870,7 @@
                 {
                   "node_type": "item",
                   "title": "Awake",
-                  "description": null,
+                  "description": "xiaozi/awake-app",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11891,7 +11891,7 @@
                 {
                   "node_type": "item",
                   "title": "Chai",
-                  "description": null,
+                  "description": "lvillani/chai",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11919,7 +11919,7 @@
                 {
                   "node_type": "item",
                   "title": "RocketFuel",
-                  "description": null,
+                  "description": "pkrll/RocketFuel",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11946,7 +11946,7 @@
                 {
                   "node_type": "item",
                   "title": "Espresso",
-                  "description": null,
+                  "description": "raphaelhanneken/espresso",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11972,7 +11972,7 @@
                 {
                   "node_type": "item",
                   "title": "Caffeinator",
-                  "description": null,
+                  "description": "jrr6/Caffeinator",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -11999,7 +11999,7 @@
                 {
                   "node_type": "item",
                   "title": "Sleepless Mac",
-                  "description": null,
+                  "description": "gsurma/sleepless_mac",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12068,7 +12068,7 @@
                 {
                   "node_type": "item",
                   "title": "HalfCaff",
-                  "description": null,
+                  "description": "dougn/HalfCaff",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12089,7 +12089,7 @@
                 {
                   "node_type": "item",
                   "title": "yaca",
-                  "description": null,
+                  "description": "drproteus/yaca",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12117,7 +12117,7 @@
                 {
                   "node_type": "item",
                   "title": "RDM",
-                  "description": null,
+                  "description": "avibrazil/RDM",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -12138,7 +12138,7 @@
                 {
                   "node_type": "item",
                   "title": "Displace",
-                  "description": null,
+                  "description": "newmarcel/Displace",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -12163,7 +12163,7 @@
                 {
                   "node_type": "item",
                   "title": "DisplayModeSwitcher",
-                  "description": null,
+                  "description": "bellbind/DisplayModeSwitcher",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12196,7 +12196,7 @@
             {
               "node_type": "item",
               "title": "QuickSound",
-              "description": null,
+              "description": "tdimeco/quicksound",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12231,7 +12231,7 @@
             {
               "node_type": "item",
               "title": "Stockman",
-              "description": null,
+              "description": "awkj/stockman",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12252,7 +12252,7 @@
             {
               "node_type": "item",
               "title": "RH-Ticker",
-              "description": null,
+              "description": "peniqliotuv/robinhood-ticker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12273,7 +12273,7 @@
             {
               "node_type": "item",
               "title": "StockBar",
-              "description": null,
+              "description": "fhl43211/StockBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12307,7 +12307,7 @@
             {
               "node_type": "item",
               "title": "StocksBar",
-              "description": null,
+              "description": "alexiscn/StocksBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12340,7 +12340,7 @@
             {
               "node_type": "item",
               "title": "OnlySwitch",
-              "description": null,
+              "description": "jacklandrin/OnlySwitch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12353,7 +12353,7 @@
                 "open_issues": 56,
                 "owner": "jacklandrin",
                 "repo": "OnlySwitch",
-                "stars": 5956,
+                "stars": 5958,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -12379,7 +12379,7 @@
             {
               "node_type": "item",
               "title": "Thor",
-              "description": null,
+              "description": "gbammc/Thor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12406,7 +12406,7 @@
             {
               "node_type": "item",
               "title": "Verve",
-              "description": null,
+              "description": "ParthJadhav/Verve",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12444,7 +12444,7 @@
             {
               "node_type": "item",
               "title": "CloudyTabs",
-              "description": null,
+              "description": "josh-/CloudyTabs",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -12471,7 +12471,7 @@
             {
               "node_type": "item",
               "title": "Catapult",
-              "description": null,
+              "description": "cerpow/catapult",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12513,7 +12513,7 @@
             {
               "node_type": "item",
               "title": "Top-Drawer",
-              "description": null,
+              "description": "SteveBarnegren/TopDrawer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12566,7 +12566,7 @@
             {
               "node_type": "item",
               "title": "Mojibar",
-              "description": null,
+              "description": "muan/mojibar",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -12591,7 +12591,7 @@
             {
               "node_type": "item",
               "title": "URLify",
-              "description": null,
+              "description": "mikeckennedy/urlify",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12619,7 +12619,7 @@
             {
               "node_type": "item",
               "title": "AnyIpsum",
-              "description": null,
+              "description": "jodelamo/AnyIpsum",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12679,7 +12679,7 @@
             {
               "node_type": "item",
               "title": "wordsquirt",
-              "description": null,
+              "description": "ostcrom/wordsquirt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12710,7 +12710,7 @@
             {
               "node_type": "item",
               "title": "Rewrite",
-              "description": null,
+              "description": "SSBun/Rewrite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -12733,7 +12733,7 @@
                 {
                   "node_type": "item",
                   "title": "Easydict",
-                  "description": null,
+                  "description": "tisfeng/Easydict",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12746,7 +12746,7 @@
                     "open_issues": 188,
                     "owner": "tisfeng",
                     "repo": "Easydict",
-                    "stars": 14831,
+                    "stars": 14833,
                     "topics": [
                       "app",
                       "baidu",
@@ -12770,7 +12770,7 @@
                 {
                   "node_type": "item",
                   "title": "BarTranslate",
-                  "description": null,
+                  "description": "ThijmenDam/BarTranslate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12791,7 +12791,7 @@
                 {
                   "node_type": "item",
                   "title": "Google Translate",
-                  "description": null,
+                  "description": "dbilgili/GoogleTranslate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12817,7 +12817,7 @@
                 {
                   "node_type": "item",
                   "title": "Translator",
-                  "description": null,
+                  "description": "dbilgili/GoogleTranslate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12843,7 +12843,7 @@
                 {
                   "node_type": "item",
                   "title": "GoogleTranslate",
-                  "description": null,
+                  "description": "xaoxuu/GoogleTranslate-Mac",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12864,7 +12864,7 @@
                 {
                   "node_type": "item",
                   "title": "translateBar",
-                  "description": null,
+                  "description": "ShawnAlisson/translateBar",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12890,7 +12890,7 @@
                 {
                   "node_type": "item",
                   "title": "Duoloingo Pomodoro",
-                  "description": null,
+                  "description": "DanielNoord/DuolingoPomodoro",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12911,7 +12911,7 @@
                 {
                   "node_type": "item",
                   "title": "KwikTrans",
-                  "description": null,
+                  "description": "cheerlessDreamer/kwiktrans",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12937,7 +12937,7 @@
                 {
                   "node_type": "item",
                   "title": "sb-translate",
-                  "description": null,
+                  "description": "leandroltavares/sb-translate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -12958,7 +12958,7 @@
                 {
                   "node_type": "item",
                   "title": "StatBar-Translate",
-                  "description": null,
+                  "description": "kevinm6/StatBar-Translate",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -12991,7 +12991,7 @@
             {
               "node_type": "item",
               "title": "dotBeat",
-              "description": null,
+              "description": "amiantos/dotbeat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13018,7 +13018,7 @@
             {
               "node_type": "item",
               "title": "Tempo",
-              "description": null,
+              "description": "kibaffo33/Tempo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13039,7 +13039,7 @@
             {
               "node_type": "item",
               "title": "Hipster",
-              "description": null,
+              "description": "bertrandom/hipster",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13060,7 +13060,7 @@
             {
               "node_type": "item",
               "title": "epochBar",
-              "description": null,
+              "description": "ethanndickson/epochBar",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -13081,7 +13081,7 @@
             {
               "node_type": "item",
               "title": "JalaliDate",
-              "description": null,
+              "description": "blackswandevcom/jalaliDate-macOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13109,7 +13109,7 @@
                 {
                   "node_type": "item",
                   "title": "World Clock",
-                  "description": null,
+                  "description": "kartik-venugopal/world-clock",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13136,7 +13136,7 @@
                 {
                   "node_type": "item",
                   "title": "WordTime",
-                  "description": null,
+                  "description": "Demonstrandum/WordTime",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13168,7 +13168,7 @@
                 {
                   "node_type": "item",
                   "title": "Timezones",
-                  "description": null,
+                  "description": "franciscoamado/Timezones",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13202,7 +13202,7 @@
                 {
                   "node_type": "item",
                   "title": "UTCMenuClock",
-                  "description": null,
+                  "description": "netik/UTCMenuClock",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -13235,7 +13235,7 @@
             {
               "node_type": "item",
               "title": "VPN Handler",
-              "description": null,
+              "description": "tsarenkotxt/vpn-handler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13261,7 +13261,7 @@
             {
               "node_type": "item",
               "title": "macvpnwatcher",
-              "description": null,
+              "description": "ocordes/macvpnwatcher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13289,7 +13289,7 @@
             {
               "node_type": "item",
               "title": "WeatherBarApp",
-              "description": null,
+              "description": "manifestinteractive/weather-bar-app",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -13310,7 +13310,7 @@
             {
               "node_type": "item",
               "title": "Air",
-              "description": null,
+              "description": "Gabriel-Lewis/Air",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13337,7 +13337,7 @@
             {
               "node_type": "item",
               "title": "Temps",
-              "description": null,
+              "description": "musicpro/temps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13358,7 +13358,7 @@
             {
               "node_type": "item",
               "title": "PurpleMenu",
-              "description": null,
+              "description": "ayn/PurpleMenu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13383,7 +13383,7 @@
             {
               "node_type": "item",
               "title": "AQI-app",
-              "description": null,
+              "description": "ChrisChou-freeman/aqi_app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13409,7 +13409,7 @@
             {
               "node_type": "item",
               "title": "QAirMon",
-              "description": null,
+              "description": "Mixarius/qAirMon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13430,7 +13430,7 @@
             {
               "node_type": "item",
               "title": "Weatherette",
-              "description": null,
+              "description": "Rughalt/weatherette",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13451,7 +13451,7 @@
             {
               "node_type": "item",
               "title": "WeatherMenu",
-              "description": null,
+              "description": "kshired/WeatherMenu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13482,7 +13482,7 @@
             {
               "node_type": "item",
               "title": "ShiftIt",
-              "description": null,
+              "description": "fikovnik/ShiftIt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13503,7 +13503,7 @@
             {
               "node_type": "item",
               "title": "Easy Move+Resize",
-              "description": null,
+              "description": "dmarcotte/easy-move-resize",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -13516,7 +13516,7 @@
                 "open_issues": 38,
                 "owner": "dmarcotte",
                 "repo": "easy-move-resize",
-                "stars": 1340,
+                "stars": 1341,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -13535,7 +13535,7 @@
         {
           "node_type": "item",
           "title": "Nimble",
-          "description": null,
+          "description": "Maybulb/Nimble",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -13548,7 +13548,7 @@
             "open_issues": 5,
             "owner": "Maybulb",
             "repo": "Nimble",
-            "stars": 241,
+            "stars": 240,
             "topics": [
               "electron",
               "macos",
@@ -13561,7 +13561,7 @@
         {
           "node_type": "item",
           "title": "QuickBrowse",
-          "description": null,
+          "description": "QwertyOfficial/QuickBrowse",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -13588,7 +13588,7 @@
         {
           "node_type": "item",
           "title": "Pretzel",
-          "description": null,
+          "description": "amiechen/pretzel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -13637,7 +13637,7 @@
         {
           "node_type": "item",
           "title": "Switcher",
-          "description": null,
+          "description": "tkgka/Switcher",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -13668,7 +13668,7 @@
         {
           "node_type": "item",
           "title": "Shortcut",
-          "description": null,
+          "description": "egoist/Shortcut",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -13729,7 +13729,7 @@
         {
           "node_type": "item",
           "title": "leif",
-          "description": null,
+          "description": "fetimo/leif",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -13750,7 +13750,7 @@
         {
           "node_type": "item",
           "title": "PSPEWC",
-          "description": null,
+          "description": "jacquesCedric/PSPEWC-mac",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -13771,7 +13771,7 @@
         {
           "node_type": "item",
           "title": "Keydings",
-          "description": null,
+          "description": "jsyang/keydings",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -13795,7 +13795,7 @@
         {
           "node_type": "item",
           "title": "mutebutton",
-          "description": null,
+          "description": "bringert/mutebutton",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -13816,7 +13816,7 @@
         {
           "node_type": "item",
           "title": "Cheerlights",
-          "description": null,
+          "description": "kiliankoe/Cheerlights",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -13837,7 +13837,7 @@
         {
           "node_type": "item",
           "title": "Macbar Next Bus",
-          "description": null,
+          "description": "dbradleyfl/macbar-next-bus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -13866,7 +13866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:39:18.936Z",
+    "last_updated": "2026-10-03T04:29:51.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sorted list of 1800+ macOS menubar apps",
