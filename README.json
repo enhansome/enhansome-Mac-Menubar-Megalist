@@ -2977,7 +2977,7 @@
             "open_issues": 16,
             "owner": "aiaf",
             "repo": "Stillcolor",
-            "stars": 1222,
+            "stars": 1221,
             "topics": [
               "apple",
               "display",
@@ -7226,7 +7226,7 @@
                 "open_issues": 93,
                 "owner": "vincelwt",
                 "repo": "chatgpt-mac",
-                "stars": 6253,
+                "stars": 6252,
                 "topics": [
                   "chatgpt",
                   "gpt-3",
@@ -10616,10 +10616,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-03T06:26:43Z",
-                "open_issues": 160,
+                "open_issues": 162,
                 "owner": "waydabber",
                 "repo": "BetterDisplay",
-                "stars": 33961,
+                "stars": 33963,
                 "topics": [
                   "4k",
                   "brightness",
@@ -10658,7 +10658,7 @@
                 "open_issues": 185,
                 "owner": "actuallymentor",
                 "repo": "battery",
-                "stars": 7192,
+                "stars": 7193,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -10875,7 +10875,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2024-02-29T01:05:59Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "r-thomson",
                 "repo": "Nightfall",
                 "stars": 561,
@@ -11769,7 +11769,7 @@
                     "open_issues": 16,
                     "owner": "aiaf",
                     "repo": "Stillcolor",
-                    "stars": 1222,
+                    "stars": 1221,
                     "topics": [
                       "apple",
                       "display",
@@ -12746,7 +12746,7 @@
                     "open_issues": 195,
                     "owner": "tisfeng",
                     "repo": "Easydict",
-                    "stars": 14849,
+                    "stars": 14848,
                     "topics": [
                       "app",
                       "baidu",
@@ -13866,7 +13866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:58:46.281Z",
+    "last_updated": "2026-10-06T12:30:33.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sorted list of 1800+ macOS menubar apps",
