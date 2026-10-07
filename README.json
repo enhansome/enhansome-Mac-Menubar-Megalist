@@ -1652,7 +1652,7 @@
                 "id": 90079468,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T05:11:55Z",
+                "last_commit": "2026-10-07T05:08:28Z",
                 "open_issues": 6,
                 "owner": "joshghent",
                 "repo": "gifbar",
@@ -1764,7 +1764,7 @@
                 "open_issues": 308,
                 "owner": "ddddxxx",
                 "repo": "LyricsX",
-                "stars": 5231,
+                "stars": 5229,
                 "topics": [
                   "apple-music",
                   "audirvana",
@@ -1814,8 +1814,8 @@
                 "id": 717205563,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-05-23T19:01:03Z",
-                "open_issues": 41,
+                "last_commit": "2026-10-06T20:13:14Z",
+                "open_issues": 40,
                 "owner": "martinfekete10",
                 "repo": "Tuneful",
                 "stars": 537,
@@ -2492,7 +2492,7 @@
                 "open_issues": 5,
                 "owner": "DenBeke",
                 "repo": "YouTube-Downloader-for-macOS",
-                "stars": 602,
+                "stars": 601,
                 "topics": [
                   "download",
                   "macos",
@@ -2587,7 +2587,7 @@
                 "open_issues": 17,
                 "owner": "insidegui",
                 "repo": "PodcastMenu",
-                "stars": 1266,
+                "stars": 1265,
                 "topics": [
                   "macos",
                   "media",
@@ -2977,7 +2977,7 @@
             "open_issues": 16,
             "owner": "aiaf",
             "repo": "Stillcolor",
-            "stars": 1221,
+            "stars": 1222,
             "topics": [
               "apple",
               "display",
@@ -3347,7 +3347,7 @@
                 "open_issues": 0,
                 "owner": "Mnpn",
                 "repo": "Taberu",
-                "stars": 25,
+                "stars": 26,
                 "topics": [
                   "macos",
                   "rss",
@@ -3643,7 +3643,7 @@
                 "open_issues": 8,
                 "owner": "pakerwreah",
                 "repo": "Calendr",
-                "stars": 2397,
+                "stars": 2398,
                 "topics": [
                   "agenda",
                   "calendar",
@@ -4331,7 +4331,7 @@
                 "open_issues": 41,
                 "owner": "DamascenoRafael",
                 "repo": "reminders-menubar",
-                "stars": 3960,
+                "stars": 3959,
                 "topics": [
                   "apple-reminders",
                   "macos",
@@ -4601,7 +4601,7 @@
                 "open_issues": 46,
                 "owner": "ivoronin",
                 "repo": "TomatoBar",
-                "stars": 3557,
+                "stars": 3556,
                 "topics": [
                   "macos",
                   "menubar",
@@ -5425,7 +5425,7 @@
                 "open_issues": 38,
                 "owner": "iglance",
                 "repo": "iGlance",
-                "stars": 2488,
+                "stars": 2487,
                 "topics": [
                   "battery",
                   "cpu",
@@ -5488,7 +5488,7 @@
                 "open_issues": 0,
                 "owner": "gechr",
                 "repo": "WhichSpace",
-                "stars": 843,
+                "stars": 844,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -7226,7 +7226,7 @@
                 "open_issues": 93,
                 "owner": "vincelwt",
                 "repo": "chatgpt-mac",
-                "stars": 6252,
+                "stars": 6250,
                 "topics": [
                   "chatgpt",
                   "gpt-3",
@@ -8081,7 +8081,7 @@
                 "open_issues": 0,
                 "owner": "carson-katri",
                 "repo": "status-color-meter",
-                "stars": 8,
+                "stars": 7,
                 "topics": [
                   "color-picker",
                   "macos",
@@ -8966,7 +8966,7 @@
                     "open_issues": 4,
                     "owner": "RhetTbull",
                     "repo": "textinator",
-                    "stars": 204,
+                    "stars": 205,
                     "topics": [
                       "macos",
                       "menubar",
@@ -9024,7 +9024,7 @@
                     "open_issues": 260,
                     "owner": "wulkano",
                     "repo": "Kap",
-                    "stars": 19386,
+                    "stars": 19387,
                     "topics": [
                       "aperture",
                       "app",
@@ -9263,7 +9263,7 @@
                 "open_issues": 97,
                 "owner": "ts1",
                 "repo": "BLEUnlock",
-                "stars": 4461,
+                "stars": 4468,
                 "topics": [
                   "ble",
                   "bluetooth-low-energy",
@@ -9768,7 +9768,7 @@
                 "open_issues": 79,
                 "owner": "mikker",
                 "repo": "LeaderKey",
-                "stars": 2286,
+                "stars": 2288,
                 "topics": [
                   "macos",
                   "macos-app"
@@ -9952,11 +9952,11 @@
                 "id": 674832198,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2025-09-20T20:28:17Z",
+                "last_commit": "2026-10-06T20:43:59Z",
                 "open_issues": 440,
                 "owner": "jordanbaird",
                 "repo": "Ice",
-                "stars": 29754,
+                "stars": 29763,
                 "topics": [
                   "macos",
                   "macos-app",
@@ -9988,7 +9988,7 @@
                 "open_issues": 91,
                 "owner": "FelixKratz",
                 "repo": "SketchyBar",
-                "stars": 12445,
+                "stars": 12449,
                 "topics": [
                   "bar",
                   "customization",
@@ -10022,7 +10022,7 @@
                 "open_issues": 102,
                 "owner": "Mortennn",
                 "repo": "Dozer",
-                "stars": 8723,
+                "stars": 8722,
                 "topics": [
                   "macos",
                   "minimalistic",
@@ -10289,7 +10289,7 @@
                     "open_issues": 6,
                     "owner": "swiftbar",
                     "repo": "SwiftBar",
-                    "stars": 4632,
+                    "stars": 4638,
                     "topics": [
                       "macos",
                       "productivity",
@@ -10405,24 +10405,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Cover your Mac screen with a hotkey while AI agents keep running. Dog/cat mascot, native Settings, Touch ID unlock.",
+                "description": "Cover your Mac's screen with a hotkey while AI agents keep running, even with the lid closed. The covered screen glows when Claude Code, Codex or Gemini needs you. Touch ID unlock.",
                 "homepage": "https://getlockpaw.com",
                 "id": 1186242047,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-15T05:42:04Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-07T09:51:11Z",
+                "open_issues": 1,
                 "owner": "sorkila",
                 "repo": "lockpaw",
-                "stars": 154,
+                "stars": 155,
                 "topics": [
                   "ai-agents",
                   "claude-code",
+                  "codex",
                   "developer-tools",
+                  "gemini-cli",
                   "hotkey",
                   "macos",
                   "macos-app",
                   "menubar",
+                  "menubar-app",
                   "open-source",
                   "privacy",
                   "screen-lock",
@@ -10615,11 +10618,11 @@
                 "id": 420628737,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-03T06:26:43Z",
-                "open_issues": 162,
+                "last_commit": "2026-10-06T17:36:26Z",
+                "open_issues": 150,
                 "owner": "waydabber",
                 "repo": "BetterDisplay",
-                "stars": 33963,
+                "stars": 33979,
                 "topics": [
                   "4k",
                   "brightness",
@@ -10718,7 +10721,7 @@
                 "open_issues": 23,
                 "owner": "odlp",
                 "repo": "bluesnooze",
-                "stars": 2695,
+                "stars": 2693,
                 "topics": [
                   "bluetooth",
                   "macos",
@@ -11769,7 +11772,7 @@
                     "open_issues": 16,
                     "owner": "aiaf",
                     "repo": "Stillcolor",
-                    "stars": 1221,
+                    "stars": 1222,
                     "topics": [
                       "apple",
                       "display",
@@ -12286,7 +12289,7 @@
                 "open_issues": 0,
                 "owner": "fhl43211",
                 "repo": "StockBar",
-                "stars": 33,
+                "stars": 32,
                 "topics": [
                   "bitcoin",
                   "combine",
@@ -12419,7 +12422,7 @@
                 "open_issues": 24,
                 "owner": "ParthJadhav",
                 "repo": "Verve",
-                "stars": 857,
+                "stars": 858,
                 "topics": [
                   "alfred",
                   "cmd-k",
@@ -12742,11 +12745,11 @@
                     "id": 566323731,
                     "language": "Swift",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-05T07:30:50Z",
+                    "last_commit": "2026-10-06T12:41:28Z",
                     "open_issues": 195,
                     "owner": "tisfeng",
                     "repo": "Easydict",
-                    "stars": 14848,
+                    "stars": 14858,
                     "topics": [
                       "app",
                       "baidu",
@@ -12775,7 +12778,7 @@
                   "repo_info": {
                     "archived": false,
                     "description": "🚀 BarTranslate, a handy (free) menu bar translator widget for macOS.",
-                    "homepage": "https://thijmendam.github.io/BarTranslate/",
+                    "homepage": "https://apps.thijmendam.nl/bartranslate",
                     "id": 208571770,
                     "language": "Swift",
                     "license": "GPL-3.0",
@@ -13866,7 +13869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T12:30:33.373Z",
+    "last_updated": "2026-10-07T12:23:45.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sorted list of 1800+ macOS menubar apps",
