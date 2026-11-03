@@ -125,7 +125,7 @@
             "open_issues": 16,
             "owner": "tonsky",
             "repo": "AnyBar",
-            "stars": 6039,
+            "stars": 6040,
             "topics": []
           },
           "first_seen": "2026-08-28T17:57:01.726Z"
@@ -1708,7 +1708,7 @@
                 "open_issues": 543,
                 "owner": "kyleneideck",
                 "repo": "BackgroundMusic",
-                "stars": 19370,
+                "stars": 19371,
                 "topics": [
                   "audio",
                   "audio-utility",
@@ -1735,7 +1735,7 @@
                 "open_issues": 308,
                 "owner": "ddddxxx",
                 "repo": "LyricsX",
-                "stars": 5243,
+                "stars": 5245,
                 "topics": [
                   "apple-music",
                   "audirvana",
@@ -1789,7 +1789,7 @@
                 "open_issues": 40,
                 "owner": "martinfekete10",
                 "repo": "Tuneful",
-                "stars": 538,
+                "stars": 539,
                 "topics": [
                   "apple-music",
                   "macos",
@@ -2617,7 +2617,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-11T17:42:31Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "SokoloffA",
                 "repo": "radiola",
                 "stars": 466,
@@ -2753,8 +2753,8 @@
                 "id": 102434342,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-01T10:03:31Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-02T23:53:07Z",
+                "open_issues": 5,
                 "owner": "wass3r",
                 "repo": "radiobar",
                 "stars": 2,
@@ -2948,7 +2948,7 @@
             "open_issues": 18,
             "owner": "aiaf",
             "repo": "Stillcolor",
-            "stars": 1237,
+            "stars": 1236,
             "topics": [
               "apple",
               "display",
@@ -3202,7 +3202,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-26T23:33:08Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "t1dtools",
                 "repo": "GlucoseBar",
                 "stars": 36,
@@ -3610,8 +3610,8 @@
                 "id": 324267700,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-30T20:04:21Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-03T12:13:41Z",
+                "open_issues": 0,
                 "owner": "pakerwreah",
                 "repo": "Calendr",
                 "stars": 2427,
@@ -3648,7 +3648,7 @@
                 "open_issues": 0,
                 "owner": "LunarBar-app",
                 "repo": "LunarBar",
-                "stars": 1513,
+                "stars": 1514,
                 "topics": [
                   "calendar",
                   "lunar-calendar",
@@ -4302,7 +4302,7 @@
                 "open_issues": 44,
                 "owner": "DamascenoRafael",
                 "repo": "reminders-menubar",
-                "stars": 4004,
+                "stars": 4005,
                 "topics": [
                   "apple-reminders",
                   "macos",
@@ -4572,7 +4572,7 @@
                 "open_issues": 48,
                 "owner": "ivoronin",
                 "repo": "TomatoBar",
-                "stars": 3578,
+                "stars": 3580,
                 "topics": [
                   "macos",
                   "menubar",
@@ -7204,7 +7204,7 @@
                 "open_issues": 39,
                 "owner": "sonnylazuardi",
                 "repo": "chat-ai-desktop",
-                "stars": 1999,
+                "stars": 1998,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -8340,7 +8340,7 @@
                         "id": 443639720,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-11-01T00:40:24Z",
+                        "last_commit": "2026-11-02T16:26:40Z",
                         "open_issues": 9,
                         "owner": "aorumbayev",
                         "repo": "tinybar",
@@ -8802,37 +8802,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
-            },
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Drop2Download",
-                  "description": "diatoming/Drop2Download",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "macOS menu bar app for youtube-dl GUI",
-                    "homepage": null,
-                    "id": 275570741,
-                    "language": "Swift",
-                    "license": "MIT",
-                    "last_commit": "2020-08-04T08:28:55Z",
-                    "open_issues": 0,
-                    "owner": "diatoming",
-                    "repo": "Drop2Download",
-                    "stars": 7,
-                    "topics": [
-                      "macos-app",
-                      "youtube-dl-gui"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T17:57:01.726Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Video Download"
             }
           ],
           "description": null,
@@ -8859,7 +8828,7 @@
                     "open_issues": 8,
                     "owner": "amebalabs",
                     "repo": "TRex",
-                    "stars": 1948,
+                    "stars": 1949,
                     "topics": [
                       "macos",
                       "ocr",
@@ -8974,7 +8943,7 @@
                     "open_issues": 260,
                     "owner": "wulkano",
                     "repo": "Kap",
-                    "stars": 19412,
+                    "stars": 19413,
                     "topics": [
                       "aperture",
                       "app",
@@ -9213,7 +9182,7 @@
                 "open_issues": 98,
                 "owner": "ts1",
                 "repo": "BLEUnlock",
-                "stars": 4519,
+                "stars": 4522,
                 "topics": [
                   "ble",
                   "bluetooth-low-energy",
@@ -9885,7 +9854,7 @@
                 "open_issues": 451,
                 "owner": "jordanbaird",
                 "repo": "Ice",
-                "stars": 29943,
+                "stars": 29946,
                 "topics": [
                   "macos",
                   "macos-app",
@@ -9917,7 +9886,7 @@
                 "open_issues": 92,
                 "owner": "FelixKratz",
                 "repo": "SketchyBar",
-                "stars": 12556,
+                "stars": 12558,
                 "topics": [
                   "bar",
                   "customization",
@@ -10048,8 +10017,8 @@
                 "id": 1265408951,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-25T17:45:18Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-03T00:58:46Z",
+                "open_issues": 4,
                 "owner": "pedrovieira",
                 "repo": "Holeberry",
                 "stars": 108,
@@ -10215,10 +10184,10 @@
                     "language": "Swift",
                     "license": "MIT",
                     "last_commit": "2026-09-29T16:59:18Z",
-                    "open_issues": 17,
+                    "open_issues": 18,
                     "owner": "swiftbar",
                     "repo": "SwiftBar",
-                    "stars": 4749,
+                    "stars": 4750,
                     "topics": [
                       "macos",
                       "productivity",
@@ -10343,7 +10312,7 @@
                 "open_issues": 7,
                 "owner": "sorkila",
                 "repo": "lockpaw",
-                "stars": 171,
+                "stars": 173,
                 "topics": [
                   "ai-agents",
                   "claude-code",
@@ -10551,7 +10520,7 @@
                 "open_issues": 98,
                 "owner": "waydabber",
                 "repo": "BetterDisplay",
-                "stars": 34352,
+                "stars": 34364,
                 "topics": [
                   "4k",
                   "brightness",
@@ -10590,7 +10559,7 @@
                 "open_issues": 186,
                 "owner": "actuallymentor",
                 "repo": "battery",
-                "stars": 7197,
+                "stars": 7200,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -10607,11 +10576,11 @@
                 "id": 433619938,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-01T19:15:03Z",
-                "open_issues": 53,
+                "last_commit": "2026-11-02T20:45:05Z",
+                "open_issues": 54,
                 "owner": "jacklandrin",
                 "repo": "OnlySwitch",
-                "stars": 6027,
+                "stars": 6029,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -10653,7 +10622,7 @@
                 "open_issues": 25,
                 "owner": "odlp",
                 "repo": "bluesnooze",
-                "stars": 2714,
+                "stars": 2713,
                 "topics": [
                   "bluetooth",
                   "macos",
@@ -11704,7 +11673,7 @@
                     "open_issues": 18,
                     "owner": "aiaf",
                     "repo": "Stillcolor",
-                    "stars": 1237,
+                    "stars": 1236,
                     "topics": [
                       "apple",
                       "display",
@@ -11739,7 +11708,7 @@
                     "open_issues": 61,
                     "owner": "johnste",
                     "repo": "finicky",
-                    "stars": 5239,
+                    "stars": 5244,
                     "topics": [
                       "browser",
                       "go",
@@ -11797,8 +11766,36 @@
                     "open_issues": 30,
                     "owner": "integralpro",
                     "repo": "nosleep",
-                    "stars": 883,
+                    "stars": 884,
                     "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:57:01.726Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Chai",
+                  "description": "lvillani/chai",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Don't let your Mac fall asleep, like a sir",
+                    "homepage": null,
+                    "id": 29434638,
+                    "language": "Swift",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-31T08:56:53Z",
+                    "open_issues": 0,
+                    "owner": "lvillani",
+                    "repo": "chai",
+                    "stars": 127,
+                    "topics": [
+                      "macos",
+                      "macos-menubar",
+                      "macos-utility",
+                      "menubar",
+                      "sleep",
+                      "utility"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:57:01.726Z"
                 },
@@ -11820,34 +11817,6 @@
                     "repo": "awake-app",
                     "stars": 126,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:57:01.726Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Chai",
-                  "description": "lvillani/chai",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Don't let your Mac fall asleep, like a sir",
-                    "homepage": null,
-                    "id": 29434638,
-                    "language": "Swift",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-10-31T08:56:53Z",
-                    "open_issues": 0,
-                    "owner": "lvillani",
-                    "repo": "chai",
-                    "stars": 126,
-                    "topics": [
-                      "macos",
-                      "macos-menubar",
-                      "macos-utility",
-                      "menubar",
-                      "sleep",
-                      "utility"
-                    ]
                   },
                   "first_seen": "2026-08-28T17:57:01.726Z"
                 },
@@ -12065,7 +12034,7 @@
                     "open_issues": 57,
                     "owner": "avibrazil",
                     "repo": "RDM",
-                    "stars": 4219,
+                    "stars": 4220,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:57:01.726Z"
@@ -12284,11 +12253,11 @@
                 "id": 433619938,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-01T19:15:03Z",
-                "open_issues": 53,
+                "last_commit": "2026-11-02T20:45:05Z",
+                "open_issues": 54,
                 "owner": "jacklandrin",
                 "repo": "OnlySwitch",
-                "stars": 6027,
+                "stars": 6029,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -12566,8 +12535,8 @@
                 "id": 62967092,
                 "language": "Swift",
                 "license": null,
-                "last_commit": "2026-10-28T00:58:39Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-03T08:38:27Z",
+                "open_issues": 1,
                 "owner": "jodelamo",
                 "repo": "AnyIpsum",
                 "stars": 15,
@@ -12681,10 +12650,10 @@
                     "language": "Swift",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-02T11:58:37Z",
-                    "open_issues": 193,
+                    "open_issues": 196,
                     "owner": "tisfeng",
                     "repo": "Easydict",
-                    "stars": 15168,
+                    "stars": 15183,
                     "topics": [
                       "app",
                       "baidu",
@@ -13023,21 +12992,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A minimalist macOS menu bar app that displays the current Jalali (Persian) date alongside the Gregorian date.",
-                "homepage": "https://www.linkedin.com/posts/activity-7258891206804340738-QoHv",
+                "description": "jDate: the Jalali (Persian), Gregorian and Hijri date in the macOS menubar, with Iranian holidays, calendars, birthdays, weather, world clocks and desktop widgets.",
+                "homepage": "https://amirhp.com/open-source/jdate/",
                 "id": 882720248,
                 "language": "Swift",
-                "license": null,
-                "last_commit": "2025-09-03T17:06:57Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-11-03T10:01:39Z",
                 "open_issues": 0,
                 "owner": "blackswandevcom",
                 "repo": "jalaliDate-macOS",
                 "stars": 0,
                 "topics": [
+                  "jalali",
                   "jalali-calendar",
                   "jalali-date",
                   "macos",
-                  "macos-app"
+                  "macos-app",
+                  "menubar",
+                  "persian-calendar",
+                  "swiftui",
+                  "widgetkit"
                 ]
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -13149,7 +13123,7 @@
                     "id": 2775632,
                     "language": "Objective-C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-15T15:49:39Z",
+                    "last_commit": "2026-11-02T19:39:55Z",
                     "open_issues": 1,
                     "owner": "netik",
                     "repo": "UTCMenuClock",
@@ -13454,7 +13428,7 @@
                 "open_issues": 38,
                 "owner": "dmarcotte",
                 "repo": "easy-move-resize",
-                "stars": 1348,
+                "stars": 1347,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -13804,7 +13778,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T14:21:32.388Z",
+    "last_updated": "2026-11-03T13:21:10.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sorted list of 1800+ macOS menubar apps",
