@@ -184,7 +184,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 * [DockerMenu](https://github.com/rdsubhas/menubar-docker) ⭐ 132 | 🐛 2 | 🌐 JavaScript | 📅 2015-10-30
 * [ServPane](https://github.com/aderyabin/ServPane) ⭐ 117 | 🐛 5 | 🌐 JavaScript | 📅 2023-07-25
 * [ScriptManager](https://github.com/DanielFiller30/ScriptManager) ⭐ 100 | 🐛 2 | 🌐 Swift | 📅 2024-07-30
-* [CleanerXcode](https://github.com/didisouzacosta/CleanerXcode) ⭐ 82 | 🐛 1 | 🌐 Swift | 📅 2026-11-01 by [Adriano Souza Costa](https://adrianosouzacosta.com.br) — Remove derived data, build caches, and simulator data from Xcode — Free, open source
+* [CleanerXcode](https://github.com/didisouzacosta/CleanerXcode) ⭐ 82 | 🐛 1 | 🌐 Swift | 📅 2026-11-06 by [Adriano Souza Costa](https://adrianosouzacosta.com.br) — Remove derived data, build caches, and simulator data from Xcode — Free, open source
 * [Captain](https://github.com/RickWong/Captain) ⭐ 71 | 🐛 6 | 🌐 TypeScript | 📅 2024-04-18
 * [LeetBar](https://github.com/marwanhawari/LeetBar) ⭐ 61 | 🐛 1 | 🌐 Swift | 📅 2025-09-16
 * [shbar](https://github.com/richinfante/shbar) ⭐ 36 | 🐛 0 | 🌐 Swift | 📅 2019-04-25
@@ -333,8 +333,8 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ### Music
 
-* [Background Music](https://github.com/kyleneideck/BackgroundMusic) ⭐ 19,372 | 🐛 543 | 🌐 C++ | 📅 2026-06-10
-* [LyricsX](https://github.com/ddddxxx/LyricsX) ⭐ 5,247 | 🐛 308 | 🌐 Swift | 📅 2026-07-22
+* [Background Music](https://github.com/kyleneideck/BackgroundMusic) ⭐ 19,375 | 🐛 543 | 🌐 C++ | 📅 2026-06-10
+* [LyricsX](https://github.com/ddddxxx/LyricsX) ⭐ 5,250 | 🐛 308 | 🌐 Swift | 📅 2026-07-22
 * [Statusfy](https://github.com/paulyoung/Statusfy) ⭐ 687 | 🐛 13 | 🌐 Objective-C | 📅 2020-08-14
 * [Tuneful](https://github.com/martinfekete10/Tuneful) ⭐ 539 | 🐛 40 | 📅 2026-10-06
 * [Spotify - now playing](https://github.com/davicorreiajr/spotify-now-playing) ⭐ 214 | 🐛 22 | 🌐 JavaScript | 📅 2023-08-12
@@ -357,7 +357,6 @@ If you find that an app is missing, that any of the links are broken, or that th
 * [YouTube Music as a menu bar app](https://github.com/sencerb88/ytmusic-mac) ⭐ 2 | 🐛 2 | 🌐 JavaScript | 📅 2023-10-23
 * [Berlin](https://github.com/woistkeller/Berlin) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2022-09-28
 * [Faveslist](https://github.com/rttll/faveslist-spotify) ⭐ 1 | 🐛 18 | 🌐 JavaScript | 📅 2023-01-06
-* [MelodyBox](https://github.com/coolhango/MelodyBox) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2025-04-29
 * [SkipSpotifyAds](https://github.com/ppkantorski/SkipSpotifyAds) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2022-10-21
 * [Glancify](https://github.com/suchtomwow/glancify) ⭐ 0 | 🐛 0 | 🌐 Swift | 📅 2018-03-12
 * [NowSpot](https://github.com/saivittalb/nowspot) ⭐ 0 | 🐛 0 | 🌐 Objective-C | 📅 2020-06-28
@@ -372,6 +371,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 * [Looking Glass for Spotify](https://apps.apple.com/us/app/looking-glass-for-spotify/id1629207903?mt=12)
 * [Looking Glass - Music Remote](https://apps.apple.com/us/app/looking-glass-music-remote/id1602004436)
 * [Lyric Fever](https://lyricfever.com)
+* [MelodyBox](https://github.com/coolhango/MelodyBox)
 * [Music Bar](https://musa11971.github.io/Music-Bar/)
 * [MusicBuddy](https://apps.apple.com/us/app/musicbuddy/id563706976?mt=12)
 * [NepTunes](https://micropixels.software/apps/neptunes)
@@ -566,8 +566,8 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ### Calendar
 
-* [Calendr](https://github.com/pakerwreah/Calendr) ⭐ 2,430 | 🐛 0 | 🌐 Swift | 📅 2026-11-03
-* [LunarBar](https://github.com/LunarBar-app/LunarBar) ⭐ 1,517 | 🐛 0 | 🌐 Swift | 📅 2026-10-26
+* [Calendr](https://github.com/pakerwreah/Calendr) ⭐ 2,430 | 🐛 0 | 🌐 Swift | 📅 2026-11-06
+* [LunarBar](https://github.com/LunarBar-app/LunarBar) ⭐ 1,516 | 🐛 0 | 🌐 Swift | 📅 2026-10-26
 * [Timestamp](https://github.com/mzdr/timestamp) ⚠️ Archived
 * [CornerCal](https://github.com/ekreutz/CornerCal) ⭐ 236 | 🐛 5 | 🌐 Swift | 📅 2020-05-03
 * [iCultus](https://github.com/djyde/iCultus) ⭐ 170 | 🐛 4 | 🌐 Vue | 📅 2016-01-19
@@ -739,8 +739,8 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ### Task Management
 
-* [Reminders Menu Bar](https://github.com/DamascenoRafael/reminders-menubar) ⭐ 4,007 | 🐛 44 | 🌐 Swift | 📅 2026-11-04
-* [Atea](https://github.com/pkamenarsky/atea) ⭐ 614 | 🐛 23 | 🌐 Clojure | 📅 2012-03-03
+* [Reminders Menu Bar](https://github.com/DamascenoRafael/reminders-menubar) ⭐ 4,008 | 🐛 44 | 🌐 Swift | 📅 2026-11-04
+* [Atea](https://github.com/pkamenarsky/atea) ⭐ 613 | 🐛 23 | 🌐 Clojure | 📅 2012-03-03
 * [Focused Task](https://github.com/RStankov/FocusedTask) ⭐ 149 | 🐛 9 | 🌐 TypeScript | 📅 2023-10-27
 * [Soon](https://github.com/dbilgili/Soon) ⭐ 58 | 🐛 2 | 🌐 JavaScript | 📅 2021-12-10
 * [Tasktile](https://github.com/jasonqiu0/Tasktile) ⭐ 22 | 🐛 0 | 🌐 Swift | 📅 2025-03-19 by [Jason Qiu](https://github.com/jasonqiu0) — Track tasks with a tiled Activity Graph — Free, open source
@@ -794,9 +794,9 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ### Timers & Stopwatches
 
-* [Tomato Bar](https://github.com/ivoronin/TomatoBar) ⭐ 3,584 | 🐛 48 | 🌐 Swift | 📅 2026-05-29
-* [Pomolectron](https://github.com/amitmerchant1990/pomolectron) ⭐ 639 | 🐛 22 | 🌐 JavaScript | 📅 2025-01-28
-* [Mater](https://github.com/jasonlong/mater) ⭐ 598 | 🐛 0 | 🌐 Swift | 📅 2026-10-01
+* [Tomato Bar](https://github.com/ivoronin/TomatoBar) ⭐ 3,585 | 🐛 48 | 🌐 Swift | 📅 2026-05-29
+* [Pomolectron](https://github.com/amitmerchant1990/pomolectron) ⭐ 640 | 🐛 22 | 🌐 JavaScript | 📅 2025-01-28
+* [Mater](https://github.com/jasonlong/mater) ⭐ 600 | 🐛 0 | 🌐 Swift | 📅 2026-10-01
 * [Timebox](https://github.com/visini/timebox/) ⭐ 118 | 🐛 6 | 🌐 Python | 📅 2023-04-25
 * [Timeglass](https://github.com/mountwebs/timeglass) ⭐ 101 | 🐛 1 | 🌐 Python | 📅 2024-07-09
 * [DropClock](https://github.com/WrkX/Dropclock/) ⭐ 70 | 🐛 3 | 🌐 Swift | 📅 2026-09-27 by [WrkX](https://github.com/WrkX) — Effortless Timers from Your Menu Bar
@@ -1006,7 +1006,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 ### Local System Status
 
 * [iGlance](https://github.com/iglance/iGlance) ⭐ 2,490 | 🐛 38 | 🌐 Swift | 📅 2023-08-20
-* [WhichSpace](https://github.com/gechr/WhichSpace) ⭐ 879 | 🐛 0 | 🌐 Swift | 📅 2026-11-02
+* [WhichSpace](https://github.com/gechr/WhichSpace) ⭐ 880 | 🐛 0 | 🌐 Swift | 📅 2026-11-02
 * [BatteryBoi](https://github.com/thebarbican19/BatteryBoi) ⭐ 868 | 🐛 33 | 🌐 Swift | 📅 2026-02-14
 * [Juice](https://github.com/brianmichel/Juice) ⭐ 769 | 🐛 8 | 🌐 Swift | 📅 2024-03-30
 * [ITraffic Monitor for Mac](https://github.com/foamzou/ITraffic-monitor-for-mac) ⭐ 670 | 🐛 1 | 🌐 Swift | 📅 2026-08-26
@@ -1547,7 +1547,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 * [TRex](https://github.com/amebalabs/TRex) ⭐ 1,951 | 🐛 9 | 🌐 Swift | 📅 2026-09-29
 * [TextGrabber2](https://github.com/TextGrabber2-app/TextGrabber2) ⭐ 239 | 🐛 1 | 🌐 Swift | 📅 2026-10-26
 * [Textinator](https://github.com/RhetTbull/textinator) ⭐ 205 | 🐛 4 | 🌐 Python | 📅 2024-05-04
-* [Snappo](https://github.com/luca-viola/snappo) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2024-10-25
+* [Snappo](https://github.com/luca-viola/snappo) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-06
 * [Aristocrat](https://apps.apple.com/us/app/aristocrat/id886910172?mt=12)
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id1543833156?mt=12)
 * [Easy Screen OCR](https://apps.apple.com/us/app/easy-screen-ocr/id1359663922?mt=12)
@@ -1567,7 +1567,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 #### Screenshots / Screen Recording
 
-* [Kap](https://github.com/wulkano/kap) ⭐ 19,416 | 🐛 260 | 🌐 TypeScript | 📅 2024-11-12
+* [Kap](https://github.com/wulkano/kap) ⭐ 19,414 | 🐛 260 | 🌐 TypeScript | 📅 2024-11-12
 * [Snapbar](https://github.com/stakes/Snapbar) ⭐ 4 | 🐛 2 | 🌐 Swift | 📅 2021-05-31
 * [Shotput](https://github.com/amussey/shotput/) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2018-06-13
 * [Any Recorder Lite](https://apps.apple.com/us/app/any-recorder-lite/id738913756?mt=12)
@@ -1663,7 +1663,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ### IoT
 
-* [BLEUnlock](https://github.com/ts1/BLEUnlock) ⭐ 4,523 | 🐛 98 | 🌐 Swift | 📅 2024-07-12
+* [BLEUnlock](https://github.com/ts1/BLEUnlock) ⭐ 4,522 | 🐛 98 | 🌐 Swift | 📅 2024-07-12
 * [ATV Desktop Remote](https://github.com/bsharper/atv-desktop-remote) ⭐ 594 | 🐛 48 | 🌐 JavaScript | 📅 2026-09-07
 * [HA Menu](https://github.com/codechimp-org/ha-menu/) ⭐ 501 | 🐛 9 | 🌐 Swift | 📅 2026-10-31
 * [QuickHue](https://github.com/danparsons/QuickHue) ⭐ 205 | 🐛 9 | 🌐 Objective-C | 📅 2016-12-26
@@ -1746,8 +1746,8 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ### Menubar Meta-Apps
 
-* [Ice](https://github.com/jordanbaird/Ice) ⭐ 29,964 | 🐛 452 | 🌐 Swift | 📅 2026-10-06
-* [SketchyBar](https://github.com/FelixKratz/SketchyBar) ⭐ 12,566 | 🐛 92 | 🌐 C | 📅 2026-10-18
+* [Ice](https://github.com/jordanbaird/Ice) ⭐ 29,974 | 🐛 454 | 🌐 Swift | 📅 2026-10-06
+* [SketchyBar](https://github.com/FelixKratz/SketchyBar) ⭐ 12,572 | 🐛 92 | 🌐 C | 📅 2026-10-18
 * [Dozer](https://github.com/Mortennn/Dozer) ⭐ 8,718 | 🐛 102 | 🌐 Swift | 📅 2023-11-30
 * [Menu Bar Splitter](https://github.com/jwhamilton99/menu-bar-splitter) ⭐ 164 | 🐛 3 | 🌐 Swift | 📅 2021-07-17
 * [Barbly](https://github.com/luke-clifton/barbly) ⭐ 15 | 🐛 0 | 🌐 Haskell | 📅 2026-08-12
@@ -1788,7 +1788,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 #### Plugin-Based Apps
 
-* [SwiftBar](https://github.com/swiftbar/SwiftBar) ⭐ 4,752 | 🐛 18 | 🌐 Swift | 📅 2026-09-29
+* [SwiftBar](https://github.com/swiftbar/SwiftBar) ⭐ 4,755 | 🐛 18 | 🌐 Swift | 📅 2026-09-29
 * [xbar](https://xbarapp.com)
 
 ### Privacy
@@ -1803,8 +1803,8 @@ If you find that an app is missing, that any of the links are broken, or that th
 ### Security
 
 * [Security Growler](https://github.com/pirate/security-growler) ⭐ 872 | 🐛 1 | 🌐 Python | 📅 2025-12-06
-* [swiftGuard](https://github.com/Lennolium/swiftGuard) ⭐ 471 | 🐛 6 | 🌐 Python | 📅 2025-02-10
-* [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 173 | 🐛 9 | 🌐 Swift | 📅 2026-10-26 by [Erik Nielsen](https://sorkila.com/) — Lock your Mac without putting it to sleep — Free, open source (MIT License)
+* [swiftGuard](https://github.com/Lennolium/swiftGuard) ⭐ 472 | 🐛 6 | 🌐 Python | 📅 2025-02-10
+* [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 174 | 🐛 9 | 🌐 Swift | 📅 2026-10-26 by [Erik Nielsen](https://sorkila.com/) — Lock your Mac without putting it to sleep — Free, open source (MIT License)
 * [OneTimeCopy](https://github.com/adama11/OneTimeCopy) ⭐ 3 | 🐛 4 | 🌐 Swift | 📅 2020-07-10
 * [BridgeBlock](https://gitlab.com/andrew_vanderbilt/bridgeblock)
 * [Enpass](https://www.enpass.io)
@@ -1829,13 +1829,13 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ### Settings
 
-* [BetterDisplay](https://github.com/waydabber/BetterDisplay) ⭐ 34,400 | 🐛 99 | 📅 2026-11-05
+* [BetterDisplay](https://github.com/waydabber/BetterDisplay) ⭐ 34,412 | 🐛 101 | 📅 2026-11-05
 * [Battery Charge Limiter](https://github.com/actuallymentor/battery) ⭐ 7,198 | 🐛 188 | 🌐 Shell | 📅 2026-02-25
-* [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) ⭐ 6,039 | 🐛 54 | 🌐 Swift | 📅 2026-11-05
+* [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) ⭐ 6,038 | 🐛 53 | 🌐 Swift | 📅 2026-11-05
 * [Bluesnooze](https://github.com/odlp/bluesnooze/) ⭐ 2,715 | 🐛 25 | 🌐 Swift | 📅 2024-02-19
-* [LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher) ⭐ 2,017 | 🐛 71 | 🌐 Swift | 📅 2026-06-07
-* [LinkLiar](https://github.com/halo/LinkLiar) ⭐ 1,493 | 🐛 0 | 🌐 Swift | 📅 2025-08-05
-* [Spaces Renamer](https://github.com/dado3212/spaces-renamer) ⭐ 1,235 | 🐛 1 | 🌐 Swift | 📅 2026-11-05
+* [LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher) ⭐ 2,018 | 🐛 71 | 🌐 Swift | 📅 2026-06-07
+* [LinkLiar](https://github.com/halo/LinkLiar) ⭐ 1,494 | 🐛 0 | 🌐 Swift | 📅 2025-08-05
+* [Spaces Renamer](https://github.com/dado3212/spaces-renamer) ⭐ 1,235 | 🐛 0 | 🌐 Swift | 📅 2026-11-05
 * [Doll](https://github.com/xiaogdgenuine/Doll) ⭐ 1,161 | 🐛 34 | 🌐 Swift | 📅 2023-12-19
 * [AppPolice](https://github.com/AppPolice/AppPolice) ⭐ 1,136 | 🐛 34 | 🌐 Objective-C | 📅 2023-09-06
 * [Nightfall](https://github.com/r-thomson/Nightfall) ⭐ 562 | 🐛 5 | 🌐 Swift | 📅 2024-02-29
@@ -1946,7 +1946,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 #### Browser Switching
 
-* [Finicky](https://github.com/johnste/finicky/) ⭐ 5,248 | 🐛 62 | 🌐 Go | 📅 2026-10-28
+* [Finicky](https://github.com/johnste/finicky/) ⭐ 5,252 | 🐛 66 | 🌐 Go | 📅 2026-10-28
 * [BrowserNow](https://github.com/robb-j/BrowserNow) ⭐ 1 | 🐛 2 | 🌐 Swift | 📅 2022-12-21
 * [BrowserSwitch](https://apps.apple.com/us/app/browserswitch/id1572202921?mt=12)
 * [OLW - Open Link With](https://apps.apple.com/us/app/olw-open-link-with/id1529988877?mt=12)
@@ -2020,7 +2020,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ### Shortcuts & Launchers
 
-* [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) ⭐ 6,039 | 🐛 54 | 🌐 Swift | 📅 2026-11-05
+* [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) ⭐ 6,038 | 🐛 53 | 🌐 Swift | 📅 2026-11-05
 * [Thor](https://github.com/gbammc/Thor) ⭐ 1,331 | 🐛 26 | 🌐 Swift | 📅 2024-09-21
 * [Verve](https://github.com/ParthJadhav/verve) ⭐ 861 | 🐛 24 | 🌐 Rust | 📅 2026-09-05
 * [CloudyTabs](https://github.com/josh-/CloudyTabs) ⚠️ Archived
@@ -2148,7 +2148,7 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 #### Translation
 
-* [Easydict](https://github.com/tisfeng/Easydict) ⭐ 15,207 | 🐛 197 | 🌐 Swift | 📅 2026-11-02
+* [Easydict](https://github.com/tisfeng/Easydict) ⭐ 15,224 | 🐛 200 | 🌐 Swift | 📅 2026-11-06
 * [BarTranslate](https://github.com/ThijmenDam/BarTranslate) ⭐ 241 | 🐛 7 | 🌐 Swift | 📅 2026-10-09
 * [Google Translate](https://github.com/dbilgili/GoogleTranslate) ⭐ 227 | 🐛 9 | 🌐 JavaScript | 📅 2022-04-21
 * [Translator](https://github.com/dbilgili/GoogleTranslate) ⭐ 227 | 🐛 9 | 🌐 JavaScript | 📅 2022-04-21
@@ -2353,4 +2353,4 @@ If you find that an app is missing, that any of the links are broken, or that th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
