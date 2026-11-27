@@ -127,7 +127,7 @@
                 "open_issues": 16,
                 "owner": "tonsky",
                 "repo": "AnyBar",
-                "stars": 6038,
+                "stars": 6037,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -436,7 +436,7 @@
                 "open_issues": 6,
                 "owner": "toolinbox",
                 "repo": "iHosts",
-                "stars": 154,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-11-26T16:05:54.402Z"
@@ -714,7 +714,7 @@
                 "open_issues": 18,
                 "owner": "max-mapper",
                 "repo": "monu",
-                "stars": 1101,
+                "stars": 1100,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -777,7 +777,7 @@
                 "id": 1385064931,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-25T21:39:18Z",
+                "last_commit": "2026-11-26T21:28:26Z",
                 "open_issues": 4,
                 "owner": "ateymoori",
                 "repo": "oh-my-android",
@@ -1238,7 +1238,7 @@
             {
               "node_type": "item",
               "title": "snippets",
-              "description": "Description needed [author][url] Pricing info needed",
+              "description": "Description needed Author info needed Pricing info needed",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1419,11 +1419,11 @@
                 "id": 36029706,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-25T18:52:44Z",
+                "last_commit": "2026-11-27T03:50:33Z",
                 "open_issues": 20,
                 "owner": "gitify-app",
                 "repo": "gitify",
-                "stars": 5403,
+                "stars": 5404,
                 "topics": [
                   "bitbucket",
                   "codeberg",
@@ -1969,10 +1969,10 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-06-10T08:58:49Z",
-                "open_issues": 546,
+                "open_issues": 547,
                 "owner": "kyleneideck",
                 "repo": "BackgroundMusic",
-                "stars": 19402,
+                "stars": 19405,
                 "topics": [
                   "audio",
                   "audio-utility",
@@ -2185,7 +2185,7 @@
                 "open_issues": 309,
                 "owner": "ddddxxx",
                 "repo": "LyricsX",
-                "stars": 5261,
+                "stars": 5262,
                 "topics": [
                   "apple-music",
                   "audirvana",
@@ -2291,7 +2291,7 @@
                 "open_issues": 4,
                 "owner": "shirkeharsh",
                 "repo": "mooziac",
-                "stars": 156,
+                "stars": 157,
                 "topics": [
                   "appkit",
                   "apple-silicon",
@@ -3107,7 +3107,7 @@
                 "open_issues": 22,
                 "owner": "SokoloffA",
                 "repo": "radiola",
-                "stars": 474,
+                "stars": 475,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -4012,7 +4012,7 @@
                 "open_issues": 0,
                 "owner": "pakerwreah",
                 "repo": "Calendr",
-                "stars": 2464,
+                "stars": 2465,
                 "topics": [
                   "agenda",
                   "calendar",
@@ -4205,8 +4205,8 @@
                 "id": 539131249,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2023-01-10T02:32:42Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-26T21:46:37Z",
+                "open_issues": 0,
                 "owner": "pawong",
                 "repo": "NextEvent",
                 "stars": 4,
@@ -4220,14 +4220,14 @@
               "description": "Description needed Author info needed Pricing info needed",
               "children": [],
               "repo_info": {
-                "archived": true,
+                "archived": false,
                 "description": "⏰ A better macOS menu bar clock.",
                 "homepage": "https://mzdr.github.io/timestamp/",
                 "id": 48299188,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2023-01-07T06:37:36Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-27T14:16:29Z",
+                "open_issues": 5,
                 "owner": "mzdr",
                 "repo": "timestamp",
                 "stars": 306,
@@ -4307,7 +4307,7 @@
               ],
               "description": null,
               "node_type": "group",
-              "title": "Meetings"
+              "title": "Upcoming Meetings"
             }
           ],
           "description": null,
@@ -4571,14 +4571,7 @@
                 ]
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Notes"
-        },
-        {
-          "children": [
+            },
             {
               "children": [
                 {
@@ -4610,7 +4603,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Notifications"
+          "title": "Notes"
         },
         {
           "children": [
@@ -4772,7 +4765,7 @@
                 "open_issues": 46,
                 "owner": "DamascenoRafael",
                 "repo": "reminders-menubar",
-                "stars": 4025,
+                "stars": 4027,
                 "topics": [
                   "apple-reminders",
                   "macos",
@@ -5496,7 +5489,7 @@
                 "open_issues": 48,
                 "owner": "ivoronin",
                 "repo": "TomatoBar",
-                "stars": 3608,
+                "stars": 3609,
                 "topics": [
                   "macos",
                   "menubar",
@@ -5538,7 +5531,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Minimalistic macOS application that helps to take breaks while using the computer",
+                    "description": "A lightweight macOS menu bar utility that reminds you to take regular breaks and protect your vision",
                     "homepage": null,
                     "id": 242723136,
                     "language": "Swift",
@@ -7082,8 +7075,8 @@
                 "id": 45073916,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-23T16:30:25Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-27T12:39:46Z",
+                "open_issues": 0,
                 "owner": "gechr",
                 "repo": "WhichSpace",
                 "stars": 894,
@@ -7847,7 +7840,7 @@
                 "open_issues": 1,
                 "owner": "andreaturchet",
                 "repo": "Qwen4Mac",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -9423,7 +9416,7 @@
                     "open_issues": 261,
                     "owner": "wulkano",
                     "repo": "Kap",
-                    "stars": 19437,
+                    "stars": 19438,
                     "topics": [
                       "aperture",
                       "app",
@@ -9733,7 +9726,7 @@
                 "open_issues": 97,
                 "owner": "ts1",
                 "repo": "BLEUnlock",
-                "stars": 4538,
+                "stars": 4540,
                 "topics": [
                   "ble",
                   "bluetooth-low-energy",
@@ -10393,6 +10386,48 @@
             },
             {
               "node_type": "item",
+              "title": "holzBar",
+              "description": "Menu bar manager with profiles, hotkeys, automation, widgets, and system readouts, forked from Ice holzcloud Free, open source (GPL-3.0 License)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Menu bar manager for macOS 14 to 27, a modern fork of Ice: hide, reveal and style menu bar items with profiles, groups, hotkeys, automation rules, scripts, widgets and a Shelf below the notch. GPL-3.0, zero dependencies, never online. Install with Homebrew.",
+                "homepage": "https://holzcloud.ch/holzbar",
+                "id": 1399633507,
+                "language": "Swift",
+                "license": "GPL-3.0",
+                "last_commit": "2026-11-27T13:48:59Z",
+                "open_issues": 1,
+                "owner": "holzcloud",
+                "repo": "holzBar",
+                "stars": 38,
+                "topics": [
+                  "automation",
+                  "bartender-alternative",
+                  "hidden-menu-bar",
+                  "homebrew-cask",
+                  "ice",
+                  "macos",
+                  "macos-27",
+                  "macos-app",
+                  "macos-menubar",
+                  "menu-bar",
+                  "menu-bar-manager",
+                  "menubar",
+                  "menubar-app",
+                  "notch",
+                  "notch-app",
+                  "open-source",
+                  "swift",
+                  "swiftui",
+                  "system-monitor",
+                  "widgets"
+                ]
+              },
+              "first_seen": "2026-11-27T15:54:03.147Z"
+            },
+            {
+              "node_type": "item",
               "title": "Ice",
               "description": "Description needed Author info needed Pricing info needed",
               "children": [],
@@ -10407,7 +10442,7 @@
                 "open_issues": 453,
                 "owner": "jordanbaird",
                 "repo": "Ice",
-                "stars": 30113,
+                "stars": 30118,
                 "topics": [
                   "macos",
                   "macos-app",
@@ -10460,7 +10495,7 @@
                 "open_issues": 89,
                 "owner": "FelixKratz",
                 "repo": "SketchyBar",
-                "stars": 12647,
+                "stars": 12645,
                 "topics": [
                   "bar",
                   "customization",
@@ -10497,7 +10532,7 @@
                 "id": 1265408951,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-26T01:13:44Z",
+                "last_commit": "2026-11-26T21:41:14Z",
                 "open_issues": 6,
                 "owner": "pedrovieira",
                 "repo": "Holeberry",
@@ -10667,7 +10702,7 @@
                     "open_issues": 13,
                     "owner": "swiftbar",
                     "repo": "SwiftBar",
-                    "stars": 4831,
+                    "stars": 4833,
                     "topics": [
                       "macos",
                       "productivity",
@@ -10997,7 +11032,7 @@
                 "id": 938252029,
                 "language": "Swift",
                 "license": null,
-                "last_commit": "2026-03-02T22:45:40Z",
+                "last_commit": "2026-11-26T23:03:05Z",
                 "open_issues": 2,
                 "owner": "whuan132",
                 "repo": "AIBattery-Charge-Limiter",
@@ -11080,7 +11115,7 @@
                 "open_issues": 191,
                 "owner": "actuallymentor",
                 "repo": "battery",
-                "stars": 7202,
+                "stars": 7201,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -11098,10 +11133,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-11-24T19:35:14Z",
-                "open_issues": 83,
+                "open_issues": 88,
                 "owner": "waydabber",
                 "repo": "BetterDisplay",
-                "stars": 34722,
+                "stars": 34733,
                 "topics": [
                   "4k",
                   "brightness",
@@ -11259,7 +11294,7 @@
                 "open_issues": 1,
                 "owner": "seenaburns",
                 "repo": "Desaturate",
-                "stars": 53,
+                "stars": 52,
                 "topics": [
                   "grayscale-display",
                   "menubar",
@@ -11411,7 +11446,7 @@
                 "open_issues": 8,
                 "owner": "AlonX2",
                 "repo": "LightsOut",
-                "stars": 140,
+                "stars": 141,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -11485,7 +11520,7 @@
                 "open_issues": 74,
                 "owner": "vincentneo",
                 "repo": "LosslessSwitcher",
-                "stars": 2035,
+                "stars": 2036,
                 "topics": [
                   "applemusic",
                   "audio",
@@ -11611,7 +11646,7 @@
                 "open_issues": 45,
                 "owner": "rokartur",
                 "repo": "BetterAudio",
-                "stars": 496,
+                "stars": 497,
                 "topics": [
                   "app",
                   "audio",
@@ -11807,7 +11842,7 @@
                 "open_issues": 0,
                 "owner": "mik3sw",
                 "repo": "OneClick",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "caffeinate",
                   "colors",
@@ -11839,7 +11874,7 @@
                 "open_issues": 27,
                 "owner": "jacklandrin",
                 "repo": "OnlySwitch",
-                "stars": 6089,
+                "stars": 6090,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -12067,7 +12102,7 @@
                 "open_issues": 0,
                 "owner": "dado3212",
                 "repo": "spaces-renamer",
-                "stars": 1239,
+                "stars": 1240,
                 "topics": [
                   "expose",
                   "macforge",
@@ -12245,7 +12280,7 @@
                     "open_issues": 57,
                     "owner": "johnste",
                     "repo": "finicky",
-                    "stars": 5313,
+                    "stars": 5315,
                     "topics": [
                       "browser",
                       "go",
@@ -12863,7 +12898,7 @@
                 "open_issues": 27,
                 "owner": "jacklandrin",
                 "repo": "OnlySwitch",
-                "stars": 6089,
+                "stars": 6090,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -12905,7 +12940,7 @@
                 "open_issues": 25,
                 "owner": "gbammc",
                 "repo": "Thor",
-                "stars": 1333,
+                "stars": 1335,
                 "topics": [
                   "mac",
                   "macos",
@@ -13207,11 +13242,11 @@
                     "id": 566323731,
                     "language": "Swift",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-25T15:21:46Z",
+                    "last_commit": "2026-11-27T10:19:21Z",
                     "open_issues": 212,
                     "owner": "tisfeng",
                     "repo": "Easydict",
-                    "stars": 15438,
+                    "stars": 15447,
                     "topics": [
                       "app",
                       "baidu",
@@ -13693,8 +13728,8 @@
                 "id": 1134420390,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-24T12:43:49Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-27T15:48:46Z",
+                "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "VPN-Bypass",
                 "stars": 140,
@@ -13962,10 +13997,10 @@
                 "language": "Swift",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-17T09:35:41Z",
-                "open_issues": 51,
+                "open_issues": 50,
                 "owner": "lwouis",
                 "repo": "alt-tab-macos",
-                "stars": 16575,
+                "stars": 16583,
                 "topics": [
                   "alt-tab",
                   "alttab",
@@ -13995,7 +14030,7 @@
                 "open_issues": 41,
                 "owner": "dmarcotte",
                 "repo": "easy-move-resize",
-                "stars": 1350,
+                "stars": 1351,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -14016,7 +14051,7 @@
                 "open_issues": 164,
                 "owner": "fikovnik",
                 "repo": "ShiftIt",
-                "stars": 5537,
+                "stars": 5536,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:57:01.726Z"
@@ -14366,7 +14401,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T16:05:54.402Z",
+    "last_updated": "2026-11-27T15:54:03.147Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sorted list of 1800+ macOS menubar apps",
@@ -14374,8 +14409,8 @@
       "id": 737710679,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-26T14:56:49Z",
-      "open_issues": 73,
+      "last_commit": "2026-11-26T16:30:55Z",
+      "open_issues": 70,
       "owner": "SKaplanOfficial",
       "repo": "Mac-Menubar-Megalist",
       "stars": 129,
@@ -14387,7 +14422,7 @@
         "menubar"
       ]
     },
-    "original_repository_sha": "ee031ec7220dd41ba94f2c84725097cb7961808d",
+    "original_repository_sha": "edc613d050163e7cdd8f7d841b9cab1c3064cb8b",
     "enhanced_repository": "enhansome/enhansome-Mac-Menubar-Megalist",
     "enhanced_repository_description": null,
     "title": "Awesome Mac Menubar Megalist with stars"
